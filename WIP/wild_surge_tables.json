@@ -1,0 +1,1219 @@
+{
+  "Mechanics": {
+    "Trigger": "Rolling doubles, triples, or more during spellcasting rolls.",
+    "Severity": {
+      "Doubles": "Nuisance Surge \u2014 minor or cosmetic effects.",
+      "Triples": "Moderate Surge \u2014 impactful but survivable effects.",
+      "Four or more of a kind": "Extreme Surge \u2014 dangerous, chaotic, potentially lethal effects."
+    },
+    "Usage": "When a Wild Surge is triggered, roll d100 on the corresponding table based on severity."
+  },
+  "Tables": {
+    "Nuisance Surges": [
+      {
+        "Roll": 1,
+        "Effect": "Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow. This effect lasts for one hour."
+      },
+      {
+        "Roll": 2,
+        "Effect": "You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face."
+      },
+      {
+        "Roll": 3,
+        "Effect": "Your skin turns a vibrant shade of blue. A remove curse spell can end this effect otherwise it changes back after 24 hours."
+      },
+      {
+        "Roll": 4,
+        "Effect": "An eye appears on your forehead for the next minute."
+      },
+      {
+        "Roll": 5,
+        "Effect": "Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. This effect lasts for one hour."
+      },
+      {
+        "Roll": 6,
+        "Effect": "You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth."
+      },
+      {
+        "Roll": 7,
+        "Effect": "Your hair falls out but grows back within 1 hour."
+      },
+      {
+        "Roll": 8,
+        "Effect": "For the next minute, you must shout when you speak."
+      },
+      {
+        "Roll": 9,
+        "Effect": "Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute."
+      },
+      {
+        "Roll": 10,
+        "Effect": "Daisies start growing in your hair, they can be plucked but will slowly grow back. This can be removed with a remove curse spell otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 11,
+        "Effect": "For the next minute every second sentence you say must rhyme with the previous sentence."
+      },
+      {
+        "Roll": 12,
+        "Effect": "You can't speak for the next minute, whenever you try, pink petals fall out of your mouth."
+      },
+      {
+        "Roll": 13,
+        "Effect": "For the next hour, you gain the ability to speak with plants as if you had cast speak with plants."
+      },
+      {
+        "Roll": 14,
+        "Effect": "Your eyes begin to change color with your mood, they become red if you're angry, blue if you're sad, green if you're happy, and otherwise are orange. The remove curse spell removes this effect otherwise it lasts for one hour."
+      },
+      {
+        "Roll": 15,
+        "Effect": "For the next minute you become invisible, but every other creature becomes invisible to you."
+      },
+      {
+        "Roll": 16,
+        "Effect": "You grow a beard made of leaves. Shaving removes this effect."
+      },
+      {
+        "Roll": 17,
+        "Effect": "You grow wooden antlers, they fall off after one hour."
+      },
+      {
+        "Roll": 18,
+        "Effect": "Your skin turns a vibrant shade of green. A remove curse spell removes this effect otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 19,
+        "Effect": "Your skin becomes completely translucent and your veins start faintly growing blue. A remove curse spell removes this effect otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 20,
+        "Effect": "Breadcrumbs appear behind you wherever you walk for one hour."
+      },
+      {
+        "Roll": 21,
+        "Effect": "Flower petals start falling from the sky for the next minute centered on your location."
+      },
+      {
+        "Roll": 22,
+        "Effect": "Flowers start spontaneously blooming within a 30 ft radius of you for the next hour."
+      },
+      {
+        "Roll": 23,
+        "Effect": "The clothes you are currently wearing turn bright pink for one hour."
+      },
+      {
+        "Roll": 24,
+        "Effect": "You shed a dim blue light within a 10 foot radius (even when invisible) for the next hour."
+      },
+      {
+        "Roll": 25,
+        "Effect": "You become extremely happy and filled with boundless enthusiasm for the next hour, no matter what."
+      },
+      {
+        "Roll": 26,
+        "Effect": "Tears start falling from your eyes for the next hour. They are not accompanied by any emotional change."
+      },
+      {
+        "Roll": 27,
+        "Effect": "You start dancing for one minute as if under the effect of Otto's Irresistible Dance."
+      },
+      {
+        "Roll": 28,
+        "Effect": "The clothes you are wearing become incredibly fancy and regal looking and start sparkling for one hour."
+      },
+      {
+        "Roll": 29,
+        "Effect": "You smell like lavender for 1d6 hours."
+      },
+      {
+        "Roll": 30,
+        "Effect": "All of your movements leave color trails for the next minute."
+      },
+      {
+        "Roll": 31,
+        "Effect": "Your jump distance becomes tripled for the next minute."
+      },
+      {
+        "Roll": 32,
+        "Effect": "Your cranium becomes transparent for the next minute and your brain begins to glow green. A remove curse spell removes this effect."
+      },
+      {
+        "Roll": 33,
+        "Effect": "You can no longer speak, but must sing whatever you say for the next 1d6 hours."
+      },
+      {
+        "Roll": 34,
+        "Effect": "Harmless bright sparks erupt from the caster's hands."
+      },
+      {
+        "Roll": 35,
+        "Effect": "You can only speak beast speech for the next minute."
+      },
+      {
+        "Roll": 36,
+        "Effect": "You repeat everything you say twice for 1 hour, you repeat everything you say twice for 1 hour [u/AegisAngel]"
+      },
+      {
+        "Roll": 37,
+        "Effect": ".minute 1 for backwards speak must You [u/AegisAngel]"
+      },
+      {
+        "Roll": 38,
+        "Effect": "The tip of your nose glows bright red for an hour. [u/AegisAngel]"
+      },
+      {
+        "Roll": 39,
+        "Effect": "Your butt flashes yellow on and off for 1 minute. [u/AegisAngel]"
+      },
+      {
+        "Roll": 40,
+        "Effect": "You can't speak a deliberate lie for the next minute. You are aware of this effect and can thus avoid answering questions to which you would normally respond with a lie. You can be evasive in your answers as long as it remains within the boundaries of the truth. [u/AegisAngel]"
+      },
+      {
+        "Roll": 41,
+        "Effect": "You can't speak a deliberate truth for the next minute. You are aware of this effect and can thus avoid answering questions to which you would normally respond with a truth. You can be evasive in your answers as long as it remains within the boundaries of the deception. [u/AegisAngel]"
+      },
+      {
+        "Roll": 42,
+        "Effect": "You fall asleep for 1d4 minutes. And may only be awakened early by a kiss from your true love. [u/AegisAngel]"
+      },
+      {
+        "Roll": 43,
+        "Effect": "You become very hungry for bugs and gain a frog mouth for an hour. [u/AegisAngel]"
+      },
+      {
+        "Roll": 44,
+        "Effect": "Steam pours from your ears with an accompanying whistling noise. [u/AegisAngel]"
+      },
+      {
+        "Roll": 45,
+        "Effect": "Thou must speaketh in a strange vernacular as if thou livest in Ye Old England (speak like you were in a Shakespeare play). [u/AegisAngel]"
+      },
+      {
+        "Roll": 46,
+        "Effect": "For the next 1d10 hours, a tiny celestial and fiend perch on your right and left shoulders, constantly advising you to perform various acts of good or evil. [u/scattercloud]"
+      },
+      {
+        "Roll": 47,
+        "Effect": "8 spectral goats appear in a ring centered on you. They remain adjacent to you at all times, moving as you do. They have an AC of 10 with 1 HP. When they are destroyed, they explode in a puff of smoke and sparkles. [u/scattercloud]"
+      },
+      {
+        "Roll": 48,
+        "Effect": "Your mouth and navel trade places, and you grow a fabulous mustache & beard around both. The Remove Curse spell can remove this effect otherwise it lasts for 1 hour. [u/scattercloud]"
+      },
+      {
+        "Roll": 49,
+        "Effect": "For 1 hour, you hover an inch off the ground. You can otherwise move normal, but you don't touch the ground. [u/scattercloud]"
+      },
+      {
+        "Roll": 50,
+        "Effect": "Anything you eat or drink for 2d12 hours afterwards tastes like blueberries and stains your tongue purple. [u/Sharianna]"
+      },
+      {
+        "Roll": 51,
+        "Effect": "Any water that touches your body for the next 1d4 days turns your skin blue. If you dry your skin it returns to its normal shade. [u/Sharianna]"
+      },
+      {
+        "Roll": 52,
+        "Effect": "You gain a tattoo of a smiley face the size of a gold coin somewhere on your body. Immediately after you look at it it moves to another random location on your body. It disappears if you don't look at it or for it for 1 day. [u/Sharianna]"
+      },
+      {
+        "Roll": 53,
+        "Effect": "For the next 1d10 days you know how to say \"to drink\" in a language understood by whoever you talk to. [u/Sharianna]"
+      },
+      {
+        "Roll": 54,
+        "Effect": "For the next 2d12 hours your hair changes to a random color every hour, starting by changing at the beginning of this effect."
+      },
+      {
+        "Roll": 55,
+        "Effect": "You grow a thick unibrow, which lasts for 1d6 hours before falling off. Shaving it causes this effect to end."
+      },
+      {
+        "Roll": 56,
+        "Effect": "Any bags you are holding shrink to the size of an apple. You may use an action to retrieve any items from the bag similar to a Bag of Holding, though the interior capacity of the bag remains the same. The items retain their normal size and properties. This effect ends after 2d12 hours."
+      },
+      {
+        "Roll": 57,
+        "Effect": "For the next hour you only speak in third person. If you already speak in third person you now must speak in first person."
+      },
+      {
+        "Roll": 58,
+        "Effect": "For the next 1d4 hours other creatures regard and perceive you as the opposite gender. Your gender does not change and you perceive no changes."
+      },
+      {
+        "Roll": 59,
+        "Effect": "You have uncontrollable gas for the next ten minutes."
+      },
+      {
+        "Roll": 60,
+        "Effect": "A dog suddenly appears near you. It immediately urinates on you and bolts away. This dog disappears after 6 minutes, the urine does not."
+      },
+      {
+        "Roll": 61,
+        "Effect": "The sound of poorly played bagpipes can be heard within a 15' radius of you for the next ten minutes."
+      },
+      {
+        "Roll": 62,
+        "Effect": "A very whiny disembodied voice can be heard commenting on your actions for the next hour within a 15' radius of you."
+      },
+      {
+        "Roll": 63,
+        "Effect": "For the next minute steam shoots out of your ears."
+      },
+      {
+        "Roll": 64,
+        "Effect": "For the next ten minutes, your speech is accompanied by smoke rings coming from your mouth."
+      },
+      {
+        "Roll": 65,
+        "Effect": "A spotlight from the ceiling or the sky follows you for the next ten minutes."
+      },
+      {
+        "Roll": 66,
+        "Effect": "For the next ten minutes your surface thoughts appear on your forehead as a shifting tattoo written in Common."
+      },
+      {
+        "Roll": 67,
+        "Effect": "For the next hour you forget everyone's name."
+      },
+      {
+        "Roll": 68,
+        "Effect": "For the next hour you leave behind two sets of footprints wherever you walk."
+      },
+      {
+        "Roll": 69,
+        "Effect": "For the next ten minutes a tiny rain cloud hovers directly over you raining constantly."
+      },
+      {
+        "Roll": 70,
+        "Effect": "For the next hour all the clothes you are wearing become skintight. This has no effect on mobility."
+      },
+      {
+        "Roll": 71,
+        "Effect": "Roll on the Reincarnate table. For the next hour you appear to be that race to yourself and those around you. This does not affect racial bonuses."
+      },
+      {
+        "Roll": 72,
+        "Effect": "For the next ten minutes you smell strongly of vinegar."
+      },
+      {
+        "Roll": 73,
+        "Effect": "For the next 1d4 hours, your shadows dance while no one is looking directly at it."
+      },
+      {
+        "Roll": 74,
+        "Effect": "Your hair changes color based on your mood. This effect ends when next you wash your hair. The remove curse spell can also end this effect."
+      },
+      {
+        "Roll": 75,
+        "Effect": "You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice for the next 1d4 hours."
+      },
+      {
+        "Roll": 76,
+        "Effect": "Your head becomes invisible for the next hour. You can still hear everything around you but no one can hear you or see your head. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 77,
+        "Effect": "When you try to speak your voice is instead the sound of a beautiful songbird. You can whistle any song you like to try to convey information to those around you. The effect lasts for an hour. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 78,
+        "Effect": "Your arms become very long and taffy-like, stretching to the floor for 1d4 hours. They are useable and have no ill effect on your combat or reach but look very out of control and silly, like one of those balloon guys outside a car dealership. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 79,
+        "Effect": "For the next 1d4 hours your gait is extremely odd, taking large steps followed by skips, marches, twirls, etc. There is very little pattern to it. It has no effect on your speed or stealth but is extremely noticeable. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 80,
+        "Effect": "For the next minute your body swells until you are completely spherical. As the spell comes to an end you are left with saggy extra skin that takes another 1d4 minutes to shrink back to normal. Your clothes are mostly unharmed but if you have buttons/clasps they mostly explode open. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 81,
+        "Effect": "For the next hour a grumpy disembodied voice follows you around and slings personal insults at you for the duration."
+      },
+      {
+        "Roll": 82,
+        "Effect": "For the next 24 hours your hair and clothes billow as though being blown by a strong wind. The effect is more heroic looking than caught in a tornado-looking. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 83,
+        "Effect": "For the next 1d4 hours you believe you are wearing an incredibly elegant ball gown, one that is slightly bulky and very expensive. Any time someone tries to tell you that you are NOT wearing an elegant ball gown you only hear \u201cThat is truly an amazingly elegant ball gown you\u2019re wearing\u201d. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 84,
+        "Effect": "Whenever you speak for the next 1d4 hours a loud clap of thunder and flash of lightning occur after you finish your thought, as if to ominously emphasize whatever you just said. This can be heard from 300 feet away. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 85,
+        "Effect": "You see dead people. For the next 24 hours you see ghosts wandering around that only you can see and talk with but cannot physically interact with. They don\u2019t know they\u2019re dead. Except the ones your party killed. They know. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 86,
+        "Effect": "You sprout large chicken wings that do not allow you to fly and flap quite vigorously, causing feathers to scatter wherever you go. They seem to grow through your clothes or armor without damaging them. This lasts for 1d4 hours. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 87,
+        "Effect": "You repeat everything the creature closest to you says for the next 10 minutes. You are still able to speak as well. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 88,
+        "Effect": "You now think you are the nearest intelligent creature to you when this takes effect. You will vigorously argue that you are the real [insert name] and match their mannerisms for the next 1d4+1 minutes. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 89,
+        "Effect": "You exchange consciousness with the nearest friendly creature for 10 minutes you assume the race, class, and features of the friendly creature and they do the same. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 90,
+        "Effect": "You treat a trinket that you own or small object near you as your \u201cprecious\u201d and act like Gollum, protecting it for the next 1d4 minutes. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 91,
+        "Effect": "For the next 10 minutes you follow up everything you say with a shrug and a cutesie sounding \u201cI\u2019m the [insert class], gotta love me!\u201d (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 92,
+        "Effect": "You speak with a squeaky, high pitched accent for the next 10 minutes. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 93,
+        "Effect": "Nothing happens. But the DM acts like something very interesting just occurred. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 94,
+        "Effect": "You recover all your expended spell slots."
+      },
+      {
+        "Roll": 95,
+        "Effect": "You lose the ability to hear for 1 day."
+      },
+      {
+        "Roll": 96,
+        "Effect": "Each creature within 30 feet of you takes 1d10 necrotic damage. You regain hit points equal to the sum of damage dealt."
+      },
+      {
+        "Roll": 97,
+        "Effect": "You are at the center of a darkness spell for 1 minute."
+      },
+      {
+        "Roll": 98,
+        "Effect": "You are frightened by the nearest creature until the end of your next turn."
+      },
+      {
+        "Roll": 99,
+        "Effect": "You are resistant to all damage types for 1 minute."
+      },
+      {
+        "Roll": 100,
+        "Effect": "A random creature within 60 feet of you is poisoned for 1d4 hours."
+      }
+    ],
+    "Moderate Surges": [
+      {
+        "Roll": 1,
+        "Effect": "You are surrounded by faint, ethereal music for the next minute."
+      },
+      {
+        "Roll": 2,
+        "Effect": "An illusion of a grand feast appears in front of you. You are unaware that this is an illusion. Any attempt to interact with the feast causes it to disappear in a cloud of smoke, with a sound of laughter."
+      },
+      {
+        "Roll": 3,
+        "Effect": "You are vulnerable to fiends for 1 hour. Such creatures gain advantage on attack rolls made against you."
+      },
+      {
+        "Roll": 4,
+        "Effect": "For any spell that requires a saving throw you cast within the next minute, the target gains advantage."
+      },
+      {
+        "Roll": 5,
+        "Effect": "For the next day, you have advantage on the next 2d6 rolls you make where you don't already have advantage."
+      },
+      {
+        "Roll": 6,
+        "Effect": "You are protected from Aberrations for 1 day. Such creatures cannot attack you or harm you unless they save a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 7,
+        "Effect": "You are protected from Beasts for 1 day. Such creatures cannot attack you or harm you unless they save a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 8,
+        "Effect": "You are vulnerable to Beasts for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 9,
+        "Effect": "You are vulnerable to Celestials for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 10,
+        "Effect": "You are vulnerable to Plants for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 11,
+        "Effect": "You are protected from Celestials for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 12,
+        "Effect": "For 2d6 days, you glow bright yellow. You have disadvantage on Stealth checks and anyone trying to perceive you has advantage on their Perception check."
+      },
+      {
+        "Roll": 13,
+        "Effect": "You are vulnerable to Aberrations for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 14,
+        "Effect": "For the next day, you are in the Border Ethereal near the location you were last in."
+      },
+      {
+        "Roll": 15,
+        "Effect": "You are protected from Elementals for one day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 16,
+        "Effect": "You are vulnerable to Undead for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 17,
+        "Effect": "You are vulnerable to Elementals for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 18,
+        "Effect": "You are protected from Fey for 1 day. Such ceatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 19,
+        "Effect": "You are protected from Fiends for one day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 20,
+        "Effect": "You are vulnerable to Fey for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 21,
+        "Effect": "You are protected from Plants for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 22,
+        "Effect": "You are protected from Undead for 1 day. Such creatures cannot attack you or harm you unless they succeed on a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 23,
+        "Effect": "Make a Wisdom saving throw against your own spell save DC. If you fail, you are polymorphed into giant dragonfly for 1 minute."
+      },
+      {
+        "Roll": 24,
+        "Effect": "Up to three creatures you choose within 30 feet of you take 4d10 lightning damage."
+      },
+      {
+        "Roll": 25,
+        "Effect": "You immediately gain 20 temporary hit points."
+      },
+      {
+        "Roll": 26,
+        "Effect": "You are the center of a silence spell for 1 minute."
+      },
+      {
+        "Roll": 27,
+        "Effect": "For the next day, any time you make an ability check, roll 1d6 and subtract the result."
+      },
+      {
+        "Roll": 28,
+        "Effect": "The next single target spell you cast within the next minute must target one additional target."
+      },
+      {
+        "Roll": 29,
+        "Effect": "For the next minute, every creature within 60 feet of you that hears you speak only hears insults as if you are casting vicious mockery at first level."
+      },
+      {
+        "Roll": 30,
+        "Effect": "For 1 minute, a duplicate of yourself appears in the nearest open space which can take actions independently, and goes on the same Initiative as you. However, any damage it takes as well as any spell slots or sorcery point it uses applies to you as well."
+      },
+      {
+        "Roll": 31,
+        "Effect": "A loud boom emanates from you. All creatures within 15 feet take 2d8 thunder damage and must make a Constitution saving throw against your spell save DC or be deafened for 1 minute."
+      },
+      {
+        "Roll": 32,
+        "Effect": "All creatures within 60 feet of you regain 2d8 hit points."
+      },
+      {
+        "Roll": 33,
+        "Effect": "You are immune to disease for 1 week."
+      },
+      {
+        "Roll": 34,
+        "Effect": "You stand at the center a circular wall of fire with a radius of 15 feet. Any creature in any of the spaces covered by this fire must make a Dexterity saving throw against your spell DC or take 5d8 fire damage. The wall of fire remains for 1 minute."
+      },
+      {
+        "Roll": 35,
+        "Effect": "Choose 1 permanent or triggered effect that has happened to you or somebody else that you\u2019ve received from this chart and remove it, even if it was beneficial."
+      },
+      {
+        "Roll": 36,
+        "Effect": "You permanently lose the ability to smell. This sense can be restored with a spell that removes curses such as remove curse."
+      },
+      {
+        "Roll": 37,
+        "Effect": "You gain the service of an arcane eye for 1 hour that does not require concentration."
+      },
+      {
+        "Roll": 38,
+        "Effect": "3d6 random gems appear near you, worth 50gp each."
+      },
+      {
+        "Roll": 39,
+        "Effect": "All allies within 20 feet of you gain a +2 bonus to attack and damage rolls on any melee weapon attack they make within the next minute."
+      },
+      {
+        "Roll": 40,
+        "Effect": "You stand at the center a circular wall of force with a radius of 15 feet. Any creature in any of the spaces covered by this wall must make a Dexterity saving throw against your spell DC or take 5d8 force damage. The wall remains for 1 minute."
+      },
+      {
+        "Roll": 41,
+        "Effect": "All creatures within 20 feet of you are knocked prone."
+      },
+      {
+        "Roll": 42,
+        "Effect": "All allies within 20 feet of you gain a +2 bonus to attack and damage rolls on any ranged weapon attack they make within the next minute."
+      },
+      {
+        "Roll": 43,
+        "Effect": "You are at the center of a 10-foot radius antimagic field that negates all magic equal to or less than your level for 1 hour and does not require concentration."
+      },
+      {
+        "Roll": 44,
+        "Effect": "All of your hair permanently falls out. Only a spell such as remove curse can end this effect."
+      },
+      {
+        "Roll": 45,
+        "Effect": "You gain the ability to speak one new language of your choice. However, you lose the ability to speak one language you already know."
+      },
+      {
+        "Roll": 46,
+        "Effect": "A 30-foot cube hypnotic pattern appears with you at the center. All creatures within the pattern must succeed on a Wisdom saving throw or fall asleep for 1 minute or until they take damage."
+      },
+      {
+        "Roll": 47,
+        "Effect": "You permanently forget one cantrip. A spell such as remove curse can restore your memory."
+      },
+      {
+        "Roll": 48,
+        "Effect": "You immediately take 2d10 psychic damage."
+      },
+      {
+        "Roll": 49,
+        "Effect": "You gain an additional spell slot of your highest level for 1 week."
+      },
+      {
+        "Roll": 50,
+        "Effect": "If you die within the next minute, you come back to life as if by the reincarnate spell."
+      },
+      {
+        "Roll": 51,
+        "Effect": "You permanently gain one spell slot of one level below your highest-level spell slot, but lose one 1st-level spell slot. A spell such as remove curse can end this effect."
+      },
+      {
+        "Roll": 52,
+        "Effect": "All creatures that can perceive you must make a Wisdom saving throw against your spell save DC or be frightened of you."
+      },
+      {
+        "Roll": 53,
+        "Effect": "You gain the service of an arcane sword that does not require concentration until your next short or long rest."
+      },
+      {
+        "Roll": 54,
+        "Effect": "You permanently gain one cantrip. A spell such as remove curse can end this effect."
+      },
+      {
+        "Roll": 55,
+        "Effect": "All allies within 20 feet of you get gain a -2 penalty on attack and damage rolls for any melee attack they make in the next minute."
+      },
+      {
+        "Roll": 56,
+        "Effect": "All allies within 20 feet of you heal up to 3d8 hit points."
+      },
+      {
+        "Roll": 57,
+        "Effect": "You lose the ability to see for 1 day. During this time, you have the blinded condition."
+      },
+      {
+        "Roll": 58,
+        "Effect": "You gain the service of a phantom steed for 1 week."
+      },
+      {
+        "Roll": 59,
+        "Effect": "Make a Constitution saving throw against your spell save DC. If you fail, you are stunned for 1 minute."
+      },
+      {
+        "Roll": 60,
+        "Effect": "All creatures within 20 feet of you, including you, must make a Dexterity save against your spell save DC or be affected by a faerie fire spell."
+      },
+      {
+        "Roll": 61,
+        "Effect": "Permanently increase one ability score of your choice by 1 point. Permanently decrease a different ability score of your choice by 1 point. A spell such as remove curse can end this effect."
+      },
+      {
+        "Roll": 62,
+        "Effect": "You gain proficiency in one tool or weapon type you don\u2019t already have for 1 day."
+      },
+      {
+        "Roll": 63,
+        "Effect": "Gain the sympathy effects of the antipathy/sympathy spell for 3d6 days."
+      },
+      {
+        "Roll": 64,
+        "Effect": "All allies within 20 feet of you gain a -2 penalty to attack and damage rolls for any ranged attack they make within the next minute."
+      },
+      {
+        "Roll": 65,
+        "Effect": "For one minute, any spell with a casting time of 1 action can be cast as a bonus action."
+      },
+      {
+        "Roll": 66,
+        "Effect": "The next time you cast a spell, do not roll on this chart."
+      },
+      {
+        "Roll": 67,
+        "Effect": "For the next day, you gain proficiency in all skills that you are not already proficient in."
+      },
+      {
+        "Roll": 68,
+        "Effect": "The next time you cast a spell, roll twice on this chart. Both effects will apply."
+      },
+      {
+        "Roll": 69,
+        "Effect": "Gain the antipathy effects of the antipathy/sympathy spell for 3d6 days."
+      },
+      {
+        "Roll": 70,
+        "Effect": "All creatures within 30 feet of you must make a Wisdom saving throw. Any creature immune to magical sleep automatically succeeds on its saving throw. Those that fail fall asleep for 1d6 minutes."
+      },
+      {
+        "Roll": 71,
+        "Effect": "All your allies within 20 feet of you gain a +2 bonus to their AC for 1 minute."
+      },
+      {
+        "Roll": 72,
+        "Effect": "You gain two spell slots at your second-highest level for 1 week."
+      },
+      {
+        "Roll": 73,
+        "Effect": "For the next day, any time you make an ability check, roll 1d6 and add the result."
+      },
+      {
+        "Roll": 74,
+        "Effect": "All allies within 30 feet of you gain a -2 penalty to their AC for 1 minute."
+      },
+      {
+        "Roll": 75,
+        "Effect": "You jump forward in time exactly 1 minute, for 1 minute. From the perspective of everyone else, you cease to exist during that time."
+      },
+      {
+        "Roll": 76,
+        "Effect": "All spells you cast within the next minute automatically fail."
+      },
+      {
+        "Roll": 77,
+        "Effect": "Roll a d10. Your height changes by a number of inches equal to the roll. If the roll is odd, you shrink. If the roll is even, you grow. This effect lasts for one hour."
+      },
+      {
+        "Roll": 78,
+        "Effect": "You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face."
+      },
+      {
+        "Roll": 79,
+        "Effect": "Your skin turns a vibrant shade of blue. A remove curse spell can end this effect otherwise it changes back after 24 hours."
+      },
+      {
+        "Roll": 80,
+        "Effect": "An eye appears on your forehead for the next minute."
+      },
+      {
+        "Roll": 81,
+        "Effect": "Roll a d10. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. This effect lasts for one hour."
+      },
+      {
+        "Roll": 82,
+        "Effect": "You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth."
+      },
+      {
+        "Roll": 83,
+        "Effect": "Your hair falls out but grows back within 1 hour."
+      },
+      {
+        "Roll": 84,
+        "Effect": "For the next minute, you must shout when you speak."
+      },
+      {
+        "Roll": 85,
+        "Effect": "Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute."
+      },
+      {
+        "Roll": 86,
+        "Effect": "Daisies start growing in your hair, they can be plucked but will slowly grow back. This can be removed with a remove curse spell otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 87,
+        "Effect": "For the next minute every second sentence you say must rhyme with the previous sentence."
+      },
+      {
+        "Roll": 88,
+        "Effect": "You can't speak for the next minute, whenever you try, pink petals fall out of your mouth."
+      },
+      {
+        "Roll": 89,
+        "Effect": "For the next hour, you gain the ability to speak with plants as if you had cast speak with plants."
+      },
+      {
+        "Roll": 90,
+        "Effect": "Your eyes begin to change color with your mood, they become red if you're angry, blue if you're sad, green if you're happy, and otherwise are orange. The remove curse spell removes this effect otherwise it lasts for one hour."
+      },
+      {
+        "Roll": 91,
+        "Effect": "For the next minute you become invisible, but every other creature becomes invisible to you."
+      },
+      {
+        "Roll": 92,
+        "Effect": "You grow a beard made of leaves. Shaving removes this effect."
+      },
+      {
+        "Roll": 93,
+        "Effect": "You grow wooden antlers, they fall off after one hour."
+      },
+      {
+        "Roll": 94,
+        "Effect": "Your skin turns a vibrant shade of green. A remove curse spell removes this effect otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 95,
+        "Effect": "Your skin becomes completely translucent and your veins start faintly growing blue. A remove curse spell removes this effect otherwise the effect lasts for one hour."
+      },
+      {
+        "Roll": 96,
+        "Effect": "Breadcrumbs appear behind you wherever you walk for one hour."
+      },
+      {
+        "Roll": 97,
+        "Effect": "Flower petals start falling from the sky for the next minute centered on your location."
+      },
+      {
+        "Roll": 98,
+        "Effect": "Flowers start spontaneously blooming within a 30 ft radius of you for the next hour."
+      },
+      {
+        "Roll": 99,
+        "Effect": "The clothes you are currently wearing turn bright pink for one hour."
+      },
+      {
+        "Roll": 100,
+        "Effect": "You shed a dim blue light within a 10 foot radius (even when invisible) for the next hour."
+      }
+    ],
+    "Extreme Surges": [
+      {
+        "Roll": 1,
+        "Effect": "You are protected from Beasts for 1 day. Such creatures cannot attack you or harm you unless they save a Charisma saving throw against your spell save DC."
+      },
+      {
+        "Roll": 2,
+        "Effect": "You turn into a potted plant until the start of your next turn in combat, otherwise this effect lasts one minute. While a plant, you are incapacitated and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts."
+      },
+      {
+        "Roll": 3,
+        "Effect": "If you die within the next minute, you come back to life as if by the reincarnate spell."
+      },
+      {
+        "Roll": 4,
+        "Effect": "You transform into an empty wooden chest for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 5,
+        "Effect": "You transform into an iron statue of yourself for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 6,
+        "Effect": "A fireball explodes with you at the center. You and each creature within 20 feet of you who must make a Dexterity saving throw using your spell save DC, taking 5d6 fire damage on a failed save, or half as much damage on a successful one."
+      },
+      {
+        "Roll": 7,
+        "Effect": "Teleport 1000 feet upwards immediately. If you are falling at the end of your next turn (or six seconds) you teleport back to where you began. If there is no available space 1000 feet upwards this effect does not occur."
+      },
+      {
+        "Roll": 8,
+        "Effect": "A demon whose CR is equal to your level appears near you. Make a Charisma saving throw against your spell save DC. If you make it, the demon is subservient, otherwise, it is hostile. The demon, if not banished or defeated, vanishes after 1 day."
+      },
+      {
+        "Roll": 9,
+        "Effect": "You transform into a stone statue of yourself for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 10,
+        "Effect": "You can't speak a deliberate lie for the next minute. You are aware of this effect and can thus avoid answering questions to which you would normally respond with a lie. You can be evasive in your answers as long as it remains within the boundaries of the truth. [u/AegisAngel]"
+      },
+      {
+        "Roll": 11,
+        "Effect": "You transform into a large empty barrel for 1 minute, during which time you considered petrified."
+      },
+      {
+        "Roll": 12,
+        "Effect": "You teleport to an alternate plane, then return to the location where you started after 1 minute."
+      },
+      {
+        "Roll": 13,
+        "Effect": "For the next minute your body swells until you are completely spherical. As the spell comes to an end you are left with saggy extra skin that takes another 1d4 minutes to shrink back to normal. Your clothes are mostly unharmed but if you have buttons/clasps they mostly explode open. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 14,
+        "Effect": "The next time you fall below 0 hit points within the next month, you automatically fail your first death saving throw."
+      },
+      {
+        "Roll": 15,
+        "Effect": "You speak in a demonic voice for the next 10 minutes. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 16,
+        "Effect": "Make a Wisdom saving throw against your own spell save DC. If you fail, you are polymorphed into giant dragonfly for 1 minute."
+      },
+      {
+        "Roll": 17,
+        "Effect": "A very whiny disembodied voice can be heard commenting on your actions for the next hour within a 15' radius of you."
+      },
+      {
+        "Roll": 18,
+        "Effect": "You grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode out from your face."
+      },
+      {
+        "Roll": 19,
+        "Effect": "You can only speak beast speech for the next minute."
+      },
+      {
+        "Roll": 20,
+        "Effect": "For the next hour a grumpy disembodied voice follows you around and slings personal insults at you for the duration."
+      },
+      {
+        "Roll": 21,
+        "Effect": "You transform into a stuffed toy resembling yourself for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 22,
+        "Effect": "8 spectral goats appear in a ring centered on you. They remain adjacent to you at all times, moving as you do. They have an AC of 10 with 1 HP. When they are destroyed, they explode in a puff of smoke and sparkles. [u/scattercloud]"
+      },
+      {
+        "Roll": 23,
+        "Effect": "You transform into a marble statue of yourself for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 24,
+        "Effect": "You transform into a medium-sized potted plant for 1 minute, during which time you are considered petrified."
+      },
+      {
+        "Roll": 25,
+        "Effect": "You can't speak a deliberate truth for the next minute. You are aware of this effect and can thus avoid answering questions to which you would normally respond with a truth. You can be evasive in your answers as long as it remains within the boundaries of the deception. [u/AegisAngel]"
+      },
+      {
+        "Roll": 26,
+        "Effect": "You are vulnerable to Beasts for 1 hour. Such creatures gain advantage when attacking you."
+      },
+      {
+        "Roll": 27,
+        "Effect": "You immediately drop to 0 hit points."
+      },
+      {
+        "Roll": 28,
+        "Effect": "You teleport up to 60 feet to an unoccupied space that you can see."
+      },
+      {
+        "Roll": 29,
+        "Effect": "You are transformed into a frog. You are able to talk in a croaking voice and if you are a magic user you can still cast spells. The spell ends if you take any damage or after 1 hour. (u/Zigzagcontestedshot)"
+      },
+      {
+        "Roll": 30,
+        "Effect": "Make a Wisdom saving throw against your own spell save DC. If you fail, you are transformed into a raven for 1 minute, as if by a polymorph spell."
+      },
+      {
+        "Roll": 31,
+        "Effect": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a cat for 1 minute, as if by a polymorph spell."
+      },
+      {
+        "Roll": 32,
+        "Effect": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a wolf for 1 minute, as if by a polymorph spell."
+      },
+      {
+        "Roll": 33,
+        "Effect": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a giant spider for 1 minute, as if by the polymorph spell."
+      },
+      {
+        "Roll": 34,
+        "Effect": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a giant rabbit for 1 minute, as if by the polymorph"
+      },
+      {
+        "Roll": 35,
+        "Effect": "Make a Wisdom saving throw against your spell save DC. If you fail, you are transformed into a sheep for 1 minute, as if by the polymorph spell."
+      },
+      {
+        "Roll": 36,
+        "Effect": "You are instantly petrified. Only a wish or similarly powerful magic can restore you."
+      },
+      {
+        "Roll": 37,
+        "Effect": "A rift to the Negative Energy Plane opens at your feet. Everyone within 30 feet takes 6d6 damage (Save vs. Death for half)."
+      },
+      {
+        "Roll": 38,
+        "Effect": "You explode in a burst of raw magical energy. You are reduced to 0 HP and everyone within 20 feet must save vs. Spell or take 4d10 damage."
+      },
+      {
+        "Roll": 39,
+        "Effect": "A demon claw rips through the Veil and pulls you into another plane. No trace remains."
+      },
+      {
+        "Roll": 40,
+        "Effect": "You become a magnet for magical energy. All spells within 100 feet automatically target you for 1 minute."
+      },
+      {
+        "Roll": 41,
+        "Effect": "You are duplicated\u2014there are now two of you, and both believe they are the real one."
+      },
+      {
+        "Roll": 42,
+        "Effect": "All metal on your person becomes molten for 1 round. Take 1d6 damage per metal item worn or carried."
+      },
+      {
+        "Roll": 43,
+        "Effect": "A reality quake warps the battlefield. Gravity shifts 90 degrees for 1 minute."
+      },
+      {
+        "Roll": 44,
+        "Effect": "Your soul briefly leaves your body. You fall unconscious for 1d4 rounds, but gain a terrifying vision."
+      },
+      {
+        "Roll": 45,
+        "Effect": "You are possessed by a malevolent Veil entity for 1d6 rounds. You lose control of your actions."
+      },
+      {
+        "Roll": 46,
+        "Effect": "A rift opens in reality\u2014everyone within 60 ft. must Save vs Spell or be pulled into a nightmare dimension for 1d4 rounds."
+      },
+      {
+        "Roll": 47,
+        "Effect": "You become incorporeal for 1 minute. You cannot interact with the world, but neither can anything affect you."
+      },
+      {
+        "Roll": 48,
+        "Effect": "The sky cracks open with a psychic scream\u2014everyone in line of sight must Save vs Spell or be deafened and disoriented."
+      },
+      {
+        "Roll": 49,
+        "Effect": "Your body collapses into ash, but your soul remains hovering for 1d6 rounds. If not restored, you are gone forever."
+      },
+      {
+        "Roll": 50,
+        "Effect": "A creature from beyond the Veil takes your place. It mimics you perfectly and believes it *is* you."
+      },
+      {
+        "Roll": 51,
+        "Effect": "Your casting creates a permanent Veilscar in the area. Magic here now behaves unpredictably (DM rolls 1d10 for any spell)."
+      },
+      {
+        "Roll": 52,
+        "Effect": "You split into two identical versions of yourself. One is real. The other is...wrong."
+      },
+      {
+        "Roll": 53,
+        "Effect": "You become a beacon for the dead. Undead creatures are drawn to you uncontrollably for the next 24 hours."
+      },
+      {
+        "Roll": 54,
+        "Effect": "The Veil pulls you partially into another reality. You phase in and out for 1d10 rounds, losing turns on a 1\u20132 each round."
+      },
+      {
+        "Roll": 55,
+        "Effect": "All magic within 300 feet is nullified for 1 minute. You are at the epicenter and marked with arcane sigils."
+      },
+      {
+        "Roll": 56,
+        "Effect": "Your body explodes into hundreds of shadow-clones. They vanish in 1d4 rounds, but cause mass confusion."
+      },
+      {
+        "Roll": 57,
+        "Effect": "The ground beneath you collapses into a void pit. You fall for what feels like hours, then reappear, shaken."
+      },
+      {
+        "Roll": 58,
+        "Effect": "You swap bodies with a nearby creature for 1d6 rounds. You retain your mind, but are disoriented."
+      },
+      {
+        "Roll": 59,
+        "Effect": "Reality bends. You and your allies switch places randomly within 100 feet."
+      },
+      {
+        "Roll": 60,
+        "Effect": "A black sun appears overhead for 1 minute. All healing is reversed during this time."
+      },
+      {
+        "Roll": 61,
+        "Effect": "You enter a feedback loop with the Veil. For 1d4 rounds, you cast the same spell involuntarily each round."
+      },
+      {
+        "Roll": 62,
+        "Effect": "A spectral army marches through the area. They do not attack, but their presence chills all life. Save or lose 1d6 STR."
+      },
+      {
+        "Roll": 63,
+        "Effect": "All metal within 60 ft. instantly rusts to uselessness."
+      },
+      {
+        "Roll": 64,
+        "Effect": "The Veil screams. All spellcasters in the area lose 1d4 from their dice pool until they rest."
+      },
+      {
+        "Roll": 65,
+        "Effect": "You age 2d10 years. This is permanent unless reversed by magic."
+      },
+      {
+        "Roll": 66,
+        "Effect": "You are erased from memory. Everyone forgets you existed for 1 hour."
+      },
+      {
+        "Roll": 67,
+        "Effect": "You swap languages randomly for 24 hours. Communication becomes extremely difficult."
+      },
+      {
+        "Roll": 68,
+        "Effect": "You fall into a coma and begin muttering secrets of the universe in an unknown tongue."
+      },
+      {
+        "Roll": 69,
+        "Effect": "The area is trapped in a moment. No one can act except you for 1 round\u2014but all your rolls are at -4."
+      },
+      {
+        "Roll": 70,
+        "Effect": "The moon turns blood red. A local curse takes root (DM defines it)."
+      },
+      {
+        "Roll": 71,
+        "Effect": "A planar echo replaces your voice. You speak only in the tongue of outer realms for 1 day."
+      },
+      {
+        "Roll": 72,
+        "Effect": "Your limbs stretch and contort painfully. You suffer -2 DEX and move at half speed for 1d6 hours."
+      },
+      {
+        "Roll": 73,
+        "Effect": "An ethereal doppelg\u00e4nger of your attacker appears and begins attacking them."
+      },
+      {
+        "Roll": 74,
+        "Effect": "You can see 10 seconds into the future\u2014but are stunned every other round for 1 minute."
+      },
+      {
+        "Roll": 75,
+        "Effect": "A circle of runes appears around you. No one can enter or leave for 1d4 rounds."
+      },
+      {
+        "Roll": 76,
+        "Effect": "The sun dims. All magic becomes unstable\u2014casters must Save vs Spell to cast for 1 minute."
+      },
+      {
+        "Roll": 77,
+        "Effect": "You flicker between this world and another. Each round, roll 1d6: on a 1, you vanish for the round."
+      },
+      {
+        "Roll": 78,
+        "Effect": "You become the center of a magnetic anomaly\u2014metal objects fly toward you dangerously for 1 minute."
+      },
+      {
+        "Roll": 79,
+        "Effect": "A massive eye opens in the sky and watches the battlefield. Everyone must Save vs Spell or flee in terror."
+      },
+      {
+        "Roll": 80,
+        "Effect": "You grow wings made of shadow. You can fly for 1 minute, but take 2d10 damage when they vanish."
+      },
+      {
+        "Roll": 81,
+        "Effect": "All animals within 1 mile howl or flee. Something has noticed you."
+      },
+      {
+        "Roll": 82,
+        "Effect": "The ground bleeds beneath your feet. Anyone standing nearby takes 1d6 damage per round."
+      },
+      {
+        "Roll": 83,
+        "Effect": "You cough up ink. You cannot speak clearly for 1 hour."
+      },
+      {
+        "Roll": 84,
+        "Effect": "A halo of fire appears above you. Enemies gain +2 to hit you for 1 hour."
+      },
+      {
+        "Roll": 85,
+        "Effect": "You swap alignments with the nearest creature for 1 day."
+      },
+      {
+        "Roll": 86,
+        "Effect": "All food and drink within 1 mile rots instantly."
+      },
+      {
+        "Roll": 87,
+        "Effect": "Your shadow becomes sentient and hostile."
+      },
+      {
+        "Roll": 88,
+        "Effect": "You scream in a language you've never known. All intelligent beings within 60 feet take 1d6 psychic damage."
+      },
+      {
+        "Roll": 89,
+        "Effect": "A ghostly parade of forgotten kings passes through the area. Each creature must Save vs Spell or kneel."
+      },
+      {
+        "Roll": 90,
+        "Effect": "A minor god notices you. The next spell you cast is empowered\u2014but causes a permanent Veilscar."
+      },
+      {
+        "Roll": 91,
+        "Effect": "You fuse briefly with another being. Your minds are connected for 1 hour."
+      },
+      {
+        "Roll": 92,
+        "Effect": "An arcane beacon lights the sky above you. You are visible to all scrying for 24 hours."
+      },
+      {
+        "Roll": 93,
+        "Effect": "The wind whispers secrets to you\u2014but you forget your own name until restored by magic."
+      },
+      {
+        "Roll": 94,
+        "Effect": "A ring of black fire surrounds you. Crossing it causes 2d8 fire damage."
+      },
+      {
+        "Roll": 95,
+        "Effect": "All light sources within 100 feet extinguish. Only magical darkness remains."
+      },
+      {
+        "Roll": 96,
+        "Effect": "You are cursed to weep blood any time you cast for the next 24 hours."
+      },
+      {
+        "Roll": 97,
+        "Effect": "The Veil anchors you in place. You cannot move for 1 minute, but your spells are at +1 level."
+      },
+      {
+        "Roll": 98,
+        "Effect": "Your reflection in mirrors begins acting independently."
+      },
+      {
+        "Roll": 99,
+        "Effect": "A storm cloud follows you for 1d4 days, randomly striking nearby things with lightning."
+      },
+      {
+        "Roll": 100,
+        "Effect": "You can no longer lie for 24 hours."
+      }
+    ]
+  }
+}

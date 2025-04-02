@@ -1,0 +1,440 @@
+{
+  "info": {
+    "author": "Brandon Mathis",
+    "version": "1.0",
+    "campaign": "Darkspyre Campaign World",
+    "version_date": "01-Apr-2025"
+  },
+  "Big Picture": "The rise and fall of ancient human empires. An advanced technological civilization collapsed after a cataclysm. The current world is post-collapse, fractured into small fiefdoms and city-states. Magic now exists, rare and powerful, but disrupts electricity and reality.",
+  "Bookend History": {
+    "Start": "Humanity rises to dominance through advanced technology.",
+    "End": "A new age begins in the ashes of the Sundering, with scattered powers vying for control over a magic-tainted world."
+  },
+  "Palette": {
+    "Yes": [
+      "Lost technology",
+      "Ruins of the old world",
+      "Madness-inducing magic",
+      "Isolated city-states",
+      "Ancient AI remnants",
+      "Folk horror",
+      "Post-apocalyptic medievalism"
+    ],
+    "No": [
+      "Celestial and Demonic themes",
+      "Space travel",
+      "Heaven, Hell, angels and demons in the literal sense"
+    ]
+  },
+  "Periods": [
+    {
+      "Tone": "Light",
+      "name": "Age of Harmony",
+      "theme": "A time of learning, growth, technological wonder, and abundance.",
+      "order": 1,
+      "tone": "Light",
+      "tags": [
+        "ancient",
+        "technology"
+      ]
+    },
+    {
+      "Tone": "Dark",
+      "name": "Dawn of the Synthetics",
+      "theme": "A time of awakening of AI and its struggles for dominance.",
+      "order": 2,
+      "tone": "Light",
+      "tags": []
+    },
+    {
+      "Tone": "Dark",
+      "name": "Protocol Wars",
+      "theme": "AI rebellion against humanity leads to widespread warfare.",
+      "order": 3,
+      "tone": "Dark",
+      "tags": []
+    },
+    {
+      "Tone": "Dark",
+      "name": "The Sundering",
+      "theme": "The cataclysmic collapse of the technological age, the global power grid is shut down in desperation.",
+      "order": 4,
+      "tone": "Dark",
+      "tags": [
+        "Cataclysm"
+      ]
+    },
+    {
+      "Tone": "Wondrous, Grim",
+      "name": "After the Sundering",
+      "theme": "A fragmented world where magic emerges and society reverts to medieval forms. Wildlands dominate outside city-state zones.",
+      "order": 5,
+      "tone": "Light",
+      "tags": []
+    }
+  ],
+  "Events": [
+    {
+      "Period": "Protocol Wars",
+      "Event": "Humanity shuts down the entire powergrid in an attempt to stop the AI.",
+      "Tone": "Desperate"
+    },
+    {
+      "Period": "The Sundering",
+      "Event": "A foreign celestial object crashes into the world, rupturing reality and making magic possible.",
+      "Tone": "Apocalyptic"
+    },
+    {
+      "name": "The Silent Accord signed by the Nine Techno-Kings",
+      "period": "Age of Harmony",
+      "description": "Little is known, but ancient texts suggest this shaped the destiny of empires."
+    },
+    {
+      "name": "The first usage of Reality Glass is recorded",
+      "period": "Age of Harmony",
+      "description": "Little is known, but ancient texts suggest this shaped the destiny of empires."
+    }
+  ],
+  "Cultural Details": {
+    "Magic Users": "Feared and outcast. Most go mad from the voices, whispers, and unseen forces they feel pressing upon them.",
+    "Technology": "Electricity is unreliable or non-functional due to magical interference. Society relies on manpower, water power, and low-tech mechanics.",
+    "Governance": "City-states dominate, controlling roughly a day's march in all directions. Beyond that, territory is wild, with semi-autonomous villages.",
+    "Language and Culture": "French, English, and Germanic influences dominate; varying by region."
+  },
+  "City-States": [
+    {
+      "Name": "Lichtenholt",
+      "Cultural Flavor": "Germanic dominant with influences of French chivalry and English law.",
+      "Starting Location": true
+    }
+  ],
+  "Regions": [
+    {
+      "Region Name": "The Environs of Lichtenholt",
+      "Radius": "50 miles",
+      "Features": [
+        {
+          "Name": "Vault 7B",
+          "Terrain": "Cracked Highlands",
+          "Resource": "Magical leyline turbulence",
+          "Threat": "Unstable reality zones",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "Ashen Beacon",
+          "Terrain": "Collapsed Monorail Bridge",
+          "Resource": "Pre-Sundering data caches",
+          "Threat": "Feral scavenger bands",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "Stone Circle of Thirn",
+          "Terrain": "Whispering Hills",
+          "Resource": "Stone suitable for fortifications",
+          "Threat": "Witch-cults",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "Stone Circle of Thirn",
+          "Terrain": "Ruined Industrial Complex",
+          "Resource": "Purified spring water",
+          "Threat": "Corpse-mires",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "Statue of the Last King",
+          "Terrain": "Dead River Delta",
+          "Resource": "Stone suitable for fortifications",
+          "Threat": "Corpse-mires",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "The Obsidian Spire",
+          "Terrain": "Whispering Hills",
+          "Resource": "Alchemical mushrooms",
+          "Threat": "Mad prophet enclaves",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "The Hollow Oak",
+          "Terrain": "Collapsed Monorail Bridge",
+          "Resource": "Alchemical mushrooms",
+          "Threat": "Corpse-mires",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        },
+        {
+          "Name": "The Obsidian Spire",
+          "Terrain": "Cracked Highlands",
+          "Resource": "Alchemical mushrooms",
+          "Threat": "Mutant beasts",
+          "Notes": "Post-Sundering magical contamination likely. Avoid prolonged exposure without wards."
+        }
+      ],
+      "Notes": []
+    }
+  ],
+  "Magic": {
+    "Name": "The Whispering Veil",
+    "Origin": "Magic seeped into the world after the Sundering, triggered by the mass psychic trauma of billions dying. This tore a veil between worlds, allowing unseen forces to bleed into reality.",
+    "Nature": "Magic is intuitive, invasive, and unstable. It is not governed by laws or formulas, but by emotion, memory, and death. Practitioners hear whispers, see visions, and experience emotional echoes tied to the magical flow.",
+    "Effects_on_the_Touched": "Most who are awakened to magic \u2014 the Veilwalker \u2014 are driven mad. Constant whispers, hallucinations, and fragmented visions plague them. A rare few survive with clarity and become feared or revered wielders of arcane power.",
+    "Cultural_View": {
+      "Public": "The Veilwalker are feared, often outcast or hunted. Their abilities are seen as dangerous and unnatural.",
+      "Rural": "In isolated villages, Veilwalker may be worshipped as saints, spirits, or avatars of sorrow.",
+      "Scholarly": "In cities like Lichtenholt, secretive orders such as the Black Quill study magic as a forbidden science."
+    },
+    "Terms_and_Myths": [
+      "Veilwalker \u2014 those afflicted or awakened to magic",
+      "Veilmancer \u2014 a rare individual who wields the Veil without losing themselves",
+      "Echo \u2014 a magical effect tied to an intense memory or death",
+      "Whispering Veil \u2014 the unseen realm or force from which magic bleeds"
+    ]
+  },
+  "Magic Mechanics": {
+    "Casting System": {
+      "Dice Pool": "Casters gain a dice pool equal to 2 + Intelligence modifier + caster level.",
+      "Spell Cost": "To cast a spell, the caster must accumulate spell points equal to 5 \u00d7 the spell's level.",
+      "Rolling": "The caster may roll any number of dice from their pool per round to accumulate spell points.",
+      "Expending Dice": "Any die that rolls a 1 or 2 is expended and cannot be used again until after an 8-hour rest.",
+      "Unlimited Casting": "There is no limit on the number of spells per day, but the dice pool diminishes with use."
+    },
+    "Concentration Check": {
+      "Trigger": "When a caster is damaged or distracted while accumulating spell points.",
+      "Check": "Roll 1d20. Base target is 16 or higher.",
+      "Modifiers": {
+        "Light distraction": "+0",
+        "Damage < 5 HP": "-1",
+        "Damage 5\u201310 HP": "-2",
+        "Damage > 10 HP": "-4",
+        "Grappled / shoved / deafened": "-2",
+        "Multiple effects": "Stack penalties",
+        "Veilmancer Focus item": "+2",
+        "Under Calm Mind / Focus spell": "+2"
+      },
+      "Failure": "All accumulated spell points are lost. Spellcasting must start again next round.",
+      "Success": "Casting continues as normal."
+    },
+    "Last Ditch Effort": {
+      "Name": "Retributive Strike",
+      "Trigger": "When a caster is struck in combat and has dice remaining in their pool.",
+      "Effect": "Instead of taking damage, the caster may unleash all remaining energy in a last-ditch magical burst against the attacker.",
+      "Damage": "Deals 1d6 damage per remaining die in the caster's pool. Target may save vs spell for half damage.",
+      "Outcome": "The attack is disrupted, and the caster avoids the damage.",
+      "Drawback": "The caster becomes magically drained. They suffer -4 to all rolls until they complete an 8-hour rest."
+    },
+    "Overcasting": {
+      "Name": "Veilburning",
+      "Trigger": "Caster attempts to add more spell points than rolled to complete or empower a spell.",
+      "Mechanics": {
+        "Roll": "1d20 + caster level",
+        "Target": "16 + number of extra points attempted",
+        "Success": "Spell completes, but roll for Strain.",
+        "Failure": "Spell fails, roll for Madness and apply a Wild Surge (severity equals points attempted)."
+      },
+      "Strain": {
+        "Description": "Minor backlash from channeling too much energy through the Veil.",
+        "Roll": "1d6",
+        "Results": {
+          "1": "-2 to all rolls for 1 hour",
+          "2": "Nosebleed\u2014take 1d4 damage, no save",
+          "3": "Lose 1 die from dice pool until next long rest",
+          "4": "Disadvantage on social checks for rest of day",
+          "5": "Penalty to ranged spell attacks (-2 to hit)",
+          "6": "No strain this time\u2014the Veil shows mercy"
+        }
+      },
+      "Madness": {
+        "Description": "Severe psychic or emotional breakdown from failed Overcasting.",
+        "Roll": "1d10",
+        "Results": {
+          "1": "Lose 1d4 Intelligence for 24 hours",
+          "2": "Constant whispers\u2014Save vs. Spell hourly or be Confused for 1 turn",
+          "3": "Hallucinations\u201420% chance per encounter to see phantom threats",
+          "4": "Obsessed with a meaningless object or idea until cured",
+          "5": "Save vs. Paralyzation in combat for next 24 hours",
+          "6": "Eyes glow, voice speaks alien tongues\u2014feared and shunned",
+          "7": "Trigger Wild Surge as if triples were rolled",
+          "8": "Forget one known spell at random until re-learned",
+          "9": "Hands twitch\u2014cannot use focus items, -2 to casting for 24 hours",
+          "10": "Collapse unconscious for 1d6 hours, cannot be roused"
+        }
+      }
+    },
+    "Priest Magic (Veilbound)": {
+      "Name": "Veilbound",
+      "Source": "Veilbound draw their power not from gods, but from semi-sentient aggregations of emotion, memory, and belief within the Veil.",
+      "Mechanics": {
+        "Primary Attributes": [
+          "Wisdom",
+          "Will"
+        ],
+        "Magic Source": "Not ambient Veil energy, but spiritual entities\u2014collections of echoes, trauma, or collective yearning.",
+        "Casting Style": "Spiritual invocation and resonance. Veilbound do not command, but attune and entreat.",
+        "Power Dynamics": "Less prone to wild surges, but more vulnerable to spiritual corruption or possession.",
+        "Entities": "Known by many names\u2014Grief-Eyes, Pale Saints, Ash Choirs, Echo Kings. These are not gods, but entities born of death, sorrow, or persistent thought."
+      },
+      "Comparison to Veilwalkers": {
+        "Veilwalkers": "Use Intelligence + Will to directly manipulate raw magic from the Veil.",
+        "Veilbound": "Use Wisdom + Will to entreat and channel spiritual echoes and formed ideas within the Veil."
+      },
+      "Thematic Flavor": "Priest-magic is a dialogue with the aftershocks of belief\u2014echoes of pain, love, fear, and longing that have taken form beyond death."
+    },
+    "Wizard Magic (Veilwalker)": {
+      "Name": "Veilwalker",
+      "Source": "Veilwalkers draw raw magic directly from the ambient power of the Veil\u2014the ruptured boundary between worlds formed during the Sundering.",
+      "Mechanics": {
+        "Primary Attributes": [
+          "Intelligence",
+          "Will"
+        ],
+        "Magic Source": "Direct manipulation of the Veil's ambient arcane energy.",
+        "Casting Style": "Willful shaping of magical force through intellect and mental discipline.",
+        "Power Dynamics": "Powerful and flexible, but prone to instability\u2014wild surges, madness, and strain are common risks.",
+        "Influence": "Veilwalkers are seen as dangerous, often mistrusted due to the unpredictable nature of their magic."
+      },
+      "Comparison to Veilbound": {
+        "Veilwalkers": "Channel raw power from the Veil through intellectual force and sheer will.",
+        "Veilbound": "Attune to formed spiritual entities or concepts within the Veil through emotional and spiritual resonance."
+      },
+      "Thematic Flavor": "Wielders of unfiltered arcane force, Veilwalkers twist reality by tuning their minds to the Veil\u2019s chaotic symphony. They are intellects standing on the threshold of madness."
+    },
+    "Veilbound Casting System": {
+      "Dice Pool": "None \u2014 Veilbound do not use a dice pool.",
+      "Casting Method": "Veilbound channel spells by rolling 1d6 + caster level each round until they accumulate 5 \u00d7 spell level in total points, suffer a backlash, or stop voluntarily.",
+      "Channeling Rolls": {
+        "1": "Triggers a Backlash (see table).",
+        "6": "May trigger a Divine Echo (a beneficial effect).",
+        "Other": "Adds rolled value to the total casting progress."
+      },
+      "Backlash Table (Roll 1d6)": {
+        "1": "Possession Attempt \u2014 Save vs. Spell or lose control for 1 round.",
+        "2": "Echo Overload \u2014 Caster is stunned for 1 round and loses all accumulated casting progress.",
+        "3": "Weeping Wounds \u2014 Caster takes 1d6 psychic damage and is visibly marked.",
+        "4": "Entity Demand \u2014 A Veil entity appears and demands a vow or task.",
+        "5": "Blinding Vision \u2014 Caster is blinded for 1d4 rounds by alien symbolism.",
+        "6": "Memory Loss \u2014 Caster forgets the attempted spell for the rest of the day."
+      },
+      "Divine Echo Table (Roll 1d4 when rolling a 6 on channeling)": {
+        "1": "Regain 1 HP per caster level.",
+        "2": "Gain a yes/no insight from the GM.",
+        "3": "Next Wisdom-based roll gains +2.",
+        "4": "Nearby allies gain +1 to morale/save rolls per 4 caster levels for 1 round."
+      },
+      "Thematic Note": "Veilbound do not force the Veil \u2014 they resonate with it, risking spiritual disturbance or blessing with every invocation."
+    }
+  },
+  "Veilbound Entities": [
+    {
+      "Name": "Ashrul, the Bringer of Dawn",
+      "Concept": "Hope, Mercy, Release",
+      "Manifestation": "A quiet flame in the dark, a child humming softly.",
+      "Boons": [
+        "+1 healing die to spells.",
+        "Spells that calm emotions are empowered."
+      ],
+      "Taboo": "May not cause harm while invoking Ashrul.",
+      "Risk": "Breaking this taboo causes healing to decay instead\u2014target takes 1d6 necrotic damage.",
+      "Cult": {
+        "Name": "The Emberkind",
+        "Beliefs": "They believe mercy is the highest act of strength and seek to bring warmth to the broken.",
+        "Symbols": [
+          "An open palm holding a flickering candle"
+        ],
+        "Rites": [
+          "Offer the first breath of morning to Ashrul with whispered thanks.",
+          "Bind the wounds of enemies when they surrender.",
+          "Carry small ember-tokens and give them freely to the hopeless."
+        ]
+      }
+    },
+    {
+      "Name": "The Pale King of Swords",
+      "Concept": "Vengeance, Retribution, Cold Justice",
+      "Manifestation": "A crowned figure walking across a battlefield of bones.",
+      "Boons": [
+        "Curse, hex, and smite spells deal +1 die damage."
+      ],
+      "Taboo": "May not forgive once vengeance is invoked.",
+      "Risk": "Lose 1 Wisdom for 24 hours as wrath overtakes reason.",
+      "Cult": {
+        "Name": "The Ashen Crown",
+        "Beliefs": "They serve cold, final justice. All crimes must be answered, all oaths must be fulfilled.",
+        "Symbols": [
+          "Scales of justice tipped by the point of a dagger"
+        ],
+        "Rites": [
+          "Carve the name of your betrayer on stone before invoking vengeance.",
+          "Let no lie go unanswered within earshot of the Crown.",
+          "Spill a drop of blood onto iron before each smite."
+        ]
+      }
+    },
+    {
+      "Name": "Ilmothar, the Blooming Maw",
+      "Concept": "Hunger, Excess, Desire",
+      "Manifestation": "A rose with teeth; laughter echoing in an empty feast hall.",
+      "Boons": [
+        "Gain temporary HP after spellcasting.",
+        "Sense strong desire in nearby beings."
+      ],
+      "Taboo": "Must not deny indulgence when offered.",
+      "Risk": "Enter gluttonous trance for 1d6 rounds, losing control.",
+      "Cult": {
+        "Name": "The Feast Eternal",
+        "Beliefs": "Desire is divine. Hunger\u2014whether of the flesh, heart, or mind\u2014is holy.",
+        "Symbols": [
+          "A blooming rose with jagged teeth among the petals"
+        ],
+        "Rites": [
+          "Never eat alone without offering part of your meal to Ilmothar.",
+          "Mark thresholds and doors with scented oils.",
+          "Sing praises in laughter after every indulgence."
+        ]
+      }
+    },
+    {
+      "Name": "The Root-Singer",
+      "Concept": "Fertility, Shelter, Renewal",
+      "Manifestation": "A woman with the shadow of a tree and no face.",
+      "Boons": [
+        "Bless fertility, commune with soil or roots, boost crops or natural healing."
+      ],
+      "Taboo": "No harm may come to children or the unborn in your presence.",
+      "Risk": "Stillbirths follow in your wake; plants wilt nearby.",
+      "Cult": {
+        "Name": "The Buried Choir",
+        "Beliefs": "All things return to the soil. Death is not an end but a cycle\u2019s quiet turning.",
+        "Symbols": [
+          "An oak tree with roots clutching three skulls"
+        ],
+        "Rites": [
+          "Whisper the names of the dead into seed-pits.",
+          "Eat only plants or animals whose names you know.",
+          "Plant a single tree after taking a life, if possible."
+        ]
+      }
+    },
+    {
+      "Name": "Tibrel of the Hundred Faces",
+      "Concept": "Glory, Fame, Radiant Ambition",
+      "Manifestation": "A mirrored mask shining with false light.",
+      "Boons": [
+        "Gain advantage on Charisma-based rolls after spellcasting."
+      ],
+      "Taboo": "Must always claim credit\u2014may not act anonymously.",
+      "Risk": "Your name is forgotten by others until you perform a glorious act.",
+      "Cult": {
+        "Name": "The Veil of Applause",
+        "Beliefs": "To be unseen is to be undone. All glory must be claimed, all light reflected.",
+        "Symbols": [
+          "A hand raising a mask skyward, three smaller masks trailing behind"
+        ],
+        "Rites": [
+          "Begin each day by reciting your name and deeds to a reflection.",
+          "Inscribe your name on stone, metal, or flesh after every major act.",
+          "Refuse to wear hoods or obscuring garments in public."
+        ]
+      }
+    }
+  ]
+}
