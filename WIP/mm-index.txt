@@ -1,0 +1,1195 @@
+A
+
+Aarokocra	
+Abishai (Baatezu)	
+Aboleth	
+Aerial Servant (Elemental, Air Kin)	
+African Elephant (Elephant)	
+Air Elemental (Elemental, Air/Earth)	
+Algorn (Titan)	
+Amethyst Dragon	
+Amphisbaena (Snake)	
+Androsphinx (Sphinx)	
+Ankheg	
+Ankylosaurus (Dinosaur)	
+Ant (Insect)	
+Ant Lion (Insect)	
+Antelope (Mammal, Herd)	
+Antherion
+	Jackalwere	
+	Wolfwere	
+Ape, Carnivorous (Mammal)	
+Aratha (Insect)	
+Arcane	
+Arctic Tempest (Elemental, Composite)	
+Argos	
+Ascomoid (Fungus)	
+Aspis (Insect)	
+	Cow
+	Drone
+	Larva
+Assassin Bug (Insect)	
+Astereater (Beholder)	
+Atomie (Sprite)	
+Aurumvorax	
+Azmyth (Bat)	
+
+B
+
+Baatezu	
+	Abishai, Black
+	Abishai, Green
+	Pit Fiend
+	Red Abishai
+Baboon, Wild (Mammal)	
+Badger (Mammal)	
+Balor (Tanar'ri)	
+Banderlog (Mammal)	
+Banshee	
+Barracuda (Fish)	
+Basilisk	
+	Dracolisk
+	Greaster
+	Lesser
+Bat	
+	Azmyth
+	Common
+	Huge
+	Large
+	Night Hunter
+	Sinister
+Bear	
+	Black
+	Brown
+	Cave
+Beaver (Mammal, Small)	
+Bee (Insect)	
+	Worker
+	Soldier
+	Bumblebee
+Beetle, Giant	
+	Bombardier
+	Boring
+	Fire
+	Rhinoceros
+	Stag
+	Water
+Behir	
+Beholder/Beholder-Kin
+	Astereater	
+	Beholder	
+	Beholder Mage	
+	Casharin	
+	Death Kiss (Bleeder)	
+	Director	
+	Doomsphere	
+	Elder Orb	
+	Examiner	
+	Eye of the Deep (Water)	
+	Gauth	
+	Gorbel	
+	Hive Mother	
+	Lensman	
+	Orbus	
+	Overseer	
+	Spectator	
+	Undead (Death Tyrant)	
+	Watcher	
+Bhaergala (Mammal)	
+Bird	
+	Boobrie
+	Eagle
+	Eblis
+	Emre
+	Flightless
+	Hawk
+	Kingfisher
+	Owl
+	Raven
+	Skyfisher
+	Swan
+	Vulture
+	'Wari
+Bird Maiden (Swanmay)	
+Birdman (Aarakocra)	
+Black Dragon	
+Black Cloud (Elemental, Composite)	
+Black Abishai (Baatezu)	
+Bleeder (Beholder)	
+Blink Dog (Dog)	
+Blue Dragon	
+Boalisk (Snake)	
+Boar, Wild (Mammal)	
+Boobrie (Bird)	
+Bookworm	
+Brain, Flying (Grell)	
+Brain Mole	
+Brass Dragon	
+Broken One	
+Bronze Dragon	
+Brown Dragon	
+Brownie	
+	Killmoulis
+Buffalo (Mammal, Herd)	
+Bugbear	
+Bulette	
+Bullywug	
+Bumblebee (Insect)	
+
+
+C
+
+Camel (Mammal, Herd)	
+Carnivorous Ape (Mammal)	
+Carp, Giant (Fish)	
+Carrion Crawler
+Casharin (Beholder)	
+Cat, Great	
+	Cheetah
+	Giant Lynx
+	Leopard
+	Lion
+	Lion, Spotted
+	Lion, Mountain
+	Jaguar
+	Smilodon
+	Tiger, Wild
+Cat, Small	
+	Domestic
+	Elven
+	Wild
+Catfish, Giant (Fish)	
+Catoblepas	
+Cattle (Mammal, Herd)	
+Cave Cricket (Insect)	
+Cave Fisher	
+Centaur	
+Centipede	
+Chattur (Mammal)	
+Cheetah (Cat, Great)	
+Chimera	
+Chipmunk (Mammal, Small)	
+Choke Creeper (Plant, Dangerous)	
+Clay Golem (Golem, Lesser)	
+Cloaker
+Cloud Dragon	
+Cloud Giant	
+Cockatrice	
+Constrictor (Snake)	
+Cooshee (Mammal)	
+Copper Dragon	
+Couatl	
+Crabman	
+Crawling Claw	
+Creeper Zombie (Plant, Dangerous)	
+Crimson Death Mist (Mist, Crimson Death)	
+Criosphinx (Sphinx)
+Crocodile	
+Crustacean, Giant	
+Cryohydra (Hydra)	
+Crypt Thing	
+Crystal Dragon	
+Cyclops (Giant)	
+	Cyclops
+	Cyclopskin
+
+
+D
+
+Dakon (Mammal)	
+Dao (Genie)	
+Daemon, Guardian (Yugoloth, Guardian)	
+Dark Elf (Elf, Drow)	
+Dark Naga (Naga, Dark)	
+Death Kiss (Beholder)	
+Death Knight	
+Death Worm (Necrophidius)	
+Debbi (Mammal)	
+Deep Dragon	
+Deep Gnome (Svirfneblin)	
+Deepspawn	
+Deinonychus (Dinosaur)	
+Derro (Dwarf)	
+Desert Giant	
+Dinosaur	
+	Ankylosaurus
+	Deinonychus
+	Diplodocus
+	Elasmosaurus
+	Lambeosaurus
+	Pteranodon
+	Stegosaurus
+	Triceratops
+	Tyranosaurus
+Diplodocus (Dinosaur)	
+Director (Beholder)	
+Displacer Beast	
+Djinn (Genie)	
+Dog	
+	Blink
+	Death
+	War
+	Wild
+Dog, Moon	
+Dolphin	
+Domestic Pig (Mammal, Small)
+Doomsphere (Beholder)
+Doppleganger	
+Dracolich	
+Dracolisk (Basilisk)	
+Dragon, General	
+	Amethyst	
+	Black	
+	Blue	
+	Brass	
+	Bronze	
+	Brown	
+	Cloud	
+	Copper	
+	Crystal	
+	Deep	
+	Emerald	
+	Gold	
+	Green	
+	Mercury	
+	Mist	
+	Red	
+	Sapphire	
+	Shadow	
+	Silver	
+	Steel	
+	Topaz	
+	White	
+	Yellow	
+Dragon Turtle	
+Dragonet
+	Faerie Dragon	
+	Firedrake	
+	Pseudodragon	
+Dragonfish (Fish)	
+Dragonfly (Insect)	
+	Giant
+	Larva
+Dragonne	
+Drider (Elf, Drow)	
+Drow (Elf, Drow)	
+Dryad	
+Duergar (Dwarf)	
+Dwarf
+	Derro	
+	Duergar	
+	Hill	
+	Mountain	
+
+
+E
+
+Eagle (Bird)	
+Ear Seeker (Insect)	
+Earth Elemental (Elemental, Air/Earth)	
+Eblis (Bird)	
+Eel (Fish)	
+	Electric
+	Giant
+	Marine
+	Weed
+Efreeti (Genie)	
+Elasmosaurus (Dinosaur)	
+Elder Orb (Beholder)	
+Electric Eel (Fish)	
+Elemental
+	Air/Earth	
+	Fire/Water	
+	General	
+Elemental, Air Kin	
+	Aerial Servant
+	Sylph
+Elemental, Composite	
+	Arctic Tempest
+	Black Cloud
+	Skriaxit
+	Tempest
+Elemental, Earth Kin	
+	Pech
+	Sandling
+Elemental, Fire Kin	
+	Fire Snake
+	Salamander
+Elemental, Water Kin	
+	Nereid
+	Water Weird
+Elephant	
+Elf
+	Aquatic	
+	Drider	
+	Drow (Dark)	
+	Grey (Faerie)	
+	Half-Elf	
+	Malenti	
+	Wood (Sylvan)	
+Elven Cat (Cat, Small)	
+Emerald Dragon	
+Emre (Bird)	
+Ermine (Mammal, Small)	
+Ettercap	
+Ettin	
+Examiner (Beholder)	
+Eye of the Deep (Beholder)	
+Eyewing	
+
+
+F
+
+Faerie Dragon (Dragonet)	
+Faerie (Elf, Grey)	
+Faun (Satyr)	
+Ferret (Mammal, Small)	
+Feyr	
+Firbolg	
+Fire Giant	
+Fire Elemental (Elemental, Fire/Water)	
+Fire Snake (Elemental, Fire Kin)	
+Firedrake (Dragonet, Firedrake)	
+Firefriend (Insect)	
+Fish	
+	Barracuda
+	Carp, Giant
+	Catfish, Giant
+	Dragonfish
+	Eel, Electric
+	Lamprey
+	Lamprey, Giant
+	Lamprey, Land
+	Manta Ray
+	Pike, Giant
+	Piranha
+	Piranha, Giant
+	Pungi Ray
+	Quipper
+	Seahorse, Giant
+	Shark
+	Shark, Giant
+	Stingray
+Flesh Golem (Golem, Lesser)	
+Flind (Gnoll)	
+Fly (Insect)	
+	Bluebottle
+	Horsefly
+Flying Brain (Grell)	
+Flying Squirrel (Mammal, Small)	
+Fog Giant	
+Fomorian	
+Foxwoman (Lycanthope, Werefox)	
+Fox (Mammal, Small)	
+Frog, Giant	
+	Giant
+	Killer
+	Poisonous
+Frost Giant	
+Fungus	
+	Ascomoid
+	Gas Spore
+	Phycomid
+	Shrieker
+	Violet
+Fungus Man (Myconid)	
+Fyrefly (Insect)	
+
+
+G
+
+Galeb Duhr	
+Gargantua	
+Gargoyle	
+	Gargoyle
+	Margoyle
+Gargoyle (Golem)	
+Gas Spore (Fungus)	
+Gauth (Beholder)	
+Gelatinous Cube (Ooze/Slime/Jelly)	
+Genie	
+	Dao
+	Djinni
+	Efreeti
+	Jann
+	Marid
+Ghast (Ghoul)	
+Ghost	
+Ghoul	
+Giant
+	Cloud	
+	Cyclops	
+	Desert	
+	Ettin	
+	Firbolg	
+	Fire	
+	Fog	
+	Formorian	
+	Frost	
+	Hill	
+	Jungle	
+	Mountain	
+	Reef	
+	Stone	
+	Storm	
+	Verbeeg	
+	Wood (Voadkyn)	
+Giant Black Squirrel (Mammal, Small)	
+Giant Eel (Fish)	
+Giant Crab (Crustacean, Giant)	
+Giant Crayfish (Crustacean, Giant)	
+Giant Pike (Fish)	
+Giant Pig (Mammal)	
+Giant Piranha (Fish)	
+Giant Seahorse (Fish)	
+Giant Shark (Fish)	
+Giant Skeleton (Skeleton, Giant)	
+Gibberling	
+Giff	
+Girzon (Titan)	
+Gith	
+Gith Pirate	
+Githyanki	
+Githzerai	
+Glass Golem (Golem Glass)	
+Gloomwing	
+	Gloomwing Moth
+	Tenebrous Worm
+Glyptar (Medusa)	
+Gnoll	
+Gnome	
+	Forest
+	Gnome (Rock)
+	Svirfneblin (Deep)
+	Tinker
+Gnome, Spriggan	
+Goat (Mammal)	
+Goblin	
+Gold Dragon	
+Golem
+	Bone	
+	Doll	
+	Gargoyle	
+	Glass	
+	Necrophidius (Death Worm)	
+	Scarecrow	
+Golem, General	
+Golem, Greater	
+	Iron
+	Stone
+Golem, Lesser	
+	Flesh
+	Clay
+Golem, Stone Variant	
+Gopher (Mammal, Small)	
+Gorbel (Beholder)	
+Gorgimera (Centipede)	
+Gorgon	
+Gorilla (Mammal)	
+Green Abishai (Baatezu)	
+Green Dragon	
+Grell	
+Gremlin	
+Gremlin, Jermalaine	
+Griffon	
+Grig (Sprite)	
+Grimlock	
+Grippli	
+Groaning Spirit (Banshee)	
+Guardian Daemon (Yugoloth, Guardian)	
+Gulguthra (Otyugh)	
+Gynosphinx (Sphinx)	
+
+
+H
+
+Hag	
+Halfling	
+	Hairfoot
+	Stout
+	Tallfellow
+
+Hangman Tree (Plant, Intelligent)	
+Harpy	
+Hatori	
+Haunt	
+Hawk (Bird)	
+Hedgehog (Mammal, Small)	
+Hell Hound	
+Heucuva	
+Heway (Snake)	
+Hieracosphinx (Sphinx)	
+Hill Giant	
+Hippocampus	
+Hippogriff	
+Histachii (Yaun-ti, Histachii)	
+Hive Mother (Beholder)	
+Hobgoblin	
+Homonculous	
+Hook Horror	
+Horax (Insect)	
+Hornet, Giant (Insect)	
+Horse	
+	Draft
+	Heavy
+	Light
+	Medium
+	Mule
+	Pony
+	Riding
+	Steppe Pony
+	Wild
+Hsing-sing (Mammal)	
+Human	
+Hydra	
+	Cryohydra
+	Hydra
+	Lernaean
+	Pyrohydra
+Hyena (Mammal)	
+
+
+I
+
+Illithid (Mind Flayer)	
+Imp	
+	Imp
+	Quasit
+Imp, Mephit	
+	Fire
+	Ice
+	Lava
+	Mist
+	Smoke
+	Steam
+Insect	
+	Ant, Giant
+	Ant Lion, Giant
+	Aratha
+	Aspis, Cow
+	Aspis, Drone
+	Aspis, Larva
+	Assassin Bug
+	Bee, Soldier
+	Bee, Worker
+	Bumblebee
+	Cave Cricket
+	Dragonfly, Giant
+	Dragonfly, Larva
+	Ear Seeker
+	Firefriend
+	Fly, Bluebottle
+	Fly, Horsefly
+	Fyrefly
+	Horax
+	Hornet, Giant
+	Pernicon
+	Praying Mantis
+	Termite, Giant Harvester
+		King
+		Queen
+		Soldier
+		Worker
+	Tick, Giant
+	Wasp, Giant
+Insect, Swarm	
+	Velvet Ants
+	Grasshoppers
+	Locusts
+Intellect Devourer	
+	Adult
+	Larva
+Invisible Stalker	
+Iron Golem (Golem, Greater)	
+Ixitxachitl	
+	Ixitxachitl
+	Vampiric
+	Vampiric, Greater
+
+
+J
+
+Jackal (Mammal)	
+Jackalwere	
+Jaguar (Cat, Great)	
+Jann (Genie)	
+Jelly (Ooze/Slime/Jelly)	
+Jermalaine (Gremlin, Jermalaine)	
+Jungle Giant	
+
+
+K
+
+Kelpie (Plant, Intelligent)	
+Kenku	
+Ki-rin	
+Kirre	
+Killer Mimic (Mimic)	
+Killmoulis (Brownie)	
+Kingfisher (Bird)	
+Kobold	
+	Urd
+Korred (Satyr)	
+Kraken (Squid)	
+Kuo-toa	
+
+
+L
+
+Lacedon (Ghoul)	
+Lambeosaurus (Dinosaur)	
+Lamia	
+Lammasu	
+Lamprey (Fish)	
+Lamprey, Land (Fish)	
+Land Shark (Bulette)	
+Leech	
+	Giant
+	Swarm
+	Throat
+Lensman (Beholder)	
+Lernaean (Hydra)	
+Leopard (Cat, Great)	
+Leprechaun	
+Leucrotta	
+Leviathan (Whale)	
+Lich	
+Lion (Cat, Great)	
+Living Wall	
+Lizard	
+	Fire
+	Minotaur
+	Subterranean
+	Giant
+Lizard Man	
+Locathah	
+Losel (Mammal)	
+Lurker	
+Lycanthrope, General	
+	Seawolf	
+	Werebat	
+	Werebear	
+	Wereboar	
+	Werefox (Foxwoman)	
+	Wererat	
+	Wereraven	
+	Weretiger	
+	Werewolf	
+Lynx, Giant (Cat, Great)	
+
+
+M
+
+Maedar (Medusa)	
+Making Monsters	
+Malenti (Elf, Aquatic)	
+Malephus (Titan)	
+Mammal	
+	Ape, Carnivorous
+	Baboon, Wild
+	Badger
+	Banderlog
+	Bhaergala
+	Boar, Wild
+	Chattur
+	Cooshee
+	Dakon
+	Debbi
+	Goat
+	Gorilla
+	Hsing-sing
+	Hyena
+	Jackal
+	Losel
+	Monkey Spider
+	Porcupine, Black
+	Porcupine, Brown
+	Rothé
+	Skunk
+	Sleek
+	Stag, Wild
+	Stench Kow
+	Taer
+	Tyrg
+	Warthog
+	Weasel
+	Wolverine
+Mammal, Herd	
+	Antelope
+	Buffalo
+	Camel
+	Cattle
+	Sheep
+Mammal, Small	
+	Beaver
+	Chipmunk
+	Ermine
+	Ferret
+	Fox
+	Gopher
+	Hedgehog
+	Mink
+	Mole
+	Monkey
+	Mouse
+	Muskrat
+	Opposum
+	Otter
+	Otter, Sea
+	Pig, Domestic
+	Pig, Giant
+	Pig, Wild
+	Rabbit
+	Raccoon
+	Squirrel
+	Squirrel, Flying
+	Squirrel, Giant Black
+	Woodchuck
+Mammoth (Elephant)	
+Mane (Titan)	
+Manta Ray (Fish)	
+Margoyle (Gargoyle)	
+Marid (Genie)	
+Marilith (Tanar'ri)	
+Marine Eel	
+Manscorpion	
+Manticore	
+Mastodon (Elephant)	
+Medusa	
+Medusa, Maedar	
+	Maedar
+	Glyptar
+Mephit (Imp, Mephit)	
+Mercury Dragon	
+Merman	
+Merrow, see Ogre Mimic	
+	Mimic
+	Killer
+Mind Flayer (Illithid)	
+Mink (Mammal, Small)	
+Minotaur	
+Mist, Crimson Death	
+Mist Dragon	
+Mist, Vampiric	
+Mold	
+	Brown
+	Russet
+	Yellow
+Mold Man	
+Mole (Mammal, Small)	
+Mongrelman	
+Monkey Spider (Mammal)	
+Monkey (Mammal, Small)	
+Monsoon (Elemental, Composite)	
+Monster Summoning	
+Morkoth	
+Mountain Giant	
+Mountain Lion (Cat, Great)	
+Mouse (Mammal, Small)	
+Muckdweller	
+Mudman	
+Mule (Horse)	
+Mummy	
+Mummy, Greater	
+Musk Creeper, Yellow (Plant, Dangerous)	
+Musk Zombie, Yellow (Plant, Dangerous)	
+Muskrat (Mammal, Small)	
+Myconid	
+
+
+N
+
+Naga	
+	Guardian
+	Naga
+	Spirit
+	Water
+Naga, Dark	
+Narwhal (Whale)	
+Necrophidius (Golem, Necrophidius)	
+Neogi	
+Neo-Otyugh (Otyugh)	
+Nereid (Elemental, Water Kin)	
+Night Hunter (Bat)	
+Nightmare	
+Nixie (Sprite)	
+NPCs	
+Nymph	
+
+
+O
+
+
+Obliviax (Plant, Intelligent)	
+Octopus, Giant	
+Ogre
+	Ogre	
+	Ogre, Half-	
+	Ogre Mage	
+Oliphant (Elephant)	
+Ooze/Slime/Jelly	
+	Crystal Ooze	
+	Gelatinous Cube	
+	Green Slime	
+	Grey Ooze	
+	Mustard Jelly	
+	Ochre Jelly	
+	Olive Slime	
+	Olive Slime Creature	
+	Slithering Tracker	
+	Stun Jelly	
+Opossum (Mammal, Small)	
+Orbus (Beholder)	
+Orc	
+	Orc
+	Orog
+Osquip (Rat)	
+Otter (Mammal, Small)	
+Otyugh	
+	Neo-Otyugh
+Overseer (Beholder)	
+Owl (Bird)	
+Owlbear	
+
+
+P
+
+Pech (Elemental, Earth Kin)	
+Pegasus	
+Pernicon (Insect)	
+Peryton	
+Phantom	
+Phoenix	
+Phycomid (Fungus)	
+Piercer	
+Pig, Domestic (Mammal, Small)	
+Pig, Giant (Mammal, Small)	
+Pig, Wild (Mammal, Small)	
+Pike, Giant (Fish)	
+Piranha (Fish)	
+Piranha, Giant (Fish)	
+Pit Fiend (Baatezu)	
+Pixie (Sprite)	
+Plant, Dangerous	
+	Choke Creeper
+	Mantrap
+	Retch Plant
+	Snapper-Saw
+	Thorn-Slinger
+	Tri-Flower Frond
+	Yellow Musk
+	Zombie Creeper
+Plant, Intelligent	
+	Hangman Tree
+	Kelpie
+	Obliviax
+	Quickwood
+	Shambling Mound
+	Strangleweed
+	Sundew, Giant
+	Thorny
+Poisonous Frog (Frog)	
+Poltergeist	
+Pony (Horse)	
+Porcupine (Mammal)	
+Porphyl (Titan)	
+Praying Mantis (Insect)	
+Pseudodragon (Dragonet)	
+Pteranodon (Dinosaur)	
+Pudding, Deadly	
+	Black
+	Brown
+	Dun
+	White
+Pungi Ray (Fish)	
+Pyrohydra (Hydra)	
+
+
+Q
+
+Quaggoth	
+Quasit (Imp)	
+Quickwood (Plant, Intelligent)	
+Quipper (Fish)	
+
+
+R
+
+Rabbit (Mammal, Small)	
+Raccoon (Mammal, Small)	
+Rakshasa	
+Rat	
+	Osquip
+	Rat
+Raven (Bird)	
+Red Abishai (Baatezu)	
+Red Dragon	
+Reef Giant	
+Remorhaz	
+Retch Plant (Plant, Dangerous)	
+Revenant	
+Riding Horse (Horse)	
+Roc	
+Roper	
+Rot Grub	
+Rothé (Mammal)	
+Rust Monster	
+
+
+S
+
+Sahuagin	
+Salamander (Elemental, Fire Kin)	
+Sandling (Elemental, Earth Kin)	
+Sapphire Dragon	
+Satyr	
+Scarecrow (Golem, Scarecrow)	
+Scorpion	
+	Giant
+	Huge
+	Large
+Sea Otter (Mammal, Small)	
+Sea Elf (Elf, Aquatic)	
+Sea Lion	
+Seahorse, Giant (Fish)	
+Seawolf (Lycanthope)	
+Selkie	
+Serpent, Winged (Snake, Winged)	
+Shadow	
+Shadow Dragon	
+Shambling Mound (Plant, Intelligent)	
+Shark (Fish)	
+Shark, Giant (Fish)	
+Shedu	
+	Shedu
+	Shedu, Greater
+Sheep (Mammal, Herd)	
+Shrieker (Fungus)	
+Silver Dragon	
+Sinister (Bat)	
+Sirine	
+Skeleton	
+	Skeleton
+	Animal
+	Monster
+Skeleton, Giant	
+Skeleton, Warrior	
+Skriaxit (Elemental, Composite)	
+Skunk (Mammal)	
+Skyfisher (Bird)	
+Slaad	
+Sleek (Mammal)	
+Slime (Ooze/Slime/Jelly)	
+Slithering Tracker (Ooze/Slime/Jelly)	
+Slug, Giant	
+Smilodon (Cat, Great)	
+Snake	
+	Amphisbaena
+	Boalisk
+	Constrictor
+	Constrictor, Giant
+	Giant Sea
+	Giant Spitting
+	Heway
+	Poisonous
+Snake, Winged	
+Snapper-Saw (Plant, Dangerous)	
+Spectator (Beholder)	
+Spectre	
+Sphinx	
+	Androsphinx
+	Criosphinx
+	Gynosphinx
+	Hieracosphinx
+Spider	
+	Gargantuan
+	Giant
+	Hairy
+	Huge
+	Large
+	Phase
+	Sword
+Spider Monkey (Mammal)	
+Spore, Gas (Fungus)
+Spotted Lion (Cat, Great)	
+Spriggan (Gnome, Spriggan)	
+Sprite	
+	Atomie
+	Grig
+	Nixie
+	Pixie
+	Sea Sprite
+	Sprite
+Squid, Giant	
+Squirrel (Mammal, Small)	
+Squirrel, Flying (Mammal, Small)	
+Squirrel, Giant Black (Mammal, Small)	
+Stag, Wild (Mammal)	
+Steel Dragon	
+Stegosaurus (Dinosaur)	
+Stench Kow (Mammal)	
+Steppe Pony (Horse)	
+Sting Ray (Fish)	
+Stirge	
+Stone Giant	
+Stone Golem (Golem, Greater)	
+Stone Construct (Golem, Stone Variants)	
+Storm Giant	
+Stout (Halfling)	
+Strangleweed (Plant, Intelligent)	
+Su-Monster	
+Summoning Monsters	
+Sundew, Giant (Plant, Intelligent)	
+Svirfneblin (Gnome)	
+Swan (Bird)	
+Swanmay	
+Syllia (Titan)	
+Sylph (Elemental, Air Kin)	
+
+
+T
+Tabaxi	
+Taer (Mammal)	
+Tako	
+Tallfellow (Halfling)	
+Tanar'ri	
+	Balor
+	Marilith
+Tarrasque	
+Tasloi	
+Tempest (Elemental, Composite)	
+Tenebrous Worm (Gloomwing)	
+Termite, Giant (Insect)	
+Therianthrope (Lycanthrope)	
+Thorn-Slinger (Plant, Dangerous)	
+Thorny (Plant, Intelligent)	
+Thought Eater	
+Thri-Kreen	
+Tick, Giant (Insect)	
+
+Tiger, Wild (Cat, Great)	
+Tinker (Gnome)	
+Titan	
+	Algorn
+	Girzon
+	Malephus
+	Mane
+	Porphyl
+	Syllia
+Toad, Giant	
+	Fire
+	Giant
+	Ice
+	Poisonous
+Topaz Dragon	
+Treant	
+Tressym (Cat, Small)	
+Tri-Flower Frond (Plant, Dangerous)	
+Triceratops (Dinosaur)	
+Triton	
+Troglodyte	
+Troll	
+Tunnel Worm (Centipede)	
+Tyranosaurus (Dinosaur)	
+Tyrg (Mammal)	
+
+U
+
+Umber Hulk	
+	Umber Hulk
+	Vodyanoi
+Undead (Death Tyrant) (Beholder)	
+Unicorn	
+Urchin	
+	Black
+	Green
+	Land
+	Red
+	Silver
+	Yellow
+Urd (Kobold)	
+
+
+V
+
+Vampire	
+	Eastern
+	Western
+Vampiric Mist (Mist, Vampiric)	
+Vegepygmy (Mold Man)	
+Verbeeg	
+Violet Fungus (Fungus)	
+Voadkyn (Giant, Wood)	
+Vodyanoi (Umber Hulk)	
+Vulture (Bird)	
+
+
+W
+
+Wall, Living (Living Wall)	
+'Wari (Bird)	
+Warthog (Mammal)	
+Wasp, Giant (Insect)	
+Watcher (Beholder)	
+Water Behloder (Eye of the Deep)	
+Water Elemental (Elemental, Fire/Water)	
+Water Weird (Elemental, Water Kin)	
+Weasel (Mammal)	
+Weed Eel	
+Wemic	
+Werebat (Lycanthrope)	
+Werebear (Lycanthrope)	
+Wereboar (Lycanthrope)	
+Werefox (Lycanthrope)	
+Wererat (Lycanthrope)	
+Wereraven (Lycanthrope)	
+Weretiger (Lycanthrope)	
+Werewolf (Lycanthrope)	
+Whale	
+	Common
+	Giant
+	Killer
+	Narwhal
+	Leviathan
+White Dragon	
+Wight	
+Wild Pig (Mammal, Small)	
+Wild Baboon (Mammal, Small)	
+Wildcat (Cat, Small)	
+Will-O'- Wisp	
+Winged Serpent (Snake, Winged)	
+Wolf	
+Wolfwere	
+Wolverine (Mammal)	
+Wood Giant	
+Woodchuck (Mammal, Small)	
+Worm	
+	Purple
+	Giant Bloodworm
+Worm, Death (Necrophidius)	
+Wraith	
+Wyvern	
+
+
+X
+
+Xorn	
+	Xorn
+	Xaren
+
+
+Y
+
+Yellow Dragon	
+Yellow Musk Creeper (Plant, Dangerous)	
+Yellow Musk Zombie (Plant, Dangerous)	
+Yeti	
+Yuan-ti	
+Yuan-ti, Histachii	
+Yugoloth, Guardian	
+
+
+Z
+
+Zaratan	
+Zombie	
