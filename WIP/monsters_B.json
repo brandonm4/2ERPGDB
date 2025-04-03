@@ -1,0 +1,453 @@
+[    
+    {
+        "id": 21,
+        "name": "Baatezu"
+    },
+    {
+        "id": 22,
+        "name": "Baatezu",
+        "variant": "Abishai, Black"
+    },
+    {
+        "id": 23,
+        "name": "Baatezu",
+        "variant": "Abishai, Green"
+    },
+    {
+        "id": 24,
+        "name": "Baatezu",
+        "variant": "Pit Fiend"
+    },
+    {
+        "id": 25,
+        "name": "Baatezu",
+        "variant": "Red Abishai"
+    },
+    {
+        "id": 26,
+        "name": "Baboon, Wild (Mammal)"
+    },
+    {
+        "id": 27,
+        "name": "Bagder (Mammal)"
+    },
+    {
+        "id": 28,
+        "name": "Balor (Tanar'ri)"
+    },
+    {
+        "id": 29,
+        "name": "Banderlog (Mammal)"
+    },
+    {
+        "id": 30,
+        "name": "Banshee"
+    },
+    {
+        "id": 31,
+        "name": "Barracuda (Fish)"
+    },
+    {
+        "id": 32,
+        "name": "Basilisk"
+    },
+    {
+        "id": 33,
+        "name": "Basilisk",
+        "variant": "Dracolisk"
+    },
+    {
+        "id": 34,
+        "name": "Basilisk",
+        "variant": "Greater"
+    },
+    {
+        "id": 35,
+        "name": "Basilisk",
+        "variant": "Lesser"
+    },
+    {
+        "id": 36,
+        "name": "Bat"
+    },
+    {
+        "id": 37,
+        "name": "Bat",
+        "variant": "Azmyth"
+    },
+    {
+        "id": 38,
+        "name": "Bat",
+        "variant": "Common"
+    },
+    {
+        "id": 39,
+        "name": "Bat",
+        "variant": "Huge"
+    },
+    {
+        "id": 40,
+        "name": "Bat",
+        "variant": "Large"
+    },
+    {
+        "id": 41,
+        "name": "Bat",
+        "variant": "Night Hunter"
+    },
+    {
+        "id": 42,
+        "name": "Bat",
+        "variant": "Sinister"
+    },
+    {
+        "id": 43,
+        "name": "Bear"
+    },
+    {
+        "id": 44,
+        "name": "Bear",
+        "variant": "Black"
+    },
+    {
+        "id": 45,
+        "name": "Bear",
+        "variant": "Brown"
+    },
+    {
+        "id": 46,
+        "name": "Bear",
+        "variant": "Cave"
+    },
+    {
+        "id": 47,
+        "name": "Bear",
+        "variant": "Polar"
+    },
+    {
+        "id": 48,
+        "name": "Beaver (Mammal, Small)"
+    },
+    {
+        "id": 49,
+        "name": "Bee (Insect)"
+    },
+    {
+        "id": 50,
+        "name": "Bee (Insect)",
+        "variant": "Worker"
+    },
+    {
+        "id": 51,
+        "name": "Bee (Insect)",
+        "variant": "Soldier"
+    },
+    {
+        "id": 52,
+        "name": "Bee (Insect)",
+        "variant": "Bumblebee"
+    },
+    {
+        "id": 53,
+        "name": "Beetle, Giant"
+    },
+    {
+        "id": 54,
+        "name": "Beetle, Giant",
+        "variant": "Bombardier"
+    },
+    {
+        "id": 55,
+        "name": "Beetle, Giant",
+        "variant": "Boring"
+    },
+    {
+        "id": 56,
+        "name": "Beetle, Giant",
+        "variant": "Fire"
+    },
+    {
+        "id": 57,
+        "name": "Beetle, Giant",
+        "variant": "Rhinoceros"
+    },
+    {
+        "id": 58,
+        "name": "Beetle, Giant",
+        "variant": "Stag"
+    },
+    {
+        "id": 59,
+        "name": "Beetle, Giant",
+        "variant": "Water"
+    },
+    {
+        "id": 60,
+        "name": "Behir"
+    },
+    {
+        "id": 61,
+        "name": "Beholder and Beholder-kin"
+    },
+    {
+        "id": 62,
+        "name": "Beholder and Beholder-kin (part 2)"
+    },
+    {
+        "id": 63,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Astereater"
+    },
+    {
+        "id": 64,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Beholder"
+    },
+    {
+        "id": 65,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Beholder Mage"
+    },
+    {
+        "id": 66,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Casharin"
+    },
+    {
+        "id": 67,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Death Kiss (Bleeder)"
+    },
+    {
+        "id": 68,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Director"
+    },
+    {
+        "id": 69,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Doomsphere"
+    },
+    {
+        "id": 70,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Elder Orb"
+    },
+    {
+        "id": 71,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Examiner"
+    },
+    {
+        "id": 72,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Eye of the Deep (Water)"
+    },
+    {
+        "id": 73,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Gauth"
+    },
+    {
+        "id": 74,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Gorbel"
+    },
+    {
+        "id": 75,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Hive Mother"
+    },
+    {
+        "id": 76,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Lensman"
+    },
+    {
+        "id": 77,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Orbus"
+    },
+    {
+        "id": 78,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Overseer"
+    },
+    {
+        "id": 79,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Spectator"
+    },
+    {
+        "id": 80,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Undead (Death Tyrant)"
+    },
+    {
+        "id": 81,
+        "name": "Beholder and Beholder-kin",
+        "variant": "Watcher"
+    },
+    {
+        "id": 82,
+        "name": "Bhaergala (Mammal)"
+    },
+    {
+        "id": 83,
+        "name": "Bird"
+    },
+    {
+        "id": 84,
+        "name": "Bird",
+        "variant": "Boobrie"
+    },
+    {
+        "id": 85,
+        "name": "Bird",
+        "variant": "Eagle"
+    },
+    {
+        "id": 86,
+        "name": "Bird",
+        "variant": "Eblis"
+    },
+    {
+        "id": 87,
+        "name": "Bird",
+        "variant": "Emre"
+    },
+    {
+        "id": 88,
+        "name": "Bird",
+        "variant": "Flightless"
+    },
+    {
+        "id": 89,
+        "name": "Bird",
+        "variant": "Hawk"
+    },
+    {
+        "id": 90,
+        "name": "Bird",
+        "variant": "Knigfisher"
+    },
+    {
+        "id": 91,
+        "name": "Bird",
+        "variant": "Owl"
+    },
+    {
+        "id": 92,
+        "name": "Bird",
+        "variant": "Raven"
+    },
+    {
+        "id": 93,
+        "name": "Bird",
+        "variant": "Skyfisher"
+    },
+    {
+        "id": 94,
+        "name": "Bird",
+        "variant": "Swan"
+    },
+    {
+        "id": 95,
+        "name": "Bird",
+        "variant": "Vulture"
+    },
+    {
+        "id": 96,
+        "name": "Bird",
+        "variant": "'Wari"
+    },
+    {
+        "id": 97,
+        "name": "Bird Maiden"
+    },
+    {
+        "id": 98,
+        "name": "Black Dragon"
+    },
+    {
+        "id": 99,
+        "name": "Black Cloud (Elemental, Composite)"
+    },
+    {
+        "id": 100,
+        "name": "Black Abishai"
+    },
+    {
+        "id": 101,
+        "name": "Bleeder"
+    },
+    {
+        "id": 102,
+        "name": "Blink Dog"
+    },
+    {
+        "id": 103,
+        "name": "Blue Dragon"
+    },
+    {
+        "id": 104,
+        "name": "Boalisk (Snake)"
+    },
+    {
+        "id": 105,
+        "name": "Boar, Wild (Mammal)"
+    },
+    {
+        "id": 106,
+        "name": "Boobrie"
+    },
+    {
+        "id": 107,
+        "name": "Brain, Flying (Grell)"
+    },
+    {
+        "id": 108,
+        "name": "Brain Mole"
+    },
+    {
+        "id": 109,
+        "name": "Brass Dragon"
+    },
+    {
+        "id": 110,
+        "name": "Broken One"
+    },
+    {
+        "id": 111,
+        "name": "Bronze Dragon"
+    },
+    {
+        "id": 112,
+        "name": "Brown Dragon"
+    },
+    {
+        "id": 113,
+        "name": "Brownie"
+    },
+    {
+        "id": 114,
+        "name": "Brownie",
+        "variant": "Killmoulis"
+    },
+    {
+        "id": 115,
+        "name": "Buffalo (Mammal, Herd)"
+    },
+    {
+        "id": 116,
+        "name": "Bugbear"
+    },
+    {
+        "id": 117,
+        "name": "Bulette"
+    },
+    {
+        "id": 118,
+        "name": "Bullywug"
+    }
+]
