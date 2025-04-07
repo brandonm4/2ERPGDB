@@ -1,0 +1,238 @@
+{
+    "races" : 
+    [
+        {
+            "name": "human",
+            "description": "Although humans are treated as a single race in the AD&D game, they come in all the varieties we know on Earth. A human PC can have whatever racial characteristics the DM allows.\n\nHumans have only one special ability: They can be of any character class and rise to any level in any class. Other PC races have limited choices in these areas.\n\nHumans are also more social and tolerant than most other races, accepting the company of elves, dwarves, and the like with noticeably less complaint.\n\nBecause of these abilities and tendencies, humans have become significant powers within the world and often rule empires that other races (because of their racial tendencies) would find difficult to manage.",
+            "height": "60/59 + 2d10",
+            "weight": "140/100 + 6d10",
+            "age": "15 + 1d4",
+            "languages": ["common"],            
+            "special_abilities": [
+              "May be of any character class",
+              "May advance to any level in any class"
+            ]
+          },          
+          {
+            "name": "dwarf",
+            "description": "Dwarves are short, stocky fellows, easily identified by their size and shape. They average 4 to 4½ feet tall. They have ruddy cheeks, dark eyes, and dark hair. Dwarves generally live for 350 years.\n\nDwarves tend to be dour and taciturn. They are given to hard work and care little for most humor. They are strong and brave. They enjoy beer, ale, mead, and even stronger drink. Their chief love, however, is precious metal, particularly gold. They prize gems, especially diamonds and opaque gems (except pearls, which they do not like).\n\nDwarves like the earth and dislike the sea. Not overly fond of elves, they have a fierce hatred of orcs and goblins. Their short, stocky builds make them ill-suited for riding horses or other large mounts (although ponies present no difficulty), so they tend to be a trifle dubious and wary of these creatures. They are ill-disposed toward magic and have little talent for it, but revel in fighting, warcraft, and scientific arts such as engineering.\n\nThough dwarves are suspicious and avaricious, their courage and tenacity more than compensate for these shortcomings.\n\nDwarves typically dwell in hilly or mountainous regions. They prefer life in the comforting gloom and solidness that is found underground. They have several special abilities that relate to their underground life, and they are noted for being particularly resistant to magics and poisons.",
+            "height": "43/41 + 1d10",
+            "weight": "130/105 + 4d10",
+            "age": "40 + 5d6",
+            "languages": [
+              "common",
+              "dwarf",
+              "gnome",
+              "goblin",
+              "kobold",
+              "orc"
+            ],            
+            "ability_adjustments": {
+              "constitution": "+1",
+              "charisma": "-1"
+            },
+            "ability_minimums": {
+              "strength": 8,
+              "constitution": 12
+            },
+            "ability_maximums": {
+              "dexterity": 17,
+              "charisma": 16
+            },
+            "special_abilities": [
+              "infravision 60 feet",
+              "+1 bonus on attack rolls against orcs, half-orcs, goblins, and hobgoblins",
+              "Giant-class creatures (ogres, trolls, ogre magi, giants, titans) suffer a -4 penalty on attack rolls against dwarves",
+              "+1 bonus to saving throws vs. magical wands, staves, rods, and spells per 3.5 points of Constitution",
+              "+1 bonus to saving throws vs. poison per 3.5 points of Constitution",
+              "20% chance of malfunction when using magic items not specifically for their class (weapons, armor, shields, gauntlets, and girdles excluded)",
+              "Detect grade or slope in passage (1-5 on 1d6)",
+              "Detect new construction (1-5 on 1d6)",
+              "Detect sliding or shifting walls or rooms (1-4 on 1d6)",
+              "Detect stonework traps, pits, and deadfalls (1-3 on 1d6)",
+              "Determine approximate depth underground (1-3 on 1d6)"
+            ]
+          },
+          {
+            "name": "elf",
+            "description": "Elves tend to be somewhat shorter and slimmer than normal humans. Their features are finely chiseled and delicate, and they speak in melodic tones. Although they appear fragile and weak, as a race they are quick and strong. Elves often live to be over 1,200 years old, although long before this time they feel compelled to depart the realms of men and mortals. Where they go is uncertain, but it is an undeniable urge of their race.\n\nElves are often considered frivolous and aloof. In fact, they are not, although humans often find their personalities impossible to fathom. They concern themselves with natural beauty, dancing and frolicking, playing and singing, unless necessity dictates otherwise. They are not fond of ships or mines, but enjoy growing things and gazing at the open sky. Even though elves tend toward haughtiness and arrogance at times, they regard their friends and associates as equals. They do not make friends easily, but a friend (or enemy) is never forgotten. They prefer to distance themselves from humans, have little love for dwarves, and hate the evil denizens of the woods.\n\nTheir humor is clever, as are their songs and poetry. Elves are brave but never foolhardy. They eat sparingly; they drink mead and wine, but seldom to excess. While they find well-wrought jewelry a pleasure to behold, they are not overly interested in money or gain. They find magic and swordplay (or any refined combat art) fascinating. If they have a weakness it lies in these interests.\n\nThere are five branches of the elven race: aquatic, gray, high, wood, and dark. Elf player characters are always assumed to be of the most common type—high elves—although a character can be another type of elf with the DM's permission (but the choice grants no additional powers). To the eye of outsiders, the differences between the groups are mostly cosmetic, but most elves maintain that there are important cultural differences between the various groups.\n\nAquatic elves spend their lives beneath the waves and have adapted to these conditions. Gray elves are considered the most noble and serious-minded of this breed. High elves are the most common. Wood elves are considered to be wild, temperamental, and savage. All others hold that the subterranean dark elves are corrupt and evil, no longer part of the elven community.",
+            "height": "55/50 + 1d10",
+            "weight": "90/70 + 3d10",
+            "age": "100 + 5d6",
+            "languages": [
+              "common",
+              "elf",
+              "gnome",
+              "halfling",
+              "goblin",
+              "hobgoblin",
+              "orc",
+              "gnoll"
+            ],
+            "ability_adjustments": {
+              "dexterity": "+1",
+              "constitution": "-1"
+            },
+            "ability_minimums": {
+              "strength": 3,
+              "dexterity": 6,
+              "constitution": 7,
+              "intelligence": 8,
+              "wisdom": 3,
+              "charisma": 8
+            },
+            "ability_maximums": {
+              "strength": 18,
+              "dexterity": 18,
+              "constitution": 18,
+              "intelligence": 18,
+              "wisdom": 18,
+              "charisma": 18
+            },
+            "special_abilities": [
+              "90% resistance to sleep and all charm-related spells",
+              "+1 bonus to attack rolls with bows (other than crossbows), short swords, and long swords",
+              "Infravision up to 60 feet",
+              "Secret doors detection (1-2 on 1d6 when actively searching, 1 on 1d6 when passing within 10 feet)",
+              "Concealed doors detection (1-3 on 1d6 when actively searching)",
+              "Move silently to surprise opponents: opponents suffer a -4 penalty to surprise rolls (-2 if opening a door or screen) if elf is alone, with other elves/halflings, or 90 feet away from companions, and wearing non-metal armor"
+            ]
+          },
+          {
+            "name": "gnome",
+            "description": "Kin to dwarves, gnomes are noticeably smaller than their distant cousins. Gnomes, as they proudly maintain, are also less rotund than dwarves. Their noses, however, are significantly larger. Most gnomes have dark tan or brown skin and white hair. A typical gnome lives for 350 years.\n\nGnomes have lively and sly senses of humor, especially for practical jokes. They have a great love of living things and finely wrought items, particularly gems and jewelry. Gnomes love all sorts of precious stones and are masters of gem polishing and cutting.\n\nGnomes prefer to live in areas of rolling, rocky hills, well wooded and uninhabited by humans. Their diminutive stature has made them suspicious of the larger races--humans and elves--although they are not hostile. They are sly and furtive with those they do not know or trust, and somewhat reserved even under the best of circumstances. Dwelling in mines and burrows, they are sympathetic to dwarves, but find their cousins' aversion to surface dwellers foolish.\n\nA gnome character can elect to be a fighter, a thief, a cleric, or an illusionist. A gnome can have two classes, but not three: fighter/thief, illusionist/thief, etc.\n\nDue to his upbringing, a beginning gnome character can choose to know the following languages, in addition to any others allowed by the DM: common, dwarf, gnome, halfling, goblin, kobold, and the simple common speech of burrowing mammals (moles, badgers, weasels, shrews, ground squirrels, etc.). The actual number of languages a character begins with depends upon his Intelligence score (see Table 4) or the proficiency slots he allots to languages (if that optional system is used).\n\nLike their cousins the dwarves, gnomes are highly magic resistant. A gnome player character gains a bonus of +1 for every 3½ points of Constitution score, just as dwarves do. This bonus applies to saving throws against magical wands, staves, rods, and spells.\n\nGnomes also suffer a 20% chance for failure every time they use any magical item except weapons, armor, shields, illusionist items, and (if the character is a thief) items that duplicate thieving abilities. This check is made each time the gnome attempts to use the device, or, in the case of continuous-use devices, each time the device is activated. Like dwarves, gnomes can sense a cursed item if the device fails to function.\n\nIn melee, gnome characters add 1 to their attack rolls to hit kobolds or goblins. When gnolls, bugbears, ogres, trolls, ogre magi, giants, or titans attack gnomes, these monsters must subtract 4 from their attack rolls because of the gnomes' small size and their combat skills against these much larger creatures.\n\nBeing tunnelers of exceptional merit, gnomes are able to detect the following within 10 feet (exception: They can determine their approximate depth or direction underground at any time.). They must stop and concentrate for one round to use any of these abilities.",
+            "height": "38/36 + 1d6",
+            "weight": "72/68 + 5d4",
+            "age": "60 + 3d12",
+            "languages": [
+              "common",
+              "dwarf",
+              "gnome",
+              "halfling",
+              "goblin",
+              "kobold",
+              "burrowing mammal speech"
+            ],
+            "ability_adjustments": {
+              "intelligence": "+1",
+              "wisdom": "-1"
+            },
+            "ability_minimums": {
+              "strength": 6,
+              "dexterity": 3,
+              "constitution": 8,
+              "intelligence": 6,
+              "wisdom": 3,
+              "charisma": 3
+            },
+            "ability_maximums": {
+              "strength": 18,
+              "dexterity": 18,
+              "constitution": 18,
+              "intelligence": 18,
+              "wisdom": 18,
+              "charisma": 18
+            },
+            "special_abilities": [
+              "Infravision up to 60 feet",
+              "+1 bonus on attack rolls against kobolds and goblins",
+              "Giant-class creatures (gnolls, bugbears, ogres, trolls, ogre magi, giants, titans) suffer a -4 penalty on attack rolls against gnomes",
+              "+1 bonus to saving throws vs. magical wands, staves, rods, and spells per 3.5 points of Constitution",
+              "20% chance of malfunction when using magic items not specifically for their class (weapons, armor, shields, and illusionist items excluded)",
+              "Detect grade or slope in passage (1-5 on 1d6)",
+              "Detect unsafe walls, ceiling, and floors (1-7 on 1d10)",
+              "Determine approximate depth underground (1-4 on 1d6)",
+              "Determine approximate direction underground (1-3 on 1d6)"
+            ]
+          },
+          {
+            "name": "half-elf",
+            "description": "Half-elves are the most common mixed-race beings. The relationship between elf, human, and half-elf is defined as follows: 1) Anyone with both elven and human ancestors is either a human or a half-elf (elves have only elven ancestors). 2) If there are more human ancestors than elven, the person is human; if there are equal numbers or more elves, the person is half-elven.\n\nHalf-elves are usually much like their elven parent in appearance. They are handsome folk, with the good features of each of their races. They mingle freely with either race, being only slightly taller than the average elf (5 feet 6 inches on average) and weighing about 150 pounds. They typically live about 160 years. They do not have all the abilities of the elf, nor do they have the flexibility of unlimited level advancement of the human. Finally, in some of the less-civilized nations, half-elves are viewed with suspicion and superstition.\n\nIn general, a half-elf has the curiosity, inventiveness, and ambition of his human ancestors and the refined senses, love of nature, and artistic tastes of his elven ancestors.\n\nHalf-elves do not form communities among themselves; rather, they can be found living in both elven and human communities. The reactions of humans and elves to half-elves ranges from intrigued fascination to outright bigotry.\n\nOf all the demihuman races, half-elves have the greatest range of choices in character class. They tend to make good druids and rangers. A half-elf can choose to be a cleric, druid, fighter, ranger, mage, specialist wizard, thief, or bard. In addition, a half-elf can choose from the following multi-class combinations: cleric (or druid)/fighter, cleric (or druid)/fighter/mage, cleric (or druid)/ranger, cleric (or druid)/mage, fighter/mage, fighter/thief, fighter/mage/thief, and mage/thief. The half-elf must abide by the rules for multi-class characters.\n\nHalf-elves do not have a language of their own. Their extensive contact with other races enables them to choose any of the following languages (plus any other allowed by the DM): common, elf, gnome, halfling, goblin, hobgoblin, orc, and gnoll.",
+            "height": "60/58 + 2d6",
+            "weight": "110/85 + 3d12",
+            "age": "15 + 1d6",
+            "languages": [
+              "common",
+              "elf",
+              "gnome",
+              "halfling",
+              "goblin",
+              "hobgoblin",
+              "orc",
+              "gnoll"
+            ],
+            "ability_adjustments": {},
+            "ability_minimums": {
+              "strength": 3,
+              "dexterity": 6,
+              "constitution": 6,
+              "intelligence": 4,
+              "wisdom": 3,
+              "charisma": 3
+            },
+            "ability_maximums": {
+              "strength": 18,
+              "dexterity": 18,
+              "constitution": 18,
+              "intelligence": 18,
+              "wisdom": 18,
+              "charisma": 18
+            },
+            "special_abilities": [
+              "30% resistance to sleep and all charm-related spells",
+              "Infravision up to 60 feet",
+              "Secret or concealed doors detection: 1 in 6 chance (while passing within 10 feet) or 2 in 6/3 in 6 chance (if actively searching)"
+            ]
+          },
+          {
+            "name": "halfling",
+            "description": "Halflings are short, generally plump people, very much like small humans. Their faces are round and broad and often quite florid. Their hair is typically curly and the tops of their feet are covered with coarse hair. They prefer not to wear shoes whenever possible. Their typical life expectancy is approximately 150 years.\n\nHalflings are sturdy and industrious, generally quiet and peaceful. Overall they prefer the comforts of home to dangerous adventuring. They enjoy good living, rough humor, and homespun stories. In fact, they can be a trifle boring at times. Halflings are not forward, but they are observant and conversational if in friendly company. Halflings see wealth only as a means of gaining creature comforts, which they love. Though they are not overly brave or ambitious, they are generally honest and hard working when there is need.\n\nHalfling homes are well-furnished burrows, although most of their work is done on the surface. Elves generally like them in a patronizing sort of way. Dwarves cheerfully tolerate them, thinking halflings somewhat soft and harmless. Gnomes, although they drink more and eat less, like halflings best, feeling them kindred spirits. Because halflings are more open and outgoing than any of these other three, they get along with other races far better.\n\nThere are three types of halflings: Hairfeets, Tallfellows, and Stouts. Hairfeets are the most common type, but for player characters, any of the three is acceptable.\n\nA halfling character can choose to be a cleric, fighter, thief, or a multi-class fighter/thief. The halfling must use the rules provided for multi-class characters.\n\nThrough their contact with other races, halfling characters are allowed to choose initial languages from common, halfling, dwarf, elf, gnome, goblin, and orc, in addition to any other languages the DM allows.",
+            "height": "32/30 + 2d8",
+            "weight": "52/48 + 5d4",
+            "age": "20 + 3d4",
+            "languages": [
+              "common",
+              "halfling",
+              "dwarf",
+              "elf",
+              "gnome",
+              "goblin",
+              "orc"
+            ],
+            "ability_adjustments": {
+              "dexterity": "+1",
+              "strength": "-1"
+            },
+            "ability_minimums": {
+              "strength": 7,
+              "dexterity": 7,
+              "constitution": 10,
+              "intelligence": 6,
+              "wisdom": 3,
+              "charisma": 3
+            },
+            "ability_maximums": {
+              "strength": 18,
+              "dexterity": 18,
+              "constitution": 18,
+              "intelligence": 18,
+              "wisdom": 17,
+              "charisma": 18
+            },
+            "special_abilities": [
+              "+1 bonus to attack rolls with thrown weapons and slings",
+              "Surprise opponents with -4 penalty to opponents' surprise rolls if alone, with other halflings or elves, or 90+ feet away; -2 penalty if opening a door or screen",
+              "Resistance to magical spells (+1 to saving throws vs. wands, staves, rods, spells per 3.5 Constitution)",
+              "Resistance to poison (same bonus as vs. magical attacks)",
+              "Infravision: 15% chance of full 60' infravision (pure Stout); otherwise 25% chance of limited 30' infravision",
+              "Detect grade or slope in passage (1-3 on 1d4) if of Stoutish blood",
+              "Determine direction underground (1-3 on 1d6) if of Stoutish blood"
+            ]
+          }
+          
+          
+          
+          
+          
+    ]
+}
