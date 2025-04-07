@@ -1,0 +1,14 @@
+{
+    "proficiencies" : 
+    [
+        {
+            "name" : "name of proficiency",
+            "description" : "full markdown decription",
+            "slots" : 1,
+            "relevant_ability" : "strength",
+            "groups" : ["warrior", "general"],
+            "check_modifier" : 0
+        }
+    ],
+    "extraction_hints" : "Table 37 containts the groups, slots and check modifier.  A page or two after that the full description starts (Nonweapon Proficiency Descriptions)."
+}
