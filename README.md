@@ -1,2 +1,13 @@
-Spells and Items for the Second Edition of the most popular RPG.
-Contains full spell text, descriptions in Markdown format to maintain tables.
+### JSON Database for OSR Games.
+
+Descriptions are the full text from the source material in markdown format.
+
+**Classes** - contains descriptions, xp tables, saving throws, etc 
+
+**Items** - descriptions, cost, weight, type, etc
+
+**Proficiencies** - skills
+
+**Spells** - descriptions, level, sphere,school, casting time, duration, etc
+
+

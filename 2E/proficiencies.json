@@ -1,0 +1,400 @@
+[
+    {
+      "name": "Agriculture",
+      "description": "The character has a working knowledge of farming techniques, including planting cycles, soil improvement, and harvesting. This proficiency can aid a village or farm in increasing crop yields or recovering from disasters.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Animal Handling",
+      "description": "This proficiency allows a character to train domestic or tamed animals, teach them simple tricks, and calm them when they are frightened. A successful proficiency check is needed to teach complex tricks or to calm extremely agitated animals.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Animal Lore",
+      "description": "The character understands the habits and traits of natural animals. A successful proficiency check enables the character to identify animal tracks, recognize behavior patterns, or find weaknesses.",
+      "slots": 1,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Appraising",
+      "description": "The character can estimate the value of common goods and rare items. With a successful check, the character determines the worth of an item within 10-20% of its actual value.",
+      "slots": 1,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "rogue",
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Armorer",
+      "description": "The character can design, make, and repair all kinds of armor. Without proper facilities, the task becomes more difficult. This is primarily a warrior proficiency and requires two proficiency slots.",
+      "slots": 2,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "warrior"
+      ],
+      "check_modifier": -2
+    },
+    {
+      "name": "Artistic Ability",
+      "description": "The character has a talent for one form of art (painting, sculpture, etc.). Successful use can create beautiful or convincing art, forge items, or entertain.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Blacksmithing",
+      "description": "This proficiency allows a character to make and repair iron and steel items (horseshoes, tools, weapons). Proper facilities are required, and armor or fine weapons require specialized skills.",
+      "slots": 1,
+      "relevant_ability": "strength",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Blind-fighting",
+      "description": "The character has heightened senses that enable him to fight in darkness or while blinded. Movement penalties are reduced, and surprise penalties are halved.",
+      "slots": 2,
+      "relevant_ability": "none",
+      "groups": [
+        "general",
+        "warrior",
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Bowyer/Fletcher",
+      "description": "This proficiency allows the character to make bows and arrows. Without a proper workshop, tasks are very difficult. Fine bows (composite bows, longbows) require skilled materials and time.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "warrior",
+        "general"
+      ],
+      "check_modifier": -1
+    },
+    {
+      "name": "Brewing",
+      "description": "The character can brew beers, ales, and stronger spirits. Proper equipment is needed to produce safe and quality beverages. This can also produce poisons with additional proficiency use.",
+      "slots": 1,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Carpentry",
+      "description": "The character is skilled in woodworking, enabling them to build houses, furniture, or siege engines. Large projects require extra time and laborers.",
+      "slots": 1,
+      "relevant_ability": "strength",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Charioteering",
+      "description": "This proficiency allows the character to handle a chariot at high speeds, sharp turns, or on difficult terrain. A failed proficiency check may result in overturning or crashing.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Cobbling",
+      "description": "The character can make and repair shoes and boots. Cobbler\u2019s work is important to long overland journeys.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Disguise",
+      "description": "This proficiency allows the character to alter his appearance to resemble someone else or conceal his identity. A successful check fools casual observers. Close inspection or suspicion may require additional checks.",
+      "slots": 1,
+      "relevant_ability": "charisma",
+      "groups": [
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Endurance",
+      "description": "The character can perform strenuous physical activities for longer periods without tiring. This is useful for forced marches, swimming long distances, or surviving long exposure to harsh conditions.",
+      "slots": 1,
+      "relevant_ability": "constitution",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Etiquette",
+      "description": "This proficiency gives the character a basic understanding of proper behavior, formal social interactions, and courtly manners. A successful check aids the character in dealing with nobility and royalty.",
+      "slots": 1,
+      "relevant_ability": "charisma",
+      "groups": [
+        "general",
+        "priest"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Fire-building",
+      "description": "This proficiency allows a character to quickly start a fire under difficult conditions. It is invaluable for survival in the wilderness, damp regions, or cold climates.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Fishing",
+      "description": "The character has the ability to catch fish using hand lines, nets, traps, or spears. With a successful proficiency check, the character provides food for himself and others.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Gaming",
+      "description": "The character understands games of skill and chance, such as dice and cards. This proficiency allows for better odds at gambling and noticing cheating. A successful check can reveal a cheat or improve the character's chances of winning.",
+      "slots": 1,
+      "relevant_ability": "charisma",
+      "groups": [
+        "general",
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Healing",
+      "description": "The character knows how to stop bleeding, set broken bones, treat wounds, and cure diseases. A successful proficiency check allows the character to restore 1d3 hit points immediately after a battle. Healing can also slow or halt poison and disease progression.",
+      "slots": 2,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "priest",
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Herbalism",
+      "description": "This proficiency grants knowledge of plant lore, particularly plants useful for healing or toxic effects. With a successful check, the character can identify herbs and prepare simple healing or poison remedies.",
+      "slots": 2,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "priest",
+        "wizard"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Hunting",
+      "description": "The character is skilled in tracking, stalking, trapping, and killing wild game. A successful check results in enough food to feed 2d6 people for one day.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Juggling",
+      "description": "The character is adept at throwing and catching multiple objects at once. This skill can be used for entertainment, distraction, or limited combat purposes (catching thrown objects).",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Jumping",
+      "description": "The character can leap distances and heights beyond normal limits. Successful checks allow extended jumps horizontally and vertically. Modifiers apply depending on armor worn and encumbrance.",
+      "slots": 1,
+      "relevant_ability": "strength",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Local History",
+      "description": "The character knows legends, important events, and figures from a particular region. Successful checks reveal relevant information about towns, ruins, or geography.",
+      "slots": 1,
+      "relevant_ability": "charisma",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Musical Instrument",
+      "description": "The character can play one type of musical instrument proficiently. This can provide income, improve reactions, or inspire troops (especially for bards). Multiple instruments require additional proficiency selections.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "bard",
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Navigation",
+      "description": "The character can chart a course and keep track of direction overland or at sea. Modifiers may apply depending on available tools or conditions (such as night travel).",
+      "slots": 1,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Reading Lips",
+      "description": "The character can understand speech by observing lip movements. Successful checks allow overhearing conversations from a distance. Ambient noise and clarity of sight affect the roll.",
+      "slots": 2,
+      "relevant_ability": "intelligence",
+      "groups": [
+        "rogue"
+      ],
+      "check_modifier": -2
+    },
+    {
+      "name": "Riding, Airborne",
+      "description": "The character is trained in handling flying mounts, such as griffons or pegasi. Successful proficiency checks are needed for difficult maneuvers, avoiding falls, and combat riding.",
+      "slots": 2,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Riding, Land-based",
+      "description": "The character is trained in handling land mounts like horses, ponies, and camels. Skills include riding bareback, leaping obstacles, and controlling the animal during combat.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Riding, Water-based",
+      "description": "This proficiency covers aquatic mounts such as hippocampi. Successful checks are needed to manage the mount during underwater movement or combat.",
+      "slots": 2,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "warrior"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Rope Use",
+      "description": "The character knows how to tie secure knots, climb ropes efficiently, lash items, and set snares or traps. A successful proficiency check improves performance in any rope-related task.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Running",
+      "description": "The character can sprint at double normal movement for a number of rounds equal to Constitution score. Afterward, a Constitution check is needed to avoid collapse.",
+      "slots": 1,
+      "relevant_ability": "constitution",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Set Snares",
+      "description": "The character can set snares, traps, and pits for small animals or humanoids. Success depends on materials, preparation time, and environment.",
+      "slots": 1,
+      "relevant_ability": "dexterity",
+      "groups": [
+        "general",
+        "rogue"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Survival",
+      "description": "The character is skilled at surviving in a specific terrain (desert, forest, arctic, etc.). Skills include finding food and water, navigating, and building shelter.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Tracking",
+      "description": "The character can follow creatures' trails over varied terrain. Modifiers apply based on surface type, time elapsed, and weather conditions.",
+      "slots": 2,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "warrior",
+        "general"
+      ],
+      "check_modifier": -6
+    },
+    {
+      "name": "Veterinary Healing",
+      "description": "This proficiency enables the character to heal injured animals, treat wounds, and prevent infections. It works similarly to Healing proficiency but applies only to animals.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    },
+    {
+      "name": "Weather Sense",
+      "description": "The character can predict weather changes by observing sky, winds, and animal behavior. A successful proficiency check provides 6-12 hours advance notice of major changes.",
+      "slots": 1,
+      "relevant_ability": "wisdom",
+      "groups": [
+        "general"
+      ],
+      "check_modifier": 0
+    }
+  ]
