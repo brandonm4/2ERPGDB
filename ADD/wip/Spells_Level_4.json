@@ -1,0 +1,766 @@
+{
+  "info": {
+    "name": "ADD Level 4 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Abjure",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Awaken Fourth Chakra",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "2 hours / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Awestruck",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "60\u2019",
+      "duration": "See below",
+      "areaOfEffect": "30\u2019 radius",
+      "components": "V,S",
+      "castingTime": "4 rounds",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Ball Lightning",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "120\u2019",
+      "components": "V,S,M",
+      "castingTime": "4 segments",
+      "savingThrow": "\u00bd damage",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Black Tentacles",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "30\u2019",
+      "duration": "1 round / level",
+      "areaOfEffect": "30 sq. ft. / level",
+      "components": "V,S,M",
+      "castingTime": "8 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Call Woodland Beings",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "120\u2019 + 10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "360\u2019 + 30\u2019/level",
+      "components": "V,S,M",
+      "castingTime": "2 turns",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cloak of Fear / Cloak of Bravery",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        }
+      ],
+      "school": "Illusion/Phantasm",
+      "range": "0",
+      "duration": "1 turn / level",
+      "areaOfEffect": "3\u2019 radius",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Control Temperature, 10\u2019 Radius",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ],
+      "school": "Alteration",
+      "range": "0",
+      "duration": "4 turns + 1 turn / level",
+      "areaOfEffect": "10\u2019 radius",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Crystal Magic IV",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "6 hours",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "6 turns",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cure Serious Wounds / Cause Serious Wounds",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "druid",
+          "level": 4
+        },
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ],
+      "school": "Necromantic",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Depression",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Detect Astral",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Dimension Door",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Dismiss Creature I",
+      "caster": [
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Dispel Exhaustion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        },
+        {
+          "class": "mountebank",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Distance Distortion",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Enchanted Weapon / Mundane Weapon",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Ethereality",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Exchange",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Exorcise",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "mystic",
+          "level": 4
+        },
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Extension I",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Fetter/Unfetter",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Fire Charm",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Fire Shield",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Giant Insect / Shrink Insect",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Hallucinatory Forest / Dispel Hallucinatory Forest",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        },
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Hold Elemental",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        },
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Hold Plant",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Ice Storm",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Imbue with Spell Ability",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Implant Memory",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Improved Invisibility",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Interrupt Concentration",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Lower Water / Raise Water",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Massmorph",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Minor Creation",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Minor Globe of Invulnerability",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Mnemonic Enhancer",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        },
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning II",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Pass Without Trace",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Passwall",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Phantasmal Killer",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Place of Holding",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Plant Door",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Polymorph Self",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Produce Fire",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Protection from Lightning",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        },
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Rainbow Pattern",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Redirection",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Repel Insects",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Resilient Sphere",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Secure Shelter",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Selflessness",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Shadow Monsters",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Solid Fog",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Song of Battle",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Speak with Plants",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "druid",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Spell Immunity",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Spike Stones",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Steadfast Mount",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Sticks to Snakes / Snakes to Sticks",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 4
+        },
+        {
+          "class": "druid",
+          "level": 5
+        },
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Stone to Flesh / Flesh to Stone",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Stoneskin",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Telepathy",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Vacancy",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Wall of Ice",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "name": "Wizard Eye",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ]
+    }
+  ]
+}

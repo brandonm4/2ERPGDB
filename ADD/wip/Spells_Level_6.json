@@ -1,0 +1,785 @@
+{
+  "info": {
+    "name": "ADD Level 6 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Aerial Servant",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "10\u2019",
+      "duration": "See below",
+      "areaOfEffect": "One aerial servant",
+      "components": "V,S",
+      "castingTime": "9 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Animal Summoning III",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "0",
+      "duration": "See below",
+      "areaOfEffect": "Circle diameter",
+      "components": "V,S,M",
+      "castingTime": "8 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Anti-animal Shell",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ],
+      "school": "Abjuration",
+      "range": "0",
+      "duration": "1 turn / level",
+      "areaOfEffect": "20\u2019 diameter",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Anti-magic Shell",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ],
+      "school": "Abjuration",
+      "range": "0",
+      "duration": "1 turn / level",
+      "areaOfEffect": "sphere 1\u2019 diameter /",
+      "components": "V,S",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Avalanche",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        }
+      ],
+      "school": "Alteration",
+      "range": "See below",
+      "duration": "1-3 rounds",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Awaken Sixth Chakra",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "2 hours / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Blade Barrier",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ],
+      "school": "Evocation",
+      "range": "30\u2019",
+      "duration": "3 rounds / level",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "9 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Bonhomie",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "0",
+      "duration": "See below",
+      "areaOfEffect": "120\u2019 radius",
+      "components": "V",
+      "castingTime": "2 rounds",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Chain Lightning",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ],
+      "school": "Evocation",
+      "range": "40\u2019 + 5\u2019/level",
+      "duration": "Instantaneous",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "\u00bd damage",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cloud of Unknowing",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ],
+      "school": "Alteration, Enchantment/Charm",
+      "range": "0",
+      "duration": "See below",
+      "areaOfEffect": "Self",
+      "components": "V,S",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Conjure Animals",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        },
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "30\u2019",
+      "duration": "2 rounds / level",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Contingency",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "1 day / level",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cure Insanity / Cause Insanity",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ],
+      "school": "Necromantic",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Death Fog",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Death Spell",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Deep Stalker",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Demi-shadow Magic",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Disintegrate",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Dune Stalker",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        },
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Empathy",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Enchant an Item",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Ensnarement",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Extension III",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Eyebite",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Faerie Summoning",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Find the Path / Lose the Path",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        },
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Fire Seeds",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Forbiddance",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Forceful Hand",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Freezing Sphere",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Geas",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Glassee",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Globe of Invulnerability",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Grounding",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Guards and Wards",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Heal/Harm",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Heroes\u2019 Feast",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Improved Redirection",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Intuition",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Invisible Stalker",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Legend Lore",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Liveoak",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Mass Invisibility",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        },
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Mass Suggestion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Mirage Arcane",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Mislead",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning IV",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Move Earth",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Part Water",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Permanent Illusion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Phantasmagoria",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Programmed Illusion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Raise Dead Fully",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Recall",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Repulsion",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Shades",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Sonic Blast",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Speak with Monsters",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Spiritwrack",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Stone Tell",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Terrible Transformation",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Transmute Water to Dust / Transmute Dust to Water",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        },
+        {
+          "class": "magic-user",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Transport via Plants",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Triumph of the Will",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Turn Wood",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Veil",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        },
+        {
+          "class": "illusionist",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Veil of Shadows",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Volley of Arrows",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Weather Summoning",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    },
+    {
+      "name": "Word of Recall",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 6
+        }
+      ]
+    }
+  ]
+}

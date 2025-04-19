@@ -1,0 +1,135 @@
+{
+  "info": {
+    "name": "ADD Level 9 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Crushing Hand",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ],
+      "school": "Evocation",
+      "range": "5\u2019/level",
+      "duration": "1 round / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "9 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Crystalbrittle",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "2 cu. ft. / level",
+      "components": "V,S",
+      "castingTime": "9 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Energy Drain",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Imprisonment / Freedom",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Magical Disjunction",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Meteor Swarm",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning VII",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Power Word, Kill",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Prismatic Sphere",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Shape Change",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Temporal Stasis",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Wish",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "info": {
+    "name": "ADD Level 7 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Alter Reality",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ],
+      "school": "Illusion/Phantasm, Conjuration/ \nSummoning",
+      "range": "See below",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Animate Rock",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ],
+      "school": "Alteration",
+      "range": "40\u2019",
+      "duration": "1 round / level",
+      "areaOfEffect": "2 cubic feet / level",
+      "components": "V,S,M",
+      "castingTime": "9 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Awaken Seventh Chakra",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "2 hours / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Banishment",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ],
+      "school": "Abjuration",
+      "range": "20\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Bridge",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ],
+      "school": "Evocation",
+      "range": "10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V",
+      "castingTime": "2 rounds",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cacodemon",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "10\u2019",
+      "duration": "See below",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "See below",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cacophony / Euphony",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Changestaff",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ],
+      "school": "Evocation",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "One staff/treant",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Chariot of Flame",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ],
+      "school": "Evocation",
+      "range": "10\u2019",
+      "duration": "6 turns + 1 turn / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Charm Plants",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "30\u2019",
+      "duration": "See below",
+      "areaOfEffect": "30\u2019 x 10\u2019 area",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Conjure Earth Elemental / Dismiss Earth Elemental",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "40\u2019",
+      "duration": "1 turn / level",
+      "areaOfEffect": "One elemental",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Conversion",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Creeping Doom",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "0",
+      "duration": "4 rounds / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "9 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Dancing Weapon",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Delayed Blast Fireball",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Disruption",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Duo-dimension",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Earthquake",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Elemental Transformation",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Enveloping Flame",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        },
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Exaction",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Finger of Death",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Fire Storm / Fire Quench",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Forcecage / Forcecube",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Gale",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Gate",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Grasping Hand",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Holy Word / Unholy Word",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Instant Summons",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Know Self",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Limited Wish",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Luck/Ill-luck",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Mage Sword",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Magery",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Magnificent Mansion",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning V",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Phantom Stalker",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Phase Door",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Planetrack",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Power Word, Stun",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Prismatic Wall",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Regenerate/Wither",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Restoration / Energy Drain",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Resurrection/Destruction",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Reverse Gravity",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Sequester",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Shadow Walk",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Simulacrum",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Spell Turning",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Spirit Gift IV",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Statue",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Succor/Summons",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "magic-user",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "name": "Sunray",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Symbol",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 7
+        },
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Teleport Other",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Teleport without Error",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Torment",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Transmute Metal to Wood / Transmute Wood to Metal",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Truename",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Vanish",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Vision",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Volley",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Volley of Icicles",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Weird",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 7
+        }
+      ]
+    },
+    {
+      "name": "Wind Walk",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 7
+        },
+        {
+          "class": "cleric",
+          "level": 7
+        }
+      ]
+    }
+  ]
+}

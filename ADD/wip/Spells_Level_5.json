@@ -1,0 +1,821 @@
+{
+  "info": {
+    "name": "ADD Level 5 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Advanced Illusion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ],
+      "school": "Illusion/Phantasm",
+      "range": "60\u2019 + 10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "160 sq. ft. plus",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Air Walk",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "6 turns + 1 turn / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Airy Water",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "0",
+      "duration": "1 turn / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Animal Growth / Animal Shrinking",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "80\u2019",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Animal Summoning II",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "0",
+      "duration": "See below",
+      "areaOfEffect": "Circle diameter",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Animate Tree",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "10\u2019/level",
+      "duration": "1 round / level",
+      "areaOfEffect": "One tree",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Anti-plant Shell, 10\u2019 Radius",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ],
+      "school": "Abjuration",
+      "range": "0",
+      "duration": "1 turn / level",
+      "areaOfEffect": "10\u2019 diameter sphere",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Atonement",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ],
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Avoidance/Attraction",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Abjuration",
+      "range": "10\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "One object",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Awaken Fifth Chakra",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "2 hours / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Awareness",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Balance",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ],
+      "school": "Alteration",
+      "range": "60\u2019",
+      "duration": "1 turn + 1 round / level",
+      "areaOfEffect": "2 creatures",
+      "components": "V,S,M",
+      "castingTime": "5 rounds",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Chaos",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "5\u2019/level",
+      "duration": "1 round / level",
+      "areaOfEffect": "40\u2019 x 40\u2019 square",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cloudkill",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Evocation",
+      "range": "10\u2019",
+      "duration": "1 round / level",
+      "areaOfEffect": "40\u2019 x 20\u2019 x 20\u2019",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Commiseration",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "30\u2019",
+      "duration": "1 day",
+      "areaOfEffect": "See below",
+      "components": "V",
+      "castingTime": "1 round",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Commune with Nature",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ],
+      "school": "Divination",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Commune with the Multiverse",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ],
+      "school": "Divination",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "Self",
+      "components": "V,S",
+      "castingTime": "10 rounds",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cone of Cold",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "Beam 5\u2019 long / level",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "\u00bd damage",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Conjure Elemental",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Conjuration/Summoning",
+      "range": "60\u2019",
+      "duration": "1 turn / level",
+      "areaOfEffect": "One elemental",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Cure Critical Wounds / Cause Critical Wounds",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        },
+        {
+          "class": "druid",
+          "level": 6
+        },
+        {
+          "class": "mystic",
+          "level": 6
+        }
+      ],
+      "school": "Necromantic",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "8 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Demi-shadow Monsters",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Dismal/Beckon",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Dispel Evil / Dispel Good",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        },
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Dolor",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Dream",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Earthwalk",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        },
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Extension II",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Fabricate",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Faithful Hound",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Flame Strike",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Golem",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Hold Monster",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Improved Fear",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Insect Plague",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        },
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Inspiration",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Interposing Hand",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Irresistible Dance",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        },
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Magic Font",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Magic Jar",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Major Creation",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Maze",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        },
+        {
+          "class": "illusionist",
+          "level": 5
+        },
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning III",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Moonbeam",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Pass Plant",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Protection from Disease",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Quest",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Rainbow",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Raise Dead / Slay Living",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Sacred Place",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Secret Chest",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Sending",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Shadow Door",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Shadow Magic",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Shooting Stars",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Song of War",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Spirit Possession",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Summon Shadow",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Telekinesis",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Tempus Fugit / Tempus Repit",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Transmute Rock to Mud / Transmute Mud to Rock",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 5
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "True Seeing / False Seeing",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 5
+        },
+        {
+          "class": "illusionist",
+          "level": 6
+        },
+        {
+          "class": "mystic",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Volley of Javelins",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Wall of Force",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Wall of Iron",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Wall of Stone",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "name": "Wall of Thorns",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 5
+        },
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ]
+    }
+  ]
+}

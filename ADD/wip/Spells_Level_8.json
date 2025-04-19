@@ -1,0 +1,204 @@
+{
+  "info": {
+    "name": "ADD Level 8 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Antipathy/Sympathy",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "30\u2019",
+      "duration": "12 turns / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "6 turns",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Binding",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ],
+      "school": "Evocation",
+      "range": "10\u2019",
+      "duration": "See below",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "See below",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Charm Immunity",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ],
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "1 turn / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 round / \nrecipient",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Clenched Fist",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "1 round / level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "8 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Clone",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ],
+      "school": "Necromantic",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Demand",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Glassteel",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Incendiary Cloud",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Mass Charm",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Mind Blank",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Monster Summoning VI",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Permanency",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Polymorph Any Object",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Power Word, Blind",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Sink",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Telekinetic Sphere",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    },
+    {
+      "name": "Trap the Soul",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 8
+        }
+      ]
+    }
+  ]
+}
