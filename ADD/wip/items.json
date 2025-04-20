@@ -1,0 +1,2170 @@
+{
+  "info": {
+    "name": "ADD Items",
+    "author": "Brandon Mathis",
+    "source": "Adventures Dark and Deep Core Rulebook"
+  },
+  "animals": [
+    {
+      "name": "Chicken",
+      "price": "3 cp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Cow",
+      "price": "10 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Dog, guard",
+      "price": "25 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Dog, hunting",
+      "price": "17 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Donkey",
+      "price": "8 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Goat",
+      "price": "1 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Hawk, large",
+      "price": "40 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Hawk, small",
+      "price": "18 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Horse, draft",
+      "price": "30 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Horse, war, heavy",
+      "price": "300 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Horse, war, light",
+      "price": "150 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Horse, war, medium",
+      "price": "225 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Horse, riding",
+      "price": "25 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Mule",
+      "price": "20 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Ox",
+      "price": "15 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Pigeon",
+      "price": "2 cp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Pig",
+      "price": "3 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Pony",
+      "price": "15 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Sheep",
+      "price": "2 gp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    },
+    {
+      "name": "Songbird",
+      "price": "4 cp",
+      "weight": "n/a",
+      "notes": "",
+      "type": "animal"
+    }
+  ],
+  "armor": [
+    {
+      "name": "None",
+      "price": "-",
+      "ac": 10,
+      "movement": "100%",
+      "type": "armor",
+      "notes": ""
+    },
+    {
+      "name": "Helmet or shield",
+      "price": "varies",
+      "ac": 9,
+      "movement": "100%",
+      "type": "armor",
+      "notes": "Base improvement"
+    },
+    {
+      "name": "Cuirass (leather)",
+      "price": "3 gp",
+      "ac": 8,
+      "movement": "100%",
+      "type": "armor",
+      "notes": "Leather breastplate"
+    },
+    {
+      "name": "Furs",
+      "price": "2 gp",
+      "ac": 8,
+      "movement": "100%",
+      "type": "armor",
+      "notes": "Thick pelt protection"
+    },
+    {
+      "name": "Gambeson",
+      "price": "4 gp",
+      "ac": 8,
+      "movement": "100%",
+      "type": "armor",
+      "notes": "Padded quilted armor"
+    },
+    {
+      "name": "Lamellar (leather)",
+      "price": "15 gp",
+      "ac": 8,
+      "movement": "75%",
+      "type": "armor",
+      "notes": "Leather scale mail"
+    },
+    {
+      "name": "Ring",
+      "price": "30 gp",
+      "ac": 7,
+      "movement": "75%",
+      "type": "armor",
+      "notes": "Metal rings on leather backing"
+    },
+    {
+      "name": "Brigandine",
+      "price": "30 gp",
+      "ac": 7,
+      "movement": "75%",
+      "type": "armor",
+      "notes": "Metal plates inside a jacket"
+    },
+    {
+      "name": "Scale (leather)",
+      "price": "25 gp",
+      "ac": 7,
+      "movement": "50%",
+      "type": "armor",
+      "notes": "Leather scale mail"
+    },
+    {
+      "name": "Lamellar (steel)",
+      "price": "35 gp",
+      "ac": 7,
+      "movement": "50%",
+      "type": "armor",
+      "notes": "Steel scale mail"
+    },
+    {
+      "name": "Cuirass (steel)",
+      "price": "60 gp",
+      "ac": 6,
+      "movement": "60%",
+      "type": "armor",
+      "notes": "Steel breastplate"
+    },
+    {
+      "name": "Scale (steel)",
+      "price": "45 gp",
+      "ac": 6,
+      "movement": "50%",
+      "type": "armor",
+      "notes": "Steel scale mail"
+    },
+    {
+      "name": "Mail",
+      "price": "75 gp",
+      "ac": 5,
+      "movement": "75%",
+      "type": "armor",
+      "notes": "Interlinked steel rings"
+    },
+    {
+      "name": "Plated mail",
+      "price": "90 gp",
+      "ac": 4,
+      "movement": "75%",
+      "type": "armor",
+      "notes": "Mail with steel plates"
+    },
+    {
+      "name": "Plate",
+      "price": "400 gp",
+      "ac": 3,
+      "movement": "50%",
+      "type": "armor",
+      "notes": "Full suit of steel plates"
+    },
+    {
+      "name": "Jousting plate",
+      "price": "4,000 gp",
+      "ac": 1,
+      "movement": "50%",
+      "type": "armor",
+      "notes": "Extra-thick tournament armor"
+    }
+  ],
+  "clothing": [
+    {
+      "name": "Belt",
+      "price": "3 sp",
+      "weight": "0.3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Boots, high, hard",
+      "price": "2 gp",
+      "weight": "6 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Boots, high, soft",
+      "price": "1 gp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Boots, low, hard",
+      "price": "1 gp",
+      "weight": "6 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Boots, low, soft",
+      "price": "8 sp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cap",
+      "price": "1 sp",
+      "weight": "0.2 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, bear",
+      "price": "300 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, beaver",
+      "price": "200 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, ermine",
+      "price": "3600 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, fox",
+      "price": "300 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, marten",
+      "price": "400 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, mink",
+      "price": "2700 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, muskrat",
+      "price": "100 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, sable",
+      "price": "4500 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, seal",
+      "price": "125 gp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, cloth",
+      "price": "5 sp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Cloak/jacket, leather",
+      "price": "5 gp",
+      "weight": "4 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Clothing, set, arctic",
+      "price": "15 gp",
+      "weight": "45 lbs",
+      "type": "clothing",
+      "notes": "Treats temperature as 40\u00b0 warmer"
+    },
+    {
+      "name": "Clothing, set, cold weather",
+      "price": "7 gp",
+      "weight": "25 lbs",
+      "type": "clothing",
+      "notes": "Treats temperature as 20\u00b0 warmer"
+    },
+    {
+      "name": "Clothing, set, lower class",
+      "price": "10 cp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Clothing, set, middle class",
+      "price": "10 sp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Clothing, set, upper class",
+      "price": "10 gp",
+      "weight": "3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, bear",
+      "price": "600 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, beaver",
+      "price": "400 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, ermine",
+      "price": "7200 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, fox",
+      "price": "600 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, marten",
+      "price": "800 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, mink",
+      "price": "5400 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, muskrat",
+      "price": "200 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, sable",
+      "price": "9000 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, seal",
+      "price": "250 gp",
+      "weight": "7 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, cloth",
+      "price": "10 sp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Coat, leather",
+      "price": "10 gp",
+      "weight": "6 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Girdle, wide",
+      "price": "2 gp",
+      "weight": "2 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Girdle, normal",
+      "price": "10 sp",
+      "weight": "1 lb",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Hat",
+      "price": "7 sp",
+      "weight": "0.3 lbs",
+      "type": "clothing",
+      "notes": ""
+    },
+    {
+      "name": "Robe",
+      "price": "6 sp",
+      "weight": "5 lbs",
+      "type": "clothing",
+      "notes": ""
+    }
+  ],
+  "weapons" :[
+    {
+      "name": "Aklys",
+      "price": 2.0,
+      "weight": 3.0,
+      "range_s": 3,
+      "range_m": null,
+      "range_l": null,
+      "rate_of_fire": 1,
+      "damage_sm": "1-6",
+      "damage_l": "1-3",
+      "armor_adjustments": {
+        "jousting": -6,
+        "plate": -4,
+        "plated_mail": -3,
+        "mail": -2,
+        "scale_steel": -1,
+        "ring_brigandine": -1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 6
+    },
+    {
+      "name": "Atlatl",
+      "price": 1.0,
+      "weight": 3.0,
+      "armor_adjustments": {
+        "jousting": -7,
+        "plate": -5,
+        "plated_mail": -4,
+        "mail": -3,
+        "scale_steel": -2,
+        "ring_brigandine": -1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Axe, battle",
+      "price": 5.0,
+      "weight": 7.0,
+      "length": "4\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "1-8",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": -4,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Axe, hand",
+      "price": 1.0,
+      "weight": 5.0,
+      "length": "18\u201d",
+      "initiative_penalty": 4,
+      "damage_sm": "1-6",
+      "damage_l": "1-4",
+      "armor_adjustments": {
+        "jousting": -4,
+        "plate": -2,
+        "plated_mail": -2,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Axe, throwing",
+      "price": 1.0,
+      "weight": 5.0,
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 1,
+      "damage_sm": "1-6",
+      "damage_l": "1-4",
+      "armor_adjustments": {
+        "jousting": -5,
+        "plate": -3,
+        "plated_mail": -2,
+        "mail": -1,
+        "scale_steel": -1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Bardiche",
+      "price": 7.0,
+      "weight": 12.0,
+      "length": "5\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "2-8",
+      "damage_l": "3-12",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Bec de corbin",
+      "price": 6.0,
+      "weight": 10.0,
+      "length": "6\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "1-8",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": 2,
+        "plate": 2,
+        "plated_mail": 2,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Bill-guisarme",
+      "price": 6.0,
+      "weight": 15.0,
+      "length": "8\u2019",
+      "initiative_penalty": 10,
+      "damage_sm": "2-8",
+      "damage_l": "1-10",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Blowgun",
+      "price": 20.0,
+      "weight": 1.0,
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -12,
+        "plate": -8,
+        "plated_mail": -6,
+        "mail": -4,
+        "scale_steel": -2,
+        "ring_brigandine": -1,
+        "scale_leather": -1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Bow, composite, long",
+      "price": 100.0,
+      "weight": 8.0,
+      "range_s": 60,
+      "range_m": 120,
+      "range_l": 210,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Bow, composite, short",
+      "price": 75.0,
+      "weight": 5.0,
+      "range_s": 50,
+      "range_m": 100,
+      "range_l": 180,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Bow, long",
+      "price": 60.0,
+      "weight": 10.0,
+      "range_s": 70,
+      "range_m": 140,
+      "range_l": 210,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 2,
+        "ring_brigandine": 3,
+        "scale_leather": 3,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Bow, short",
+      "price": 15.0,
+      "weight": 5.0,
+      "range_s": 50,
+      "range_m": 100,
+      "range_l": 150,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Caltrop",
+      "price": 0.2,
+      "weight": 0.5,
+      "length": "n/a",
+      "initiative_penalty": null,
+      "damage_sm": "1",
+      "damage_l": "1-2",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": -1,
+        "ring_brigandine": -1,
+        "scale_leather": -1,
+        "shield_only": -1,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Crossbow, hand",
+      "price": 300.0,
+      "weight": 2.0,
+      "range_s": 20,
+      "range_m": 40,
+      "range_l": 60,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": -4,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Crossbow, heavy",
+      "price": 20.0,
+      "weight": 8.0,
+      "range_s": 80,
+      "range_m": 160,
+      "range_l": 240,
+      "rate_of_fire": 0.5,
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 1,
+        "mail": 2,
+        "scale_steel": 3,
+        "ring_brigandine": 3,
+        "scale_leather": 4,
+        "shield_only": 4,
+        "no_armor": 4
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Crossbow, light",
+      "price": 12.0,
+      "weight": 5.0,
+      "range_s": 60,
+      "range_m": 120,
+      "range_l": 180,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 3,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Crossbow, repeating",
+      "price": 50.0,
+      "weight": 6.0,
+      "range_s": 40,
+      "range_m": 80,
+      "range_l": 120,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 3,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Crossbow, underwater",
+      "price": 120.0,
+      "weight": 5.0,
+      "range_s": 30,
+      "range_m": 60,
+      "range_l": 90,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 3,
+        "shield_only": 3,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Dagger",
+      "price": 2.0,
+      "weight": 1.0,
+      "length": "15\u201d",
+      "initiative_penalty": 2,
+      "damage_sm": "1-4",
+      "damage_l": "1-3",
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -6,
+        "plate": -4,
+        "plated_mail": -3,
+        "mail": -2,
+        "scale_steel": -1,
+        "ring_brigandine": -1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Dart",
+      "price": 0.5,
+      "weight": 0.5,
+      "range_s": 15,
+      "range_m": 30,
+      "range_l": 45,
+      "rate_of_fire": 3,
+      "damage_sm": "1-3",
+      "damage_l": "1-2",
+      "armor_adjustments": {
+        "jousting": -6,
+        "plate": -4,
+        "plated_mail": -3,
+        "mail": -2,
+        "scale_steel": -1,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Falchion",
+      "price": 10.0,
+      "weight": 7.0,
+      "length": "3 \u00bd\u2019",
+      "initiative_penalty": 5,
+      "damage_sm": "2-7",
+      "damage_l": "2-4",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Fauchard",
+      "price": 3.0,
+      "weight": 6.0,
+      "length": "8\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "1-6",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 1,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Fauchard-fork",
+      "price": 8.0,
+      "weight": 8.0,
+      "length": "8\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "1-8",
+      "damage_l": "1-10",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Flail, footman\u2019s",
+      "price": 3.0,
+      "weight": 15.0,
+      "length": "4\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "2-7",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": 3,
+        "plate": 2,
+        "plated_mail": 1,
+        "mail": 2,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Flail, horseman\u2019s",
+      "price": 8.0,
+      "weight": 3.0,
+      "length": "2\u2019",
+      "initiative_penalty": 6,
+      "damage_sm": "2-5",
+      "damage_l": "2-5",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Garrote",
+      "price": 0.5,
+      "weight": 0.1,
+      "length": "3\u2019",
+      "initiative_penalty": 2,
+      "damage_sm": "1-4",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": 3,
+        "plate": 3,
+        "plated_mail": 2,
+        "mail": 2,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Glaive",
+      "price": 6.0,
+      "weight": 7.0,
+      "length": "8\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "1-6",
+      "damage_l": "1-10",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Glaive-guisarme",
+      "price": 10.0,
+      "weight": 10.0,
+      "length": "8\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "2-8",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Guisarme",
+      "price": 5.0,
+      "weight": 8.0,
+      "length": "6\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "2-8",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": -1,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Guisarme-voulge",
+      "price": 7.0,
+      "weight": 15.0,
+      "length": "7\u2019",
+      "initiative_penalty": 10,
+      "damage_sm": "2-8",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Halberd",
+      "price": 9.0,
+      "weight": 17.0,
+      "length": "5\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "1-10",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": 1,
+        "plate": 1,
+        "plated_mail": 1,
+        "mail": 2,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Hammer, war",
+      "price": 1.0,
+      "weight": 5.0,
+      "length": "18\u201d",
+      "initiative_penalty": 4,
+      "damage_sm": "2-5",
+      "damage_l": "1-4",
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Hammer, lucern",
+      "price": 7.0,
+      "weight": 15.0,
+      "armor_adjustments": {
+        "jousting": 1,
+        "plate": 1,
+        "plated_mail": 2,
+        "mail": 2,
+        "scale_steel": 2,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 9,
+      "damage_sm": "2-8",
+      "damage_l": "1-6"
+    },
+    {
+      "name": "Harpoon",
+      "price": 5.0,
+      "weight": 6.0,
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 1,
+      "damage_sm": "2-8",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": -5,
+        "plate": -3,
+        "plated_mail": -2,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Hook fauchard",
+      "price": 6.0,
+      "weight": 8.0,
+      "length": "8\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "1-4",
+      "damage_l": "1-4",
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Javelin",
+      "price": 1.0,
+      "weight": 2.0,
+      "range_s": 20,
+      "range_m": 40,
+      "range_l": 60,
+      "rate_of_fire": 1,
+      "damage_sm": "1-6",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": -6,
+        "plate": -4,
+        "plated_mail": -3,
+        "mail": -2,
+        "scale_steel": -1,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Khopesh",
+      "price": 10.0,
+      "weight": 7.0,
+      "length": "3 \u00bd\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "2-8",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 1,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Knife",
+      "price": 1.0,
+      "weight": 0.5,
+      "length": "1\u2019",
+      "initiative_penalty": 2,
+      "damage_sm": "1-3",
+      "damage_l": "1-2",
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 2,
+      "armor_adjustments": {
+        "jousting": -6,
+        "plate": -4,
+        "plated_mail": -3,
+        "mail": -2,
+        "scale_steel": -1,
+        "ring_brigandine": -1,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Lance, light",
+      "price": 6.0,
+      "weight": 5.0,
+      "length": "10\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "1-6",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 1,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Lance, medium",
+      "price": 6.0,
+      "weight": 10.0,
+      "length": "12\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "2-7",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 1,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Lance, heavy",
+      "price": 6.0,
+      "weight": 15.0,
+      "length": "14\u2019",
+      "initiative_penalty": 6,
+      "damage_sm": "3-10",
+      "damage_l": "3-18",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 2,
+        "plated_mail": 2,
+        "mail": 2,
+        "scale_steel": 1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Lasso",
+      "price": 0.5,
+      "weight": 2.0,
+      "armor_adjustments": {
+        "jousting": 8,
+        "plate": 6,
+        "plated_mail": 5,
+        "mail": 4,
+        "scale_steel": 3,
+        "ring_brigandine": 2,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 9,
+      "damage_sm": null,
+      "damage_l": null
+    },
+    {
+      "name": "Mace, footman\u2019s",
+      "price": 8.0,
+      "weight": 10.0,
+      "length": "2 \u00bd\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "2-7",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": 2,
+        "plate": 1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 1,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Mace, horseman\u2019s",
+      "price": 4.0,
+      "weight": 5.0,
+      "length": "18\u201d",
+      "initiative_penalty": 6,
+      "damage_sm": "1-6",
+      "damage_l": "1-4",
+      "armor_adjustments": {
+        "jousting": 2,
+        "plate": 1,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Mace, two-handed",
+      "price": 13.0,
+      "weight": 15.0,
+      "length": "5\u2019",
+      "initiative_penalty": 10,
+      "damage_sm": "2-12",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": 2,
+        "plate": 2,
+        "plated_mail": 1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 2,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Man catcher",
+      "price": 25.0,
+      "weight": 8.0,
+      "length": "8\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "1-2",
+      "damage_l": "1-2",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": -1,
+        "shield_only": -2,
+        "no_armor": -3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Military fork",
+      "price": 4.0,
+      "weight": 7.0,
+      "length": "7\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "1-8",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Morning star",
+      "price": 5.0,
+      "weight": 12.0,
+      "length": "4\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "2-8",
+      "damage_l": "2-7",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 1,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 2,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Partisan",
+      "price": 10.0,
+      "weight": 8.0,
+      "length": "7\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "1-6",
+      "damage_l": "2-7",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Pick, military, footman\u2019s",
+      "price": 8.0,
+      "weight": 6.0,
+      "armor_adjustments": {
+        "jousting": 3,
+        "plate": 2,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 0,
+        "ring_brigandine": -1,
+        "scale_leather": -1,
+        "shield_only": -1,
+        "no_armor": -2
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 7,
+      "damage_sm": "2-7",
+      "damage_l": "2-8"
+    },
+    {
+      "name": "Pick, military, horseman\u2019s",
+      "price": 5.0,
+      "weight": 4.0,
+      "armor_adjustments": {
+        "jousting": 3,
+        "plate": 2,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 0,
+        "ring_brigandine": -1,
+        "scale_leather": -1,
+        "shield_only": -1,
+        "no_armor": -2
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 6,
+      "damage_sm": "2-5",
+      "damage_l": "2-6"
+    },
+    {
+      "name": "Pike, awl",
+      "price": 3.0,
+      "weight": 8.0,
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -2,
+        "mail": -1,
+        "scale_steel": -1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 1
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 13,
+      "damage_sm": "1-6",
+      "damage_l": "1-12"
+    },
+    {
+      "name": "Pole axe",
+      "price": 8.0,
+      "weight": 15.0,
+      "length": "7\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "2-9",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": 2,
+        "plate": 2,
+        "plated_mail": 2,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Quarterstaff",
+      "price": 3.0,
+      "weight": 10.0,
+      "length": "7\u2019",
+      "initiative_penalty": 4,
+      "damage_sm": "1-6",
+      "damage_l": "1-6",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 2,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Ranseur",
+      "price": 4.0,
+      "weight": 5.0,
+      "length": "8\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "2-8",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sap",
+      "price": 1.0,
+      "weight": 1.0,
+      "length": "6\u201d",
+      "initiative_penalty": 2,
+      "damage_sm": "1-2",
+      "damage_l": "1-2",
+      "armor_adjustments": {
+        "jousting": -13,
+        "plate": -10,
+        "plated_mail": -8,
+        "mail": -6,
+        "scale_steel": -5,
+        "ring_brigandine": -4,
+        "scale_leather": -3,
+        "shield_only": -2,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Scimitar",
+      "price": 15.0,
+      "weight": 4.0,
+      "length": "3\u2019",
+      "initiative_penalty": 4,
+      "damage_sm": "1-8",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -2,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Scythe",
+      "price": 18.0,
+      "weight": 10.0,
+      "length": "7\u2019",
+      "initiative_penalty": 9,
+      "damage_sm": "1-6",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sling",
+      "price": 1.0,
+      "weight": 0.1,
+      "range_s": 40,
+      "range_m": 80,
+      "range_l": 160,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": -3,
+        "plate": -2,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 2,
+        "shield_only": 1,
+        "no_armor": 3
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Spear",
+      "price": 1.0,
+      "weight": 5.0,
+      "length": "5\u2019-12\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "1-6",
+      "damage_l": "1-8",
+      "range_s": 10,
+      "range_m": 20,
+      "range_l": 30,
+      "rate_of_fire": 1,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": -1,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 0,
+        "shield_only": 0,
+        "no_armor": 0
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Spetum",
+      "price": 3.0,
+      "weight": 5.0,
+      "length": "8\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "2-7",
+      "damage_l": "2-12",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Spiked buckler",
+      "price": 10.0,
+      "weight": 3.0,
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 0,
+        "scale_steel": 0,
+        "ring_brigandine": 0,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee",
+      "initiative_penalty": 2,
+      "damage_sm": "1-4",
+      "damage_l": "1-3"
+    },
+    {
+      "name": "Staff sling",
+      "price": 2.0,
+      "weight": 10.0,
+      "range_s": null,
+      "range_m": 45,
+      "range_l": 90,
+      "rate_of_fire": 0.5,
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": -1,
+        "mail": 0,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 3,
+        "shield_only": 3,
+        "no_armor": 4
+      },
+      "type": "weapon_ranged"
+    },
+    {
+      "name": "Sword, bastard",
+      "price": 25.0,
+      "weight": 10.0,
+      "length": "4 \u00bd\u2019",
+      "initiative_penalty": 6,
+      "damage_sm": "2-8",
+      "damage_l": "2-16",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 1,
+        "plated_mail": 1,
+        "mail": 2,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sword, broad",
+      "price": 10.0,
+      "weight": 7.0,
+      "length": "3 \u00bd\u2019",
+      "initiative_penalty": 5,
+      "damage_sm": "2-8",
+      "damage_l": "2-7",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sword, long",
+      "price": 15.0,
+      "weight": 6.0,
+      "length": "3 \u00bd\u2019",
+      "initiative_penalty": 5,
+      "damage_sm": "1-8",
+      "damage_l": "1-12",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sword, short",
+      "price": 8.0,
+      "weight": 3.0,
+      "length": "2\u2019",
+      "initiative_penalty": 3,
+      "damage_sm": "1-6",
+      "damage_l": "1-8",
+      "armor_adjustments": {
+        "jousting": -2,
+        "plate": -1,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Sword, two-handed",
+      "price": 30.0,
+      "weight": 25.0,
+      "length": "6\u2019",
+      "initiative_penalty": 10,
+      "damage_sm": "1-10",
+      "damage_l": "3-18",
+      "armor_adjustments": {
+        "jousting": 1,
+        "plate": 2,
+        "plated_mail": 2,
+        "mail": 2,
+        "scale_steel": 2,
+        "ring_brigandine": 2,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Trident",
+      "price": 4.0,
+      "weight": 5.0,
+      "length": "6\u2019",
+      "initiative_penalty": 7,
+      "damage_sm": "2-7",
+      "damage_l": "3-12",
+      "armor_adjustments": {
+        "jousting": 0,
+        "plate": 0,
+        "plated_mail": 1,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 2,
+        "shield_only": 2,
+        "no_armor": 3
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Voulge",
+      "price": 2.0,
+      "weight": 12.0,
+      "length": "8\u2019",
+      "initiative_penalty": 10,
+      "damage_sm": "2-8",
+      "damage_l": "2-8",
+      "armor_adjustments": {
+        "jousting": -1,
+        "plate": 0,
+        "plated_mail": 0,
+        "mail": 1,
+        "scale_steel": 1,
+        "ring_brigandine": 1,
+        "scale_leather": 1,
+        "shield_only": 1,
+        "no_armor": 2
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Whip",
+      "price": 3.0,
+      "weight": 3.0,
+      "length": "8\u2019-20\u2019",
+      "initiative_penalty": 8,
+      "damage_sm": "1-2",
+      "damage_l": "1",
+      "armor_adjustments": {
+        "jousting": 8,
+        "plate": 6,
+        "plated_mail": 5,
+        "mail": 4,
+        "scale_steel": 3,
+        "ring_brigandine": 2,
+        "scale_leather": 1,
+        "shield_only": 0,
+        "no_armor": -1
+      },
+      "type": "weapon_melee"
+    },
+    {
+      "name": "Arrow (normal)",
+      "damage_sm": "1-6",
+      "damage_l": "1-6",
+      "type": "weapon_ammo",
+      "price": 0.1,
+      "weight": 0.2,
+      "notes": "dozen arrows, 1 g.p., 1 lb"
+    },
+    {
+      "name": "Blowgun needle",
+      "damage_sm": "1",
+      "damage_l": "1",
+      "type": "weapon_ammo",
+      "price": 0.05,
+      "weight": null,
+      "notes": "price per needle"
+    },
+    {
+      "name": "Crossbow bolt, hand",
+      "damage_sm": "1-3",
+      "damage_l": "1-2",
+      "type": "weapon_ammo",
+      "price": 10.0,
+      "weight": 0.1,
+      "notes": "price per bolt"
+    },
+    {
+      "name": "Crossbow bolt, heavy",
+      "damage_sm": "2-5",
+      "damage_l": "2-7",
+      "type": "weapon_ammo",
+      "price": 0.1,
+      "weight": 0.2,
+      "notes": "dozen bolts, 2.4 s.p., 2.4 lbs"
+    },
+    {
+      "name": "Crossbow bolt, light",
+      "damage_sm": "1-4",
+      "damage_l": "1-4",
+      "type": "weapon_ammo",
+      "price": 0.05,
+      "weight": 0.1,
+      "notes": "dozen bolts, 1.2 s.p., 1.2 lbs"
+    },
+    {
+      "name": "Crossbow bolt, repeating",
+      "damage_sm": "1-3",
+      "damage_l": "1-3",
+      "type": "weapon_ammo",
+      "price": 0.05,
+      "weight": 0.1,
+      "notes": "assumed same as light bolt"
+    },
+    {
+      "name": "Crossbow bolt, underwater",
+      "damage_sm": "1-4",
+      "damage_l": "1-4",
+      "type": "weapon_ammo",
+      "price": 0.1,
+      "weight": 0.2,
+      "notes": "assumed same as heavy bolt"
+    },
+    {
+      "name": "Sling bullet",
+      "damage_sm": "2-5",
+      "damage_l": "2-7",
+      "type": "weapon_ammo",
+      "price": 0.05,
+      "weight": 0.1,
+      "notes": "dozen bullets, 1 g.p., 1 lb"
+    },
+    {
+      "name": "Sling stone",
+      "damage_sm": "1-4",
+      "damage_l": "1-4",
+      "type": "weapon_ammo",
+      "price": null,
+      "weight": 0.5,
+      "notes": "dozen stones, n/a g.p., 0.5 lb"
+    },
+    {
+      "name": "Staff sling bullet",
+      "damage_sm": "2-8",
+      "damage_l": "3-10",
+      "type": "weapon_ammo",
+      "price": 0.05,
+      "weight": 0.1,
+      "notes": "assumed same as sling bullet"
+    },
+    {
+      "name": "Staff sling stone",
+      "damage_sm": "1-8",
+      "damage_l": "2-8",
+      "type": "weapon_ammo",
+      "price": null,
+      "weight": 0.5,
+      "notes": "assumed same as sling stone"
+    }
+  ]
+}
