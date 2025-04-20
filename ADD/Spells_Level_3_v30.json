@@ -1,0 +1,1636 @@
+{
+  "info": {
+    "name": "ADD Level 3 Spells",
+    "author": "Brandon Mathis",
+    "sources": [
+      "Adventures Dark and Deep Core Rulebook"
+    ]
+  },
+  "spells": [
+    {
+      "name": "Amnesia",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "school": "Enchantment/Charm",
+      "range": "30\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "3 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook",
+      "id": 5214,
+      "description": "This spell wipes the short-term memory from the target creature(s). Up to 1 hour of memories per level of the caster can be so erased. The target(s) must be within 30\u2019 of the caster, and must all be within a 20\u2019 x 20\u2019 area; up to 4 targets may be so affected. The targets do get a saving throw vs. spells; if there is only 1 target, he gets a -2 penalty on his save; if there are 2 targets, they get -1 penalties; 3 or 4 targets make their saving throws normally.\n\nNote that this spell won\u2019t negate the effects of other mind-altering spells cast on the target during the time erased from memory, but it might make the target forget who cast those spells in the first place! The spell can be negated by means of a *heal*, *restoration*, or *wish* spell."
+    },
+    {
+      "name": "Animate Dead",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "school": "Necromantic",
+      "range": "10\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "2 rounds",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5215,
+      "description": "This spell allows the caster to create animated skeletons or zombies from skeletal remains or corpses. These undead creatures will then obey the simple commands of the caster, and will remain animated until they are destroyed by some means.\n\nThe number of undead created depends on the type:\n\n**TABLE 281: ANIMATE DEAD**  \n| Undead Type        | Number Created             |  \n|--------------------|----------------------------|  \n| Animal skeleton    | 2 per level of the caster  |  \n| Skeleton           | 1 per level of the caster  |  \n| Zombie             | 1 per level of the caster  |  \n| Giant zombie       | 1 per 3 levels of the caster |  \n| Giant skeleton     | 1 per 4 levels of the caster |\n\nSee the *Adventures Dark and Deep\u2122 Bestiary* for more details. If the corpses are still in their grave(s), it will take 1\u20136 rounds for them to dig themselves out from the earth, on average (and if possible!)."
+    },
+    {
+      "name": "Answer",
+      "caster": [
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "school": "Divination",
+      "range": "2\u2019",
+      "duration": "Instantaneous",
+      "areaOfEffect": "One book",
+      "components": "V,S",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5216,
+      "description": "This spell causes a book or scroll to open to the desired answer to a question, assuming the answer appears in the book in the first place. The caster states the question (up to 36 words) and waves his hand over the book (which must lie flat, and not be impeded by any sort of device such as a lock, or weight upon its cover). The book will then open and the pages riffle to the correct page, or the scroll will unroll to the proper position, wherein the answer may be found.\n\nThe spell does not impart any understanding of the language in which the book is written and, if the answer is obscure, will not yield any clues to its nature, save that it is to be found on one of the two pages to which the book has opened itself."
+    },
+    {
+      "name": "Awaken Third Chakra",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "2 hours / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "See below",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5217,
+      "description": "By means of this intense meditation, the caster can activate the third of seven energy centers of the body \u2013 the seven chakras \u2013 located at the solar plexus. Once the spell is completed, the recipient gains the following effects:\n\n- A bonus of +1 \u201cto hit\u201d and +1 to any damage, when in melee combat  \n- A +2 bonus to any saving throws vs. fear (if no saving throw is normally allowed, the recipient gets a saving throw with no bonus)  \n- A bonus of +1 to any ability checks made vs. strength  \n  (Only one stat check bonus can be in effect at a time. This takes precedence over lower chakras being awakened, and will be lost if higher chakras are awakened.)\n\nIf the first and second chakras have been awakened prior to the third, the recipient gains 1 point of constitution for as long as all three spells remain in effect, subject to racial maximums. Ability score bonuses due to chakra awakening are cumulative.\n\nThis spell can only be in effect upon the same person once at any given time.\n\nIf cast alone, this spell takes 3 turns to cast. If the first two chakras of the subject have already been awakened, this spell only takes 1 turn."
+    },
+    {
+      "name": "Boundary",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "school": "Evocation",
+      "range": "30\u2019 + 5\u2019/level",
+      "duration": "1 round / level",
+      "areaOfEffect": "10\u2019 diameter circle",
+      "components": "V",
+      "castingTime": "3 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook",
+      "id": 5218,
+      "description": "This spell allows the caster to create a circular boundary; any creature in the boundary when the spell is cast will be unable to leave it for the duration of the spell. No melee combat is possible unless an enemy enters the boundary. The spell does not prohibit spellcasting by the creature(s) imprisoned within the boundary.\n\nA creature trapped within may attempt to force its way out by making a saving throw vs. spells. Success indicates it has forced its way through. Creatures with magic resistance may attempt to use it to force their way through the boundary. Only one such attempt is allowed in either case.\n\nOnly creatures in the boundary when it is first created are so trapped; others may pass into and out of the boundary without limitation.\n\nNon-corporeal undead or similar creatures are not affected by the spell, and creatures capable of becoming astral or ethereal, blinking, teleporting, etc., can escape that way without needing a saving throw."
+    },
+    {
+      "name": "Call Lightning",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "school": "Alteration",
+      "range": "360\u2019",
+      "duration": "See below",
+      "areaOfEffect": "10\u2019 radius",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "\u00bd damage",
+      "source": "ADD_Core_Rulebook",
+      "id": 5219,
+      "description": "This spell calls a bolt of lightning from the heavens, which strikes a target designated by the caster. The target must be outdoors and the weather must be cloudy or stormy for the spell to work (natural conditions only). A bolt of lightning causes 2d8 + 1 point per caster level in damage (maximum 10d8 + 10).\n\nThe bolt strikes one round after the spell is cast. The caster may call down 1 bolt per 10 minutes (1 turn) for as long as the weather conditions remain suitable, up to a maximum number of bolts equal to the caster\u2019s level.\n\nThe area of effect of the bolt is a cylinder 10\u2019 wide and 60\u2019 high. Creatures in the area of effect may make a saving throw for half damage. Trees and similar flammable objects may be ignited at the game master's discretion."
+    },
+    {
+      "name": "Cloudburst",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "druid",
+          "level": 3
+        },
+        {
+          "class": "jester",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "school": "Alteration",
+      "range": "10\u2019/level",
+      "duration": "1 round",
+      "areaOfEffect": "cylinder 30\u2019 x 60\u2019",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5220,
+      "description": "This spell will cause an area some 30\u2019 in diameter and 60\u2019 high to suddenly be struck by a downpour of rain. A full inch of rain will fall in but a single round, after which time the spell will have run its course. Even the largest non-magical fires will be extinguished by the time the spell is done, while permanent magical fires will reignite themselves after a round or two. Small flame-based spells such as *burning hands* will be rendered ineffectual, while larger area-based fire spells such as *flame strike* or *fireball* will cause an immense cloud of steam some 120\u2019 in diameter and 240\u2019 high that does 1\u20133 hit points of damage to most creatures, and twice that to cold-based or cold-using creatures. The steam will last 2\u20135 rounds under normal conditions, but only a single round in strong wind.\n\nIn dry conditions, the spell will only operate as a double-strength *precipitation* spell. In humid climates, the spell will have twice its normal duration. At the freezing mark, the rain will become ice and sleet, while below freezing up to 10\u201d of snow will fall. There is no electrical component to the spell, and thus it cannot be used to accommodate a *call lightning* spell.\n\nThe spell requires a pinch of powdered silver and powdered iodine crystals, which are consumed as the spell is cast, and the caster\u2019s holy symbol, which is not. When cast by a magic-user, no holy symbol is required.\n\nThis spell cannot be cast underwater."
+    },
+    {
+      "name": "Comfortable Refuge",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "school": "Evocation",
+      "range": "30\u2019",
+      "duration": "6 turns / level",
+      "areaOfEffect": "One 20\u2019 diameter",
+      "components": "V",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5221,
+      "description": "This spell calls into existence a pavilion-style tent, able to hold up to 15 persons within, including the caster. It remains in force up to 1 hour per caster level, and maintains a constant temperature of 70 degrees Fahrenheit within, regardless of the temperature outside. The sphere also provides protection against winds up to 100 miles per hour. It does not defend against spells, arrows, or other forms of attack, but vermin and other animals cannot enter the tent except at the discretion of the caster. The tent will remain if the caster leaves it, but only for half the normal time."
+    },
+    {
+      "name": "Create Food & Water",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5222,
+      "description": "This spell allows the caster to create enough wholesome and nutritious food to sustain three humans (or one horse) for one day per level of the caster. The caster has the option to create a cubic foot of water per level, or any combination of food and water, as long as the maximum is not exceeded.",
+      "school": "Alteration",
+      "range": "10\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "Enough to sustain 3 humans (or 1 horse) per caster level",
+      "components": "V,S",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Crystal Magic III",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "school": "Evocation",
+      "range": "0",
+      "duration": "6 hours",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "6 turns",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook",
+      "id": 5223,
+      "description": "This spell allows the caster, by concentrating on an attuned crystal, to call forth its power for a specific purpose. The caster may choose between the following:\n\n- **Maximize effort.** One of the caster\u2019s spells functions at maximum effectiveness (caster\u2019s choice as to which spell this is, as long as he casts it within six hours).  \n- **Magical reservoir.** The caster may store the energy of two spells of second level or less in the crystal. They must be cast within the next six hours or they are lost. Note that these spells are \u201cbonus\u201d spells and do not need to be previously memorized to be stored within the crystal.\n\nThe spell requires a crystal of at least 100 g.p. value, which is not destroyed by the casting. Note that the same crystal cannot be used to power different versions of this spell at the same time, and multiple castings of the spell cannot be active simultaneously (even if a different specific effect is chosen). The caster must therefore choose which of the above effects he will benefit from for the next six hours."
+    },
+    {
+      "name": "Cure Blindness / Cause Blindness",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ],
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "1 round",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook",
+      "id": 5224,
+      "description": "This spell allows the caster to cure most sorts of blindness by touch. The reverse of the spell, *cause blindness*, affords the target a saving throw vs. spells (and the caster must make a successful attack roll \u201cto hit\u201d as well if the target can move). In both cases, the effect is permanent."
+    },
+    {
+      "name": "Cure Disease / Cause Disease",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "druid",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 4
+        }
+      ],
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "5 rounds",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook",
+      "id": 5225,
+      "description": "This spell allows the caster to cure almost any sort of disease by the laying on of hands. Depending on the severity and nature of the disease in question, the symptoms will be totally gone in anything from ten minutes to a week. The spell can also be used to destroy certain monsters, such as green slime. It should be noted that this spell is ineffective against leprosy (leprosy-like afflictions, on the other hand, such as the rot inflicted by the touch of a mummy, may or may not be cured by the spell, as indicated in the specific description). It is for this reason that leprosy is still a greatly feared disease."
+    },
+    {
+      "name": "Delude",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "mountebank",
+          "level": 3
+        }
+      ],
+      "id": 5226,
+      "description": "This spell allows the caster to mask his own alignment with that of some other creature within 30' at the time the spell is cast (they can move further apart once the spell has been cast). The creature whose alignment is being used to mask that of the caster must have an intelligence of 2 or greater, and is entitled to a saving throw vs. spells; success indicates that its alignment aura cannot be used, and the spell fails. The effect will perfectly fool magic such as *detect evil*, *know alignment*, etc. *Detect magic* will only indicate that the target creature radiates magic, unless the target casts it, in which case the caster will show as radiating magic.",
+      "school": "Illusion/Phantasm",
+      "range": "30\u2019",
+      "duration": "1 turn",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "Negates",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Dispel Illusion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        },
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ],
+      "id": 5227,
+      "description": "This spell will eradicate any single illusion/phantasm type spell. When applied to the spells *phantasmal force* or *audible glamer*, it will always work if the original spell was cast by a non-illusionist. Otherwise, there is a 50% chance that *dispel illusion* will work on a given illusion spell. This chance increases by 5% for every experience level the caster is above the level of the caster whose spell is being dispelled. If the caster is of a lower level, then the chance decreases by 2% per difference in levels. It is always automatically successful when it is used to dispel magic cast by the same caster.",
+      "school": "Abjuration",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "10\u2019/level radius",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "Special",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Dispel Magic",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "druid",
+          "level": 4
+        },
+        {
+          "class": "illusionist",
+          "level": 4
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5228,
+      "description": "This spell will cancel out most sorts of magic. Permanent magical items such as wands, scrolls, enchanted weapons and armor, etc., will not be affected. Magical potions, however, will be rendered inert by its effects (they get a chance to save as if they were 12th level). It will affect spells cast upon objects or people (including charm spells), as well as spells cast in the area of effect. There is a 50% chance that *dispel magic* will work on a given spell. This chance increases by 5% for every experience level the caster is above the level of the caster whose spell is being dispelled. If the caster is of a lower level, then the chance decreases by 2% per difference in levels. It is always automatically successful when it is used to dispel magic cast by the same caster.",
+      "school": "Abjuration",
+      "range": "60\u2019",
+      "duration": "Instantaneous",
+      "areaOfEffect": "30\u2019\u00d730\u2019\u00d730\u2019 cube",
+      "components": "V,S",
+      "castingTime": "6 segments",
+      "savingThrow": "Special",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Distraction",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5229,
+      "description": "The caster causes everyone looking at him to direct their attention to some other point within 10\u2019 per caster level, simply by pointing his finger and uttering the spell. The distraction lasts only for 1 segment per caster level, and any creature with more than 1 hit die, 1 experience level, or an intelligence score of 8 or more, is entitled to a saving throw vs. spells.",
+      "school": "Enchantment/Charm",
+      "range": "10\u2019/level",
+      "duration": "1 segment/level",
+      "areaOfEffect": "30\u2019 radius",
+      "components": "V,S",
+      "castingTime": "3 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Easy Travels",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5230,
+      "description": "This spell allows the caster to increase the overland marching speed of himself and his fellows by 30%, as long as he continues the spell; mounted travel is affected the same as pedestrian travel. Note that the spell does not apply to travel by sea or underground, in cities, or in large buildings. It is not cumulative with other magics that increase overland travel speed, such as *horseshoes of speed*.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 day",
+      "areaOfEffect": "Up to 10 creatures touched",
+      "components": "V,S",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Explosive Runes",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "savant",
+          "level": 4
+        }
+      ],
+      "id": 5231,
+      "description": "This spell allows the caster to protect some written item (a map, book, scroll, etc.), causing it to blow up in the face of some unauthorized reader. The spell will cause 12\u201330 (6d4+6) h.p. of damage to the person reading the item itself, with no saving throw allowed. Anyone else within 10' is allowed a saving throw to take half damage. Magic-users have a 5% chance per experience level to detect explosive runes, and thieves (and others able to read magical items) have a flat 5% chance of recognizing the explosive runes in time. The caster can, of course, either ignore or remove them at will. The item upon which they are cast will be destroyed unless it has some protection against magical fire (i.e., a stone tablet might well survive, but a regular scroll would surely be consumed).",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "One object",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Fear",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        },
+        {
+          "class": "mountebank",
+          "level": 4
+        }
+      ],
+      "id": 5232,
+      "description": "This spell causes those within the area of effect to flee in panic for 1 round per caster level. Targets are entitled to a saving throw vs. spells. On a failed save, they drop whatever they are holding and run at top speed away from the caster, avoiding hazards but otherwise uncontrolled. On a successful save, the fear effect is negated.\n\nThis effect is considered magical fear for purposes of resistances and bonuses.",
+      "school": "Illusion/Phantasm",
+      "range": "0",
+      "duration": "1 round/level",
+      "areaOfEffect": "60\u2019 cone",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "Negates",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Fireball",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5233,
+      "description": "This spell calls into being a fiery explosion. The caster is able to specify the distance and height at which the explosion will take place, as long as it is within 100' plus 10' per experience level (if something intervenes between the caster and the intended blast site, the fireball can and will prematurely detonate upon it).\n\nThe blast will cause 1\u20136 h.p. of damage for every level of the caster; everyone in the blast area is entitled to a saving throw vs. spells. The game master should remember that combustible materials such as scrolls and spell books will burst into flames, and other items vulnerable to extremely high heat must make saving throws as well. Ships and fortifications do not get a saving throw. The explosion fills ~33,000 cubic feet and can backfire in enclosed spaces.\n\nRequires bat guano mixed with sulfur.",
+      "school": "Evocation",
+      "range": "100\u2019 + 10\u2019/level",
+      "duration": "Instantaneous",
+      "areaOfEffect": "40\u2019 radius sphere (~33,000 cu. ft.)",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "\u00bd damage",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Flame Arrow",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5234,
+      "description": "This spell allows the caster to imbue up to 50 projectiles (arrows, bolts, stones, etc.) with magical fire. These missiles ignite as they are fired and do normal damage plus 1 point of fire damage (not subject to resistance unless specifically immune). The effect lasts for 1 turn and the projectiles must be fired within that time or the enchantment fades.\n\nThe enchanted missiles cannot be used underwater and require a drop of oil and a pinch of phosphor.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn",
+      "areaOfEffect": "50 projectiles",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Flame Walk",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5235,
+      "description": "This spell allows the caster to imbue one or more creatures with a complete resistance to non-magical fires up to the temperature of molten lava (approximately 2,000\u00b0 F), and saving throws vs. magical fires are made with a +2 bonus. The caster is able to protect one medium-sized creature per level of experience above 4th (treat horses and centaurs as 6, halflings/gnomes/etc. as 1/2, and pixies/brownies/etc. as 1/4). The spell requires the caster's holy symbol and 500 g.p. worth of powdered ruby; the ruby is destroyed as the spell is cast.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn + 1 turn/level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Fly",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5236,
+      "description": "This spell allows the recipient to fly for a limited time. The subject of the spell may fly at a speed of 120' per round if unencumbered, or 60' if encumbered, for a total of 1 turn + 1 round per caster level. The spell requires a wing feather from a bird.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn + 1 round/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Fresh Air",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5237,
+      "description": "This spell creates a zone of fresh breathable air in a 20\u2019 radius around the caster for as long as he continues the incantation, plus 1 round per level. In this zone, no sort of poison gas will be effective. This spell does not function underwater, however; it is most effective against poison gas, even the breath weapon of a green dragon.",
+      "school": "Alteration",
+      "range": "0",
+      "duration": "Concentration + 1 round/level",
+      "areaOfEffect": "20\u2019 radius",
+      "components": "V",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Fumble",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        },
+        {
+          "class": "mountebank",
+          "level": 4
+        }
+      ],
+      "id": 5238,
+      "description": "This spell causes one creature to become incredibly ham-fisted and ungainly, tripping, dropping weapons and other things, and generally bumbling around. The target must be within 10' per experience level of the caster, and the effect will last for 1 round per level. The affected creature is entitled to a saving throw; a successful save indicates that the target is merely slowed (moving and attacking at half the normal rate). Recovery from the effects of the spell (i.e., picking up a dropped object or picking oneself up after falling) will require a full round to accomplish. The spell requires a bit of butter, which is destroyed in the casting.",
+      "school": "Enchantment/Charm",
+      "range": "10\u2019/level",
+      "duration": "1 round/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "4 segments",
+      "savingThrow": "\u00bd speed",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Glyph of Warding",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5239,
+      "description": "This spell allows the caster to create an inscription designed to protect a portal, passage, object, or other area. The glyph, once cast, is invisible and is activated by the passage or entrance of someone in the area protected. Each glyph has a password; those who speak it are not affected. Example glyph effects include:\n\n- *Paralyzation*: Paralyzes for 1 round/level (half on save)  \n- *Fire or Lightning*: 2 damage/level (half on save)  \n- *Weakness*: Strength -1/turn per level (save negates)  \n- *Confusion*: As the spell, 1 round/level (save negates)  \n- *Greater/Lesser Warding*: Blocks extraplanar beings (duration varies)\n\nThe spell requires incense and, for areas >50 sq. ft., 2,000 g.p. worth of powdered diamond. Lasts until triggered or dispelled.",
+      "school": "Evocation",
+      "range": "Touch",
+      "duration": "Permanent until activated",
+      "areaOfEffect": "25 sq. ft. / level",
+      "components": "V,S,M",
+      "castingTime": "Special",
+      "savingThrow": "Special",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Greater Morphing",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 3
+        }
+      ],
+      "id": 5240,
+      "description": "This spell effects a dramatic change in the appearance of a creature. The caster can make the subject look like a member of another race, sex, or even a specific individual, although no actual abilities are gained. The illusion is perfect to all normal senses but may be pierced by *true seeing*, *dispel magic*, or similar effects. The spell lasts 24 hours.",
+      "school": "Alteration",
+      "range": "30\u2019",
+      "duration": "24 hours",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "Negates",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Hallucinatory Terrain",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ],
+      "id": 5241,
+      "description": "This spell allows the caster to hide the actual nature of a given piece of territory, substituting whatever sort of terrain he wishes. By means of this spell, a hill could be made to appear as a lake, a forest as a field, a road as a stream, a cliff as a gentle grade, etc.\n\nThe area affected depends on the caster's level:  \n- **Magic-user**: one 30' \u00d7 30' square per level  \n- **Illusionist**: one 40' \u00d7 40' square per level  \n\nThe spell takes 10 rounds (magic-user) or 5 rounds (illusionist) to cast. It lasts until dispelled, or entered by an intelligent creature.  \n**Components**: a stone, twig, and leaf or blade of grass, all consumed.",
+      "school": "Illusion/Phantasm",
+      "range": "60\u2019/level",
+      "duration": "Until dispelled or entered",
+      "areaOfEffect": "30\u2019\u00d730\u2019/level (MU) or 40\u2019\u00d740\u2019/level (illusionist)",
+      "components": "V,S,M",
+      "castingTime": "10 rounds (MU), 5 rounds (illusionist)",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Haste",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5242,
+      "description": "This spell increases the movement and attack speed of the affected creatures by a factor of 2. That is, they can move at twice their normal rate and make twice as many attacks in a round as they would normally. It affects 1 creature per experience level of the caster. Note that it will age the recipients of the spell by 1 year. Creatures moving at twice their normal speed suffer a -2 penalty to Armor Class for purposes of being hit by missile weapons.",
+      "school": "Alteration",
+      "range": "60\u2019",
+      "duration": "3 rounds + 1/level",
+      "areaOfEffect": "One creature/level in 40\u2019\u00d740\u2019 area",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Hide in Plain Sight",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 3
+        }
+      ],
+      "id": 5243,
+      "description": "This spell causes a single object to be completely ignored by anyone looking for it. That is, it is not invisible, but rather those seeing it simply take no notice of it. It can be cast upon a living being, but if that being moves more than 10\u2019 per round, the effect is disrupted. The material component is a pinch of flour, which the caster must sprinkle on the object to be hidden.",
+      "school": "Enchantment/Charm",
+      "range": "5\u2019",
+      "duration": "1 turn / level",
+      "areaOfEffect": "9 cu. ft.",
+      "components": "V, S, M",
+      "castingTime": "2 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Hold Animal",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5244,
+      "description": "This spell affects natural animals (e.g., wolves, hawks, horses, etc.), but not fantastic or magical beasts (e.g., manticores or pegasi). The caster may affect 1\u20134 animals, who receive saving throws vs. spells. If only 1 animal is targeted, it receives a -2 penalty to the save; 2 animals save at -1; 3\u20134 save normally. Affected animals are paralyzed for the duration unless freed by *dispel magic*.",
+      "school": "Enchantment/Charm",
+      "range": "80\u2019",
+      "duration": "2 rounds/level",
+      "areaOfEffect": "1\u20134 creatures",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Holy Vestment",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5245,
+      "description": "This spell grants the recipient +2 to Armor Class and saving throws, and their touch is considered holy (affecting creatures like vampires as if wielding a holy symbol). The bonus improves by +1 per 3 caster levels above 7th. The vestment may glow faintly if the caster desires. The spell requires a holy symbol.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "6 rounds/level",
+      "areaOfEffect": "One garment",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Illusionary Script",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5246,
+      "description": "This spell allows the caster to write text that appears normal to those designated, but appears as gibberish or a threatening message to others. Non-designated readers must save vs. spells or be confused for 5\u201320 rounds. The caster must write the message by hand. A special ink is required, costing 50 g.p.",
+      "school": "Illusion/Phantasm",
+      "range": "0",
+      "duration": "Permanent until triggered",
+      "areaOfEffect": "One written page",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "Negates",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Improved Ventriloquism",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5247,
+      "description": "Like *ventriloquism*, but with improved range (up to 60' + 10'/level), and the illusion is harder to disbelieve (saving throws are made with a -2 penalty). The caster can make any object or creature appear to be speaking, even multiple voices if desired. The sound is perfectly synchronized with the caster's gestures or a nearby illusion.",
+      "school": "Illusion/Phantasm",
+      "range": "10\u2019/level (max. 90\u2019)",
+      "duration": "4 rounds + 1 round/level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Infravision",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "mountebank",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 6
+        },
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5248,
+      "description": "This spell allows the caster or another creature to see heat sources in the dark, as if having natural infravision. The effect extends out to 60'. It will function in magical darkness, but not total magical blackness (such as from *blacklight* or similar effects). The spell does not enable sight through walls or other solid objects. Heat from fires or warm blooded creatures will appear as various levels of brightness based on temperature.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 hour/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Invisibility, 10\u2019 Radius",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5249,
+      "description": "This spell functions in exactly the same way as the spell *invisibility*, with the difference that the effect covers all creatures within 10' of a creature touched (or the caster himself). If something under its influence breaks the invisibility by attacking, only that creature loses the benefit of the spell; any others under its effect will remain so. The effect moves with the creature touched.\n\nIf cast by an illusionist, the spell does not require any sort of material component, but if cast by a magic-user it requires an eyelash in gum arabic.",
+      "school": "Illusion/Phantasm",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "10\u2019 radius",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Item",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5250,
+      "description": "This spell allows the caster to shrink one non-living item, up to 500 lbs. in weight, into a tiny cloth scrap. The object must be touched when the spell is cast. It remains shrunk for 1 day per level or until the command word is spoken.\n\nMagical objects are entitled to a saving throw. The spell requires a miniature version of the item to be stored, which is destroyed when the spell is used.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 day/level",
+      "areaOfEffect": "One item (max 500 lbs.)",
+      "components": "V,S,M",
+      "castingTime": "2 segments",
+      "savingThrow": "Negates (if magical)",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Just Out of Time",
+      "caster": [
+        {
+          "class": "jester",
+          "level": 3
+        }
+      ],
+      "id": 5251,
+      "description": "This spell allows the caster to take an action \u201cjust in time\u201d\u2014interrupting or avoiding an otherwise successful action against them (like an enemy\u2019s sword blow or spell). Once cast, it lasts until triggered.\n\nIt gives the caster one chance to \u201cinterrupt\u201d an enemy action and perform one pre-declared simple action in response. A typical use might be: \u201cIf anyone casts *fireball*, I dive behind the pillar.\u201d The spell lasts up to 1 turn or until triggered.\n\nOnly one casting may be in effect per 8-hour period.",
+      "school": "Alteration",
+      "range": "Personal",
+      "duration": "1 turn or until triggered",
+      "areaOfEffect": "The caster",
+      "components": "V",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Locate Object/Obscure Object",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5252,
+      "description": "This spell allows the caster to locate some non-living object which is familiar to him. After casting the spell, the caster slowly turns in a circle holding a small piece of lodestone in front of him. When facing the desired object, he will feel a \u201ctug\u201d on the lodestone, indicating the direction in which it is located.\n\nThe spell can be used to locate commonplace items such as weapons, cloaks, jewelry, doors, stairs, etc. Once cast, the spell lasts one round per level of the caster.\n\nThe reverse of the spell, *obscure object*, renders a non-living object undetectable by magical means such as a crystal ball, spells, etc.",
+      "school": "Divination",
+      "range": "60\u2019 + 10\u2019/level",
+      "duration": "1 turn",
+      "areaOfEffect": "1 object",
+      "components": "V,S,M",
+      "castingTime": "2 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Martial Airs",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5253,
+      "description": "This spell allows the caster to improve the fighting quality of those around him. All those friendly to the caster will strike in melee as if they were fighters, rather than their normal class. Those who are already fighters or cavaliers receive a bonus of +1 on their \u201cto hit\u201d rolls. This applies to missile combat as well, but does not improve hit points, armor class, or saving throws.\n\nThe spell lasts for as long as the caster maintains the incantation, but there is a maximum duration of one round per caster level. This cannot be combined with any other spell effect that gives bonuses in combat (*bless*, etc.).",
+      "school": "Alteration",
+      "range": "0\u2019",
+      "duration": "1 round/level (max)",
+      "areaOfEffect": "20\u2019 radius",
+      "components": "V",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Material",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5254,
+      "description": "This spell allows the caster to create commonplace items such as stone, wood, dirt, sand, dung, water, air, etc. Living plants can also be created, with a percentage chance of success equal to the level of the caster. Living animals, complex or finished items, precious metals or stones, etc., cannot be created using this spell. The material created will remain indefinitely.",
+      "school": "Conjuration/Summoning",
+      "range": "30\u2019",
+      "duration": "Permanent",
+      "areaOfEffect": "1 cubic foot/level",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Meld into Stone",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5255,
+      "description": "This spell allows the caster to blend his body and possessions into stone or rock for a variable amount of time. The caster can be wearing/carrying no more than 100 lbs. of armor and equipment; if he has more, the spell will fail (artifacts and relics cannot be transported into stone by this spell). The caster must stand next to the stone into which he will meld himself, and the stone must be large enough to accommodate him; if it is not, the spell will also fail. The caster wil...\n\nWhile melded with the stone, the caster will be harmed by the following spells as indicated:\n\n**TABLE 328: MELD INTO STONE**  \n*Stone shape*: 4\u201316 h.p. damage  \n*Stone to flesh*: 4\u201332 h.p. damage, expelled from stone  \n*Transmute rock to mud*: Expelled from stone, save vs. spells or be killed\n\nThe spell requires a small piece of the type of stone into which the caster will meld himself, which is destroyed as the spell is cast.",
+      "school": "Alteration",
+      "range": "0",
+      "duration": "9\u201316 rounds",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Minute Meteors",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5256,
+      "description": "This spell allows the caster to create a number of tiny fireballs equal to his experience level, that can then be targeted at some enemy. They are treated as hurled missile weapons, thrown by the caster. The caster has a choice when it comes to the speed of firing the missiles: either 1 every 2 segments or 1 per round. Once chosen, the rate of fire cannot be changed, although the caster can stop the spell at any time.\n\nIf the slower rate of fire is chosen, the caster can, if he wishes, cast other spells before the minute meteors have all been shot, as long as they don\u2019t require intense concentration beyond their initial casting time. Each missile does 1\u20134 h.p. of damage and will set fire to flammable objects. A *dispel magic* spell cast upon the caster will automatically cancel any remaining meteors.\n\nThe spell requires a small pill of niter and sulfur mixed with tar, which is lost as the spell is cast, as well as a miniature golden tube which costs no less than 1,000 g.p. The tube itself is reusable.\n\nThis spell cannot be cast underwater.",
+      "school": "Evocation",
+      "range": "10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "One missile/level",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Monster Summoning I",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5257,
+      "description": "This spell will cause 2\u20138 monsters to appear at a spot selected by the magic-user, within 30\u2019 of his location when the spell is cast. They will appear suddenly, as if from thin air, and will attack his enemies (without explanation needed) or perform other services (which must be explained to them, thus requiring some means of communication which the spell itself does not supply). They will remain until slain, the combat ceases, or after 2 rounds plus 1 round per level of t...\n\n**TABLE 330: MONSTER SUMMONING I (DRY LAND)**  \nDie Roll | Good/Neutral Caster | Evil Caster  \n---|---|---  \n01\u201310 | Angel, Anima | Demon, Manes  \n11\u201320 | Bat, Giant | Bat, Giant  \n21\u201330 | Bowler | Bowler  \n31\u201340 | Bullywug | Hybsil  \n41\u201350 | Demon, Nupperibo | Demon, Nupperibo  \n51\u201360 | Goblin | Dwarf  \n61\u201370 | Hobgoblin | Elf  \n71\u201380 | Kobold | Gnome  \n81\u201390 | Orc | Halfling  \n91\u201395 | Rat, Giant | Rat, Giant  \n96\u201300 | Xvart | Half-elf\n\n**TABLE 331: MONSTER SUMMONING I (FRESH WATER)**  \n01\u201367 | Koalinth  \n68\u201300 | Nixie  \n\n**TABLE 332: MONSTER SUMMONING I (SALT WATER)**  \n01\u201350 | Koalinth  \n51\u201300 | Merman  \n\nThe spell requires a small bag and candle, which need not be lit, both of which are consumed by the spell.",
+      "school": "Conjuration/Summoning",
+      "range": "30\u2019",
+      "duration": "2 rounds + 1 round/level",
+      "areaOfEffect": "2\u20138 monsters",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Negative Plane Protection",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        },
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5258,
+      "description": "This spell opens up a conduit to the Positive Material Plane, allowing a single creature to be protected from the effect of level-draining undead (vampires, wights, etc.). If the protected creature is successfully attacked by any negative-energy undead creature, he is entitled to a saving throw vs. death magic. Success indicates that he takes normal (physical) damage, but no level-draining or similar effects take place. Failure indicates double hit point damage in add...\n\nThe spell dissipates once it is activated, whether or not the saving throw is successful. A flash of light and clap of thunder accompany the spell\u2019s effect. This spell cannot be cast while on the Negative Material Plane.",
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "1 turn/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "See below",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Neutralize Poison/Poison",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5259,
+      "description": "This spell allows the caster to completely detoxify any sort of venom in a single creature touched or \u00bd cubic foot per level; thus someone who has been stung by a giant scorpion could be completely healed of the effects of its poisonous sting (but not any other damage, say, from its pincers); touching the victim is required.\n\nIf cast on a poisonous creature, a \u201cto hit\u201d roll is required, but animals with venomous bites or stings will eventually regenerate their poisons (this process will take days, however).\n\nThe reverse of the spell, *poison*, allows the caster to inflict a poisonous attack on a victim by touch (again, a \u201cto hit\u201d roll may be required). If the victim fails a saving throw vs. poison, he or it will die. Naturally, creatures immune to poison will not be affected.\n\nUsing poison is an inherently evil act, and may have serious consequences for the alignment of any player who does so.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One creature or \u00bd cu. ft./level",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "See below",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Non-detection",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "mountebank",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        },
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5260,
+      "description": "This spell prevents detection by magical means. It affects one creature or object touched. Attempts to locate the creature or object via *detect evil*, *detect good*, *detect invisibility*, *ESP*, *clairaudience*, *clairvoyance*, *locate object*, *know alignment*, and similar spells will fail.\n\nThe creature or item is effectively \u201cinvisible\u201d to such detections for the duration.",
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "1 turn/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Paralyzation",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5261,
+      "description": "This spell causes the target creature or creatures to become paralyzed. A single creature may be targeted, or up to one creature per level of the caster, all of whom must be within a 20\u2019 \u00d7 20\u2019 area. The spell lasts until it is *dispelled*, *canceled*, or *discharged* by the caster.\n\nA saving throw is allowed, and any creature who makes their saving throw is unaffected. Paralyzed creatures can take no action but are fully aware of their surroundings.",
+      "school": "Enchantment/Charm",
+      "range": "10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "6 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Phantom Steed",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5262,
+      "description": "This spell brings into being a semi-real steed that can be ridden either by the caster himself or some other person for whom the caster specifically casts the spell. The steed itself appears black with a gray mane and tail, white eyes, and hooves that are semi-translucent and soundless. The phantom steed is uncanny, so normal animals will grow skittish and not approach it.\n\nIt has 12 hit points, and can move 40\u2019/round per level of the caster. It has tack and harness, but cannot carry saddlebags or any other sort of cargo; just the rider and what the rider himself has on his person.\n\n- At 8th level: traverse rough terrain.  \n- At 10th level: run across water.  \n- At 12th level: cross chasms as if on a bridge.  \n- At 14th level+: it can fly like a pegasus.\n\nIf cast underwater, the steed takes the form of a silver-black hippocampus and cannot fly.",
+      "school": "Conjuration/Summoning, Illusion/Phantasm",
+      "range": "0",
+      "duration": "6 turns/level",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Phantom Wind",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5263,
+      "description": "This spell allows the caster to create a gust of wind that behaves in all ways like an ordinary zephyr (it will blow papers, cause candles to sputter, move *cloudkills* and *fog clouds*, cause clothing and drapes to flutter, etc.), but cannot be felt by any creature. The wind will move in the direction chosen by the caster, at a rate of 10\u2019 per round, in a 10\u2019 wide zone, for 1 round per level of the caster. It can be used to move becalmed ships with sails, but only for the limited time indicated.\n\nThis spell cannot be cast underwater, save within the area of effect of an *airy water* spell.",
+      "school": "Alteration, Illusion/Phantasm",
+      "range": "10\u2019/level",
+      "duration": "1 round/level",
+      "areaOfEffect": "10\u2019 wide wind",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Planar Stability",
+      "caster": [
+        {
+          "class": "savant",
+          "level": 3
+        }
+      ],
+      "id": 5264,
+      "description": "This spell allows the caster to \u201cstabilize\u201d any one magical item for planar travel. The caster must touch the item in question, and only one item may be treated per spell; of course the spell may be cast multiple times, so long as it is cast on a different object each time. Any enchanted weapon or armor treated by the spell retains one \u201cplus\u201d that it would otherwise have lost moving from one plane to another. For example, a long sword +3, if taken to the Astral Plane, would...\n\nThe effect lasts for one week plus an additional week per caster level, in subjective time.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 week + 1 week/level",
+      "areaOfEffect": "One magical item",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Prayer",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5265,
+      "description": "This spell causes all friendly creatures within a 60\u2019 radius of the caster to gain a +1 bonus to all \u201cto hit\u201d rolls and saving throws, while all hostile creatures within the same area suffer a -1 penalty to the same. These effects last for the duration of the spell. If the caster is struck, the spell will be broken.\n\nThe spell requires the caster\u2019s holy symbol.",
+      "school": "Conjuration/Summoning",
+      "range": "0",
+      "duration": "1 round/level",
+      "areaOfEffect": "60\u2019 radius",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Protection from Fire",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5266,
+      "description": "This spell grants the recipient complete immunity from natural fire (such as torches, campfires, burning oil, bonfires, etc.), and gives a +4 bonus on saving throws vs. magical fire. In addition, any damage from magical fire will be reduced by half if the saving throw is failed, or reduced by 75% if the saving throw is made.\n\nThe spell requires a small piece of leather which has been soaked in flame-retardant solution (such as lime water or alum).",
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "1 turn + 1 round/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Remove Curse / Bestow Curse",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ],
+      "id": 5267,
+      "description": "This spell allows the caster to remove a curse that has been placed upon some person, thing, or place. Cursed magic items, such as cursed swords and the like, will not have their malefic effects permanently removed, but rather the possessor of such an item will be able to rid himself of it.\n\nThe reverse of the spell, *bestow curse*, allows the caster to call down a curse on someone by touch (a roll \u201cto hit\u201d may apply, and a successful saving throw vs. spells will negate the spell\u2019s effect). The effects of the curse can either be specified by the caster, or can be determined randomly:\n\n**TABLE 365: BESTOW CURSE**  \nDie Roll | Effect  \n---|---  \n01\u201306 | Random ability score is reduced to 3  \n07\u201313 | All \u201cto hit\u201d rolls and saving throws are made with a -4 penalty  \n14\u201319 | Every turn, victim has a 50% chance of dropping whatever he is carrying in his hand  \n20\u201326 | All gold and silver carried by the victim turns to dead leaves  \n27\u201332 | Invisible stalker begins hunting the victim  \n33\u201339 | One spell memorized per day goes off randomly at a friend; roll again if not a spellcaster  \n40\u201345 | One magic item animates and attacks the victim  \n46\u201352 | Double chance of wandering monsters until curse is lifted  \n53\u201358 | -25% to all NPC reaction and morale rolls  \n59\u201365 | Lose 1 pound/day (to 20% body weight), and 1\u20136 STR, CON, CHA  \n66\u201371 | Insomnia; lose 1 INT/WIS per day (min 3), then 1 DEX/day  \n72\u201378 | Insanity  \n79\u201384 | Stammering (-2d4 CON, must save to cast verbal spells)  \n85\u201391 | Deaf (cannot be cured by magic)  \n92\u201300 | Blind (cannot be cured by magic)  \n\nA bestowed curse lasts for 1 turn per caster level.",
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "One item, place, or creature",
+      "components": "V,S",
+      "castingTime": "5 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Remove Paralyzation / Cause Paralyzation",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5268,
+      "description": "This spell allows the caster to grant creatures in the target area another saving throw vs. any sort of paralyzation-inducing effect, such as a *hold person* spell or the attack of a corpse crawler. Up to 4 creatures can be so affected, as long as they are all within a 20\u2019\u00d720\u2019 area centered on a point 10\u2019 distant per experience level of the caster. If a single creature is to be affected, it gains a bonus of +3 to the new saving throw; 2 creatures get a +1 bonus.\n\nThe reverse of the spell, *cause paralyzation*, requires a successful \"to hit\" roll (using the cleric\u2019s holy symbol as the weapon), and requires a saving throw vs. spells. Failure indicates the target is completely paralyzed for 1\u20136 rounds plus 1 round per level of the caster.",
+      "school": "Abjuration",
+      "range": "10\u2019/level",
+      "duration": "See below",
+      "areaOfEffect": "See below",
+      "components": "V,S",
+      "castingTime": "6 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Resist Charm",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "druid",
+          "level": 6
+        }
+      ],
+      "id": 5269,
+      "description": "This spell allows the caster to create a sphere within which magical effects and spells such as *charm person*, *hypnotism*, and *friends* are weakened. All those within the area of effect get a bonus of +4 on their saving throws against such spells, and get a saving throw with no bonus against spells (or magical effects) which do not normally allow saving throws. This applies to verbal patter effects as well. The spell lasts for as long as the caster concentrates, plus one round per caster level.",
+      "school": "Abjuration",
+      "range": "0",
+      "duration": "Concentration + 1 round/level",
+      "areaOfEffect": "10\u2019 + 1\u2019/level radius",
+      "components": "V,S",
+      "castingTime": "4 segments",
+      "savingThrow": "See below",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Resist Water",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5270,
+      "description": "This spell provides a resistance to any sort of water-based attack or other harm to either the caster or some other person he touched. This resistance results in a reduction of -2 h.p. damage per die when under attack by water-based creatures such as water elementals. Damage from floods, being swept along a raging river, crashing on rocks in a small boat, and the like, is similarly reduced by -2 h.p. per die. The spell does not enable the target to actually breathe water, but for the duration of the spell he suffers no harmful effects of drowning. The subject must be able to breathe normally when the spell expires, however, or else the lack of oxygen will suddenly catch up to him and death will almost certainly ensue.",
+      "school": "Abjuration",
+      "range": "Touch",
+      "duration": "7\u201310 rounds",
+      "areaOfEffect": "One creature",
+      "components": "V,S",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Secret Page",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5271,
+      "description": "This spell allows the caster to disguise the true nature of some piece of paper, vellum, papyrus, etc., up to 2\u2019\u00d72\u2019 in size. A page in a spell book could, thus, be disguised as a woodcut, a treasure map could be made to look like a children\u2019s game board, or a page in an accountant\u2019s ledger could appear as an essay on the mating habits of butterflies. Spells such as *confuse languages* or *explosive runes* can be cast upon the secret page. The caster can, by the issuance of a command word, reveal the true nature of the secret page, and then restore the decoy contents, or can permanently remove the secret page\u2019s enchantment. *Dispel magic* will remove the dweomer if it is successful; failure will result in the obliteration of the page entirely. Otherwise the enchantment will remain. The essence of a will-o-wisp (or boggart) will also reveal the true nature of a secret page. The page itself will radiate magic faintly if detected for. The material component is a small piece of onion skin, which is destroyed as the spell is cast.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "Until dispelled",
+      "areaOfEffect": "One written page",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Sepia Snake Sigil",
+      "caster": [
+        {
+          "class": "magic-user",
+          "level": 3
+        }
+      ],
+      "id": 5272,
+      "description": "This spell invokes a dark brown force in the form of a serpent. This serpent force will attack the nearest living creature (the caster being excepted, of course), as if it were a d8 monster with a number of hit dice equal to the level of the caster. If the serpent hits, the target will become enveloped in a glowing amber force field, in which it will be held in perfect stasis, unaware of its surroundings or the passage of time, and completely incapable of being moved. Only a *dispel magic* spell will cancel the effect. If it misses, the snake will disappear with a loud pop and a puff of smoke.\n\nThe spell can either be cast directly at a target (range 5') or as a written sigil that protects an object, written page, etc. If the spell is used in the latter fashion, the magic will be activated by either handling or gazing upon the sigil.\n\nThe spell requires 100 g.p. worth of powdered amber, a snake scale, and a small sample of mushroom spores.",
+      "school": "Conjuration/Summoning",
+      "range": "5\u2019",
+      "duration": "See below",
+      "areaOfEffect": "One sigil",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "See below",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Shout",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 4
+        }
+      ],
+      "id": 5273,
+      "description": "This spell allows the caster to issue forth an incredibly loud noise beginning at his mouth and forming a cone some 30\u2019 long and 10\u2019 wide at its end. Any creature within the area of effect must make a saving throw vs. spells; failure indicates it is deafened for 2\u201312 rounds and must take 2\u201312 h.p. of damage. Anything within the area that might normally be disrupted or destroyed by loud noise (crystals, glass, wall of ice, etc.) will be shattered.\n\nThe spell can only be used once per day; more than that will deafen the caster permanently. The spell requires a bit of honey and citric acid, which are destroyed, and a small cone of natural horn, which survives the casting of the spell.\n\nThis spell cannot be cast underwater, save within the area of effect of an *airy water* spell.",
+      "school": "Evocation",
+      "range": "0",
+      "duration": "Instantaneous",
+      "areaOfEffect": "30\u2019 cone",
+      "components": "V,M",
+      "castingTime": "1 segment",
+      "savingThrow": "\u00bd",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Snare",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5274,
+      "description": "This spell enables the caster to create an enchanted snare that will remain undetected 90% of the time, although magic such as *detect traps* will act normally. The spell requires some sort of rope-like object (vine, rawhide, etc.), which will be formed into a loop that blends into the ground. When entered, the loop will instantly constrict; if there was a sapling or other appropriate tree, the spell will cause it to bend down and then snap upwards, carrying the trapped creature upward...\n\nThe strength required to break free of the snare depends on how much time has passed since it was activated: a strength of 23 is needed the first hour, 22 the next, 21 the next, and so forth. After 12 hours, the snare will lose its power completely, and anything trapped will be able to free itself. The spell requires snake skin and sinew, which are woven into the substance of the snare, and thus lost once the spell is cast.",
+      "school": "Enchantment/Charm",
+      "range": "Touch",
+      "duration": "See below",
+      "areaOfEffect": "2\u2019 diameter + 2\u201d/level",
+      "components": "V,S,M",
+      "castingTime": "3 rounds",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Song of Combat",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5275,
+      "description": "This spell raises the experience level of any single fighter or cavalier (or sub-class) by one for the duration of the spell. This person must be named by the caster and within 60\u2019 at the time of the incantation. Hit points are temporarily increased during this time, and any damage taken while the spell is in effect will be taken first from those additional and temporary hit points.\n\nThe effect lasts for as long as the caster maintains the incantation, plus a like amount of time once the incantation is completed. In addition, any fighters or cavaliers (or sub-classes) within 120\u2019 get a +5% bonus to their morale while the incantation is being sung, but not afterwards.",
+      "school": "Enchantment/Charm",
+      "range": "60\u2019 (target), 120\u2019 (aura)",
+      "duration": "Concentration + same amount after",
+      "areaOfEffect": "One named target; morale boost for 120\u2019 radius",
+      "components": "V",
+      "castingTime": "6 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Speak with Dead",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        }
+      ],
+      "id": 5276,
+      "description": "This spell allows the caster to converse with some being who has passed beyond the mortal plane, as long as some portion of their remains are at hand to act as a focal point. The higher the level of the caster, the more effective the spell, both in terms of how long ago the subject can have died, as well as the length of the questioning allowed:\n\n**TABLE 369: SPEAK WITH THE DEAD**  \n| Experience Level | How Long Ago Deceased | Duration | Max. Questions |  \n|------------------|------------------------|----------|----------------|  \n| 5\u20136              | 1 week                 | 1 round  | 2              |  \n| 7\u20138              | 1 month                | 3 rounds | 3              |  \n| 9\u201312             | 1 year                 | 1 turn   | 4              |  \n| 13\u201315            | 10 years               | 2 turns  | 5              |  \n| 16\u201320            | 100 years              | 3 turns  | 6              |  \n| 21+              | 1,000 years            | 1 hour   | 7              |\n\nThe caster must be able to understand the language of the dead creature, and it will not possess any information in death that it did not possess in life. The caster requires his holy symbol and incense; the latter is consumed in the casting of the spell.\n\nThis spell cannot be cast underwater, save within the area of effect of an *airy water* spell.",
+      "school": "Necromantic",
+      "range": "10\u2019",
+      "duration": "See table",
+      "areaOfEffect": "One corpse",
+      "components": "V,S,M",
+      "castingTime": "1 turn",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Spectral Force",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5277,
+      "description": "This spell creates an illusion that contains visual, audible, olfactory, and thermal elements; it is thus so convincing that creatures believing it to be real will suffer actual damage from it, if appropriate. Any image desired by the caster can be created, and the image can move and react and make sounds including actual speech. The caster need only concentrate for 5 segments, after which time the illusion will run on its own for 1 round per level of the caster.\n\nCreatures who actively attempt to disbelieve the image gain a saving throw vs. spells, and if they are successful, they will see the illusion for what it is and will be immune to any further damage from it. Companions of those who disbelieve, and who can be told of the true nature of the illusion, get a saving throw with a +4 bonus.\n\nThe illusion lasts as long as the caster continues to concentrate, plus one additional round per caster level; the illusion will also end if it fails to react realistically (i.e., an illusion of an orc which does not react when it is hit by an axe). The spell requires a small bit of fleece and a bit of sand, which are destroyed as the spell is cast.",
+      "school": "Illusion/Phantasm",
+      "range": "60\u2019 + 10\u2019/level",
+      "duration": "Concentration + 1 round/level",
+      "areaOfEffect": "10\u2019 cube/level",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "Special",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Spirit Gift II",
+      "caster": [
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5278,
+      "description": "This spell invokes a random Wind Spirit (East, South, West, or North) with the following effects:\n- East: 75 mph wind deals 5\u201330 damage, knocks back, and topples structures.\n- South: 50 mph heat wind forces saves or -1 STR/CON, -2 to hit/damage for 5\u201330 rounds.\n- West: 35 mph gale forces save or causes fear.\n- North: 25 mph icy wind slows movement and melee attacks by half.\nDirection is chosen by the caster. A non-natural creature feather is required and destroyed.",
+      "school": "Evocation",
+      "range": "0",
+      "duration": "6 turns",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Starshine",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5279,
+      "description": "This spell creates a cool, magical light resembling moonlight or starlight. It illuminates as a torch but doesn't spoil infravision or harm dark-dwelling creatures. It can be cast into water or on objects. Very useful in subterranean or nocturnal conditions.",
+      "school": "Alteration",
+      "range": "10\u2019",
+      "duration": "1 turn + 1 round/level",
+      "areaOfEffect": "10\u2019 cube/level",
+      "components": "V,S",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Stone Door",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5280,
+      "description": "This spell allows the caster to turn a vertical section of stone into a functioning door. The stone must be large enough to support a full-sized door (at least 5' wide and 7' tall), and the spell will not work on stone which has already been enchanted. The door so created will have a natural AC of 4, 30 h.p., and can be fitted with hinges, locks, and other mechanisms as desired.\n\nThe spell requires a small rectangular chip of stone, and a tiny brass hinge, both of which are consumed in the casting.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn/level",
+      "areaOfEffect": "See below",
+      "components": "V",
+      "castingTime": "\u00bd segment",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Stone Shape",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 5
+        }
+      ],
+      "id": 5281,
+      "description": "This spell allows the caster to alter the form of any piece of stone. Fine detail is not possible by means of the spell (so creating realistic sculptures is not within its powers), but it can easily be used to create tunnels, doors, pits, walls, chests, bowls, etc. It can also be used to create a secret door in a stone wall. A bit of clay is used to create an image of the desired shape of the stone and then touched to it; the clay is then lost. A holy symbol is only needed if a druid casts the spell.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "Permanent",
+      "areaOfEffect": "1 cu. ft./level",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Suggestion",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        },
+        {
+          "class": "magic-user",
+          "level": 3
+        },
+        {
+          "class": "mountebank",
+          "level": 3
+        }
+      ],
+      "id": 5282,
+      "description": "This spell allows the caster to make a proposal in such a way that the listener will be disposed to agree to it. The listener, of course, must be able to understand what is being said. The listener gets a saving throw vs. spells to resist the suggestion, but if it is a particularly reasonable-sounding proposition, the save is made at a penalty of -1 or even -2 (at the game master\u2019s discretion).\n\nThe suggestion can never be obviously harmful, deadly, or against the interests of the hearer, but (for instance) a suggestion that a giant agree to a truce to help an adventuring party attack a nearby orc lair, with the giant getting a share of the loot, is certainly within the bounds of the spell. A maximum of two short sentences can be used to make the suggestion. It requires a snake\u2019s tongue and either a bit of honeycomb or sweet oil, which are lost as the spell is cast.",
+      "school": "Enchantment/Charm",
+      "range": "30\u2019",
+      "duration": "6 turns + 1/level",
+      "areaOfEffect": "One creature",
+      "components": "V,M",
+      "castingTime": "3 segments",
+      "savingThrow": "Negates",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Summon Insects",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5283,
+      "description": "This spell allows the druid to call forth a swarm of biting, pinching, and stinging insects to beset an enemy. 70% of the time, these will be flying insects (flies, bees, wasps, etc.), while 30% of the time they will be crawling insects (beetles, ants, etc.). The creature targeted by the caster will suffer 2 h.p. of damage per round, and will be incapable of any action other than attempting to drive off or escape the insects.\n\nThe target can be switched from one creature to another, but the insects will take 1 round to switch their attention. The flower petal and mud or clay required for the spell are used up in the casting.\n\nThis spell cannot be cast underwater.",
+      "school": "Conjuration/Summoning",
+      "range": "30\u2019",
+      "duration": "1 round + 1 round/level",
+      "areaOfEffect": "See below",
+      "components": "V,S,M",
+      "castingTime": "1 round",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Tree",
+      "caster": [
+        {
+          "class": "druid",
+          "level": 3
+        }
+      ],
+      "id": 5284,
+      "description": "This spell allows the caster to cause any one tree to become animate and obey his commands. The tree must remain within range at all times or it will automatically root itself and become immobile. It will do so at the end of the duration of the spell in any case.\n\nThe size of the tree, and its concomitant abilities, should be determined randomly:\n\n**TABLE 282: ANIMATE TREE**  \n| Die Roll | Size | Hit Dice | Damage |  \n|----------|------|-----------|--------|  \n| 1\u20133      | 12\u2019  | 7d10      | 2\u201316   |  \n| 4\u20136      | 14\u2019  | 8d10      | 2\u201316   |  \n| 7\u20138      | 16\u2019  | 9d10      | 3\u201318   |",
+      "school": "Alteration",
+      "range": "10\u2019/level",
+      "duration": "1 round/level",
+      "areaOfEffect": "One tree",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Water Breathing / Air Breathing",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        },
+        {
+          "class": "druid",
+          "level": 3
+        },
+        {
+          "class": "mountebank",
+          "level": 3
+        }
+      ],
+      "id": 5285,
+      "description": "This spell enables the caster to enable one creature touched to breathe water as if it were air. The reverse of the spell, *air breathing*, allows those who can only breathe water to survive in the air. If cast by a druid, the spell requires his holy symbol be used. If cast by anyone else, the spell requires a short straw or reed stalk, which is destroyed as the spell is cast.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "6 turns/level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "5 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Water Walk",
+      "caster": [
+        {
+          "class": "cleric",
+          "level": 3
+        },
+        {
+          "class": "mystic",
+          "level": 3
+        }
+      ],
+      "id": 5286,
+      "description": "This spell allows the caster to enable one or more creatures to walk upon the surface of any sort of water as if it were solid ground (choppy seas are treated as rough terrain, etc.). The caster is able to affect 1 man-sized creature per experience level above 4th (treat horses and centaurs as 6 creatures, large-sized creatures as 2, halflings/gnomes/etc. as \u00bd, brownies/pixies/etc. as \u00bc). The spell will last for 1 turn plus 1 turn per level, and requires a bit of cork (which is des...\n\nIf cast underwater, this spell will cause the target(s) to immediately shoot to the surface.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "1 turn + 1 turn/level",
+      "areaOfEffect": "One creature/level",
+      "components": "V,S,M",
+      "castingTime": "7 segments",
+      "savingThrow": "None",
+      "source": "ADD_Core_Rulebook"
+    },
+    {
+      "name": "Weakness",
+      "caster": [
+        {
+          "class": "bard",
+          "level": 3
+        }
+      ],
+      "id": 5287,
+      "description": "This spell saps the strength score of a single person touched. The caster must make a successful \u201cto hit\u201d roll, and the target must fail a saving throw vs. spells. The number of strength points lost depends on the target\u2019s class:\n\n**TABLE 389: WEAKNESS**  \nClass (Incl. Sub-classes) | Strength Decrease  \n---|---  \nBard | 1\u20136  \nCleric | 1\u20136  \nFighter/Cavalier* | 1\u20138  \nMagic-user | 1\u20134  \nThief | 1\u20136  \n\nStrength can never be decreased beyond the normal minimums for race, class, and gender. The spell requires a piece of singed bread soaked in milk. The component is destroyed as the spell is cast.\n\n*If a fighter or cavalier has exceptional strength, each point lost removes 10 points of his exceptional strength (the last 10 or less counts as a full point lost). For instance, if a fighter with a strength score of 18/27 finds his ability decreased by 5 as a result of this spell, he ends up with only 16 strength for its duration.",
+      "school": "Alteration",
+      "range": "Touch",
+      "duration": "6 turns / level",
+      "areaOfEffect": "One creature",
+      "components": "V,S,M",
+      "castingTime": "3 segments",
+      "savingThrow": "No effect",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    },
+    {
+      "name": "Wraithform",
+      "caster": [
+        {
+          "class": "illusionist",
+          "level": 3
+        }
+      ],
+      "id": 5288,
+      "description": "This spell allows the caster to take on an insubstantial, wraith-like form. While in this form, the caster and all his possessions are invulnerable to attack by non-magical weapons, but creatures which themselves can only be hit by enchanted weapons, plus those on the Ethereal Plane, can attack successfully. Undead will ignore those in wraithform, but those of type XII and above are entitled to a saving throw vs. spells with a -4 penalty to recognize the caster for one of the living.\n\nThose in wraithform can move through cracks and holes, and can end the spell at will; otherwise it will end after 2 rounds per level of the caster, or when a *dispel magic* or *dispel illusion* spell is cast upon the caster. The spell requires a small piece of gauze and a bit of smoke.",
+      "school": "Alteration, Illusion/Phantasm",
+      "range": "0",
+      "duration": "2 rounds / level",
+      "areaOfEffect": "Self",
+      "components": "V,S,M",
+      "castingTime": "1 segment",
+      "savingThrow": "None",
+      "source": "ADD_SPELLS_ONLY2.pdf"
+    }
+  ]
+}
